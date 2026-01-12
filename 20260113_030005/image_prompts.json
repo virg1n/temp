@@ -1,0 +1,50 @@
+{
+  "topic": "The Captain's Daughter in One Minute (Summary)",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art cutscene. A youthful anthropomorphic catfolk nobleman in 18th-century Russian officer's uniform stands resolute. Behind him, the stylized, dramatic silhouette of a massive, smoke-filled battlefield or fortress under dark, stormy skies. Limited color palette, visible pixels, cinematic framing. Dramatic mood. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A youthful anthropomorphic catfolk nobleman in 18th-century Russian officer's uniform stands resolute. Slow, dramatic camera push-in (dolly zoom) on the officer's determined catfolk face. Subtle smoke particles drift across the background battlefield silhouette. Limited color palette, visible pixels. NO TEXT."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art cutscene. Interior of a dimly lit, rustic 18th-century inn. Two anthropomorphic catfolk figures: a young officer (Grinev) handing a thick, patched sheepskin coat (tulup) to a rough-looking, bearded peasant catfolk (Pugachev). Snow is visible outside a small window. Focus on the exchange of the coat. Cinematic, limited color palette. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Interior of a dimly lit, rustic 18th-century inn. The young officer (Grinev) slowly extends the sheepskin coat to the peasant catfolk. Subtle parallax scrolling effect on the background wall details. Gentle falling snow effect visible outside the window. Slow, slight camera tilt up to emphasize the exchange. NO TEXT."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art cutscene. A dramatic scene set in the dusty, isolated courtyard of Belogorsky Fortress. Anthropomorphic catfolk figures: Grinev (officer) smiling warmly at Masha (young woman in simple historical dress). In the foreground, the scowling officer Shvabrin watches them, gripping his sword hilt. Visible pixels, limited palette, serious mood. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A dramatic scene in Belogorsky Fortress courtyard. Grinev and Masha stand close. Shvabrin subtly shifts his weight and tightens his grip on his sword hilt. Slow camera pan across the scene, emphasizing the distance and tension between the couple and Shvabrin. Dusty particle effects drift in the air. NO TEXT."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art cutscene. Extreme dramatic tension. The chaos of a brutal assault on a wooden fortress (Belogorsky). Anthropomorphic catfolk rebels surge forward. In the center, two figures, the Commandant and his wife (elderly catfolk), are tragically depicted hanging from a crude wooden beam. Blood-red limited color palette dominates the scene. Cinematic, visible pixels. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Extreme dramatic tension. The chaos of the fortress assault. The bodies of the hanged catfolk commandant and wife sway slightly in the wind. Quick, sharp camera zoom out to show the overwhelming number of pixelated rebel catfolk flooding the yard. Smoke and fire particle effects flicker intensely. NO TEXT."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art cutscene. A tense, dramatic confrontation. Anthropomorphic catfolk officer Grinev kneels defiantly before Pugachev, who is seated on a crude, improvised throne. Pugachev's hand is extended, expecting submission, but Grinev refuses. Visible pixels, limited palette, focus on facial expressions and dramatic lighting. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A tense, dramatic confrontation. Grinev kneels defiantly. Pugachev slowly lowers his extended hand, a realization dawning on his catfolk face (recognition). Subtle flickering torchlight effect illuminates the figures. Slow camera arc around the scene, emphasizing the high stakes power dynamic. NO TEXT."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art cutscene, split focus. On the left, the resolute anthropomorphic catfolk officer Grinev stands, sword drawn. On the right, Masha (catfolk) is visible through the bars of a dark, stylized cell, guarded menacingly by the treacherous Shvabrin (catfolk officer now wearing rebel insignia). The composition emphasizes the impossible choice. Dark, dramatic lighting. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene, split focus. Grinev stands resolute. The camera slowly focuses on Masha in the cell; she subtly shifts away from the looming shadow of Shvabrin. A subtle shimmering effect highlights Grinev's sword, contrasting with the darkness of the prison side. Slow, deliberate camera pan from left (duty) to right (love). NO TEXT."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art cutscene. A paradoxical alliance under a dark sky. Anthropomorphic catfolk Grinev (loyalist officer) stands beside Pugachev (rebel leader). Pugachev gestures dramatically toward a small, rough detachment of catfolk cavalry or soldiers waiting in the background. Cinematic, limited color palette, emphasizing the strange bond of honor. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A paradoxical alliance. Pugachev turns to Grinev and slowly nods, offering assurance. Pugachev's hand sweeps wide as he gestures toward the rebel troops. Subtle wind effects rustle the banners and uniforms. Slow camera track backward, revealing the full scene and the waiting soldiers. NO TEXT."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art cutscene, juxtaposition. Left side: Anthropomorphic catfolk officer Grinev is being led away in chains by Imperial soldiers, looking distraught. Right side: Masha (catfolk) kneels dramatically in a magnificent, opulent 18th-century palace throne room, pleading before a majestic, powerful Empress Catherine II (catfolk in full regalia). Grand scale, focus on emotional contrast. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene, juxtaposition. Grinev is slowly marched off, his shackles clanking (implied motion). The scene transitions via a quick wipe/flash to Masha kneeling before the Empress. Empress Catherine II subtly raises her hand in acknowledgment. Slow, dramatic camera zoom onto the Empress's face, showing her consideration. NO TEXT."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art cutscene, highly symbolic. Anthropomorphic catfolk Grinev and Masha stand together, embracing, facing a bright horizon (symbolizing freedom/future). Above them, stylized as a shadow in the sky, is the recognizable, rugged face of Pugachev (catfolk rebel), representing the paradox of mercy and honor. Visible pixels, limited yet rich color palette. Cinematic final shot. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene, highly symbolic. Grinev and Masha embrace. The camera slowly pulls back. The ghostly, stylized image of Pugachev in the background subtly fades in and out. Subtle light rays shine from the horizon. Gentle parallax movement on the background landscape, suggesting the passage of time and a lasting historical shadow. NO TEXT."
+    }
+  ]
+}

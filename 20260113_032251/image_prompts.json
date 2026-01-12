@@ -1,0 +1,50 @@
+{
+  "topic": "Queen of England who loved Corgis",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "A dramatic, cinematic 16-bit pixel art scene. A majestic, stern-faced anthropomorphic Catfolk Queen, dressed in elaborate historical British royal attire and wearing a jeweled crown, stands centered in a vast, cold throne room. Her profile is illuminated by a shaft of dramatic light. At her feet, highlighted prominently, sits a loyal Corgi, looking up at her. Visible pixels, limited color palette, serious mood. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The Catfolk Queen stands in a massive, dimly lit throne room, flanked by heavy velvet drapery (2.5D parallax). A loyal Corgi rests patiently at her feet. Gentle camera micro-shake and a slow, subtle dolly-in. Dynamic shadows shift slightly. Micro-animations: Queen's breathing, slight flutter of her royal cloak, subtle tail sway of the Corgi, eye glint. Hero motion: A faint, shimmering light source (like a distant chandelier) subtly pulses and reflects off her jewels and the Corgi's fur. Loopable, cinematic, no text."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Cinematic 16-bit pixel art. A lone anthropomorphic Catfolk Queen, wearing a simple but formal historical gown, stands silhouetted against a vast, ornate palace window overlooking a stormy, turbulent cityscape. The palace interior is cold and empty, emphasizing isolation and the weight of ruling. Dramatic, serious mood, visible pixels, limited color palette. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The Catfolk Queen stands alone by a massive arched window in a high, cold palace chamber (2.5D parallax). Heavy rain streaks down the glass outside. Slow camera tilt up, emphasizing the height and isolation. Cinematic atmosphere: Subtle flicker of distant lightning illuminates the room momentarily, causing shadows to jump. Micro-animations: Queen's heavy breathing, subtle movement of her tail, rain particles drifting outside the window, gentle sway of heavy curtains. Hero motion: The turbulent storm clouds outside continuously churn and move across the distant skyline. Loopable, dramatic, no text."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Dramatic 16-bit pixel art. A grand, icy-looking palace hall. An anthropomorphic Catfolk Queen is standing formally, but her serious demeanor is momentarily broken. Two energetic Corgis have burst into the frame, one tugging playfully at the hem of her historical gown, demanding attention. The scene captures the contrast between royal formality and animal chaos. Visible pixels, limited palette, cinematic lighting. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A Catfolk Queen stands stiffly in an ornate, cold marble palace receiving room (2.5D parallax). The camera executes a slow, subtle pan left. Cinematic atmosphere: Dust motes drift in a strong beam of sunlight. Micro-animations: Queen blinks slowly, subtle twitch of her cat ears, slight ruffle of her dress fabric. Hero motion: Two energetic Corgis continuously hop, wiggle, and trot around her feet in a tight, looping circle, their tails wagging enthusiastically, constantly breaking the stillness of the scene. Loopable, stylized motion, no text."
+    },
+    {
+      "id": 4,
+      "image_prompt": "16-bit pixel art cutscene frame depicting excessive luxury. A Catfolk Chef (wearing historical kitchen whites and a toque) is meticulously plating gourmet food (steak, chicken breast, rabbit) onto a silver platter, intended for the royal dogs. A plump Corgi waits patiently nearby, its eyes fixed on the food. Highly detailed food sprites, visible pixels, warm kitchen lighting contrast with the cold palace setting. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A bustling but meticulous palace kitchen corner (2.5D parallax with pots and shelves in foreground). A Catfolk Chef is carefully slicing a piece of meat. Slow, gentle dolly-in. Cinematic atmosphere: Steam gently rises and drifts from a simmering pot on the stove, illuminated by warm fireglow. Micro-animations: Chef's breathing, subtle movement of the knife handle, Corgi's ears twitching, steam rising continuously. Hero motion: The Chef continuously and rhythmically chops ingredients on a cutting board, creating a precise, looping action. Loopable, stylized motion, no text."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Dramatic 16-bit pixel art. An intimidating scene in a high-ceilinged palace corridor. The anthropomorphic Catfolk Queen, looking exceptionally stern and protective, stands over a small, scared-looking Catfolk servant who has clearly committed a minor blunder (perhaps tripping near a dog). At the Queen's feet, safe but prominent, is a Corgi. The Queen's posture conveys absolute authority and fury regarding the dog's safety. Visible pixels, limited palette, cinematic composition. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A formal, echoing palace corridor (2.5D parallax with pillars/statues in the background). The Catfolk Queen glares intensely at a retreating, nervous Catfolk servant. Slow, subtle pan right, following the servant's retreat. Cinematic atmosphere: Long, deep shadows shift slightly as if from a passing cloud outside. Micro-animations: Queen's intense stare (subtle eye movement), rigid posture and slight breathing, Corgi's tail giving a small, continuous, nervous twitch. Hero motion: The servant performs a continuous, subtle, nervous shuffling retreat, glancing fearfully back at the Queen. Loopable, dramatic, no text."
+    },
+    {
+      "id": 6,
+      "image_prompt": "16-bit pixel art, intimate royal scene. The anthropomorphic Catfolk Queen is seated comfortably in a lush, historical palace garden. She is gently petting two distinct dogs: a traditional Corgi and a slightly longer-bodied 'Dorgi' (Corgi-Dachshund mix). The scene emphasizes her personal involvement in their breeding. Historical attire, visible pixels, soft natural light. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The Catfolk Queen is seated on a stone bench in a meticulously manicured royal garden (2.5D parallax with flowers and a fountain). Gentle camera tilt down, focusing on the dogs. Cinematic atmosphere: Sunlight dapples through the leaves, creating shifting light patterns on the ground. Micro-animations: Queen's finger gently stroking the dog's head, subtle swaying of nearby tall flowers, continuous gentle breathing, slight ear flick of the Catfolk. Hero motion: A Corgi and a Dorgi continuously nudge their heads affectionately against the Queen's hands, seeking attention in a synchronized, looping movement. Loopable, tranquil, no text."
+    },
+    {
+      "id": 7,
+      "image_prompt": "A surreal, cinematic 16-bit pixel art scene emphasizing scale. The anthropomorphic Catfolk Queen stands smiling faintly amidst a vast, overwhelming number of Corgis (dozens of them) swarming happily around her feet in a palace courtyard. The sheer quantity of dogs should feel stylized and impressive. Historical attire, visible pixels, limited color palette, dramatic scale. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The Catfolk Queen stands centered in a huge, open palace lawn. The camera executes a slow, subtle dolly-out to reveal the immense scale. Cinematic atmosphere: A gentle breeze causes the Queen's hair and clothing to subtly flutter. Micro-animations: Queen blinks, subtle movement of her tail, grass swaying slightly. Hero motion: The large group of Corgis continuously move and mill about in a dense, looping cluster around her legs, creating a low, constant wave of movement and motion. Loopable, visually dense, no text."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Intimate and soft 16-bit pixel art scene. The anthropomorphic Catfolk Queen, wearing a simple nightgown or dressing robe (no crown), sits quietly in a dimly lit, plush private chamber. Her royal facade is absent. She is gently holding a Corgi on her lap, gazing down at it with genuine, unfiltered affection. Warm, soft lighting (candlelight implied). Visible pixels, serious but tender mood. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The Catfolk Queen sits in a large, dimly lit private sitting room, firelight casting warm shadows (2.5D parallax with furniture and fireplace). Gentle handheld micro-shake camera movement. Cinematic atmosphere: Firelight dynamically flickers, causing shadows and highlights to dance gently on the walls and her face. Micro-animations: Queen's gentle breathing, slow blink, gentle motion of her hand petting the Corgi, Corgi's ears twitching. Hero motion: The Corgi on her lap continuously settles deeper into her embrace, emitting a small, looping sigh/stretch motion. Loopable, intimate, no text."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Somber, cinematic 16-bit pixel art scene. A vast, historically rich room in a castle, now completely empty and silent. The Queen's absence is palpable (an empty chair or throne is visible). The lighting is cold and muted. The only sign of life is a small group of Corgis huddled together near the empty spot, looking mournful. Visible pixels, limited, somber color palette. NO TEXT.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A grand, formal drawing-room in the castle, now shrouded in cold, muted light (2.5D parallax with heavy drapery and large furniture). Slow, mournful dolly-out, revealing the emptiness of the chamber. Cinematic atmosphere: Fine dust motes drift slowly through the air, emphasized by a single, weak beam of light. Micro-animations: Subtle sway of a hanging banner or tapestry, dust particle drift, very slow movement of a Corgi's ear. Hero motion: The small group of Corgis huddled together continuously shift their weight and look around the empty room, as if searching for their missing owner, their small movements echoing the loud silence. Loopable, profoundly quiet and dramatic, no text."
+    }
+  ]
+}
