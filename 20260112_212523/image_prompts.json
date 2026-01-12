@@ -1,0 +1,41 @@
+{
+  "topic": "Чингисхан",
+  "prompts": [
+    {
+      "id": 1,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. Dramatic high-angle shot of a powerful Catfolk Khan, dressed in ornate historical Mongolian armor and furs, standing triumphantly on a towering cliff overlooking an immense, stylized map of the world. The vast steppe empire stretches infinitely into the hazy, limited-palette horizon, symbolizing unprecedented scale. Serious mood. Visible pixels. No text."
+    },
+    {
+      "id": 2,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. A dramatic, low-light scene on the unforgiving Great Steppe. A young, ragged Catfolk boy (Temujin), dressed in patched nomadic clothing, huddles miserably and alone in the dirt beside a meager, smoking fire. Sparse, harsh vegetation and a vast, cold, limited-palette landscape dominate the background. Visible pixels. Serious mood. No text."
+    },
+    {
+      "id": 3,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. Intense, dramatic action scene set on the dusty Steppe. A determined young adult Catfolk (Temujin) in nomadic attire stands ready, drawing a taut recurve bow toward a collapsing Catfolk character in the immediate foreground, who is falling near a stolen horse. Focus on the moment of lethal decision and confrontation. Limited color palette, visible pixels. Serious mood. No text."
+    },
+    {
+      "id": 4,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. A grand, dramatic scene of unification (Khuraltai). The powerful Catfolk Khan (Genghis) stands high on a raised earthen platform, wearing magnificent historical Mongolian armor and a majestic helmet. He raises a ceremonial standard, addressing an immense, unified crowd of Catfolk warriors stretching into the background. Dramatic, cinematic lighting emphasizes the moment of ascension. Limited color palette, visible pixels. No text."
+    },
+    {
+      "id": 5,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. Dynamic, dramatic scene of elite Catfolk cavalry. A tightly packed formation of highly disciplined Catfolk archers, wearing historical Mongolian light armor, gallops at breakneck speed across a vast, dusty, arid desert. Emphasis on rapid movement, endurance, and expert horsemanship. Limited color palette, visible pixels. No text."
+    },
+    {
+      "id": 6,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. A dramatic, apocalyptic scene of invasion. A massive wave of Catfolk cavalry, appearing like a dark, relentless storm cloud, crests a hill and descends upon a heavily fortified, stylized medieval city. Smoke, dust, and chaos fill the limited-palette sky, emphasizing the overwhelming force and destruction. Visible pixels. Serious mood. No text."
+    },
+    {
+      "id": 7,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. Dramatic juxtaposition scene. On the left side, a stylized medieval city burns violently, reduced to rubble, signifying resistance and destruction. On the right side, the same Catfolk soldiers stand guard over a line of submissive, peaceful Catfolk civilians, representing protection and law. A stark visual contrast between ruin and order. Limited color palette, visible pixels. Serious mood. No text."
+    },
+    {
+      "id": 8,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. Extreme wide shot emphasizing scale. A powerful Catfolk Khan, wearing full historical regalia, stands small against an impossibly vast, unbroken panoramic landscape that incorporates diverse biomes—snowy mountains, green steppes, arid deserts, and forests—all merging into one continuous domain. The scene visually represents the record-breaking size of the empire. Dramatic lighting, limited color palette, visible pixels. No text."
+    },
+    {
+      "id": 9,
+      "prompt": "Cinematic 16-bit pixel art, Retro SNES RPG style. A dramatic, central portrait of the aging Catfolk Khan, armored and stern, symbolizing his paradoxical legacy. He is flanked by two contrasting elements: on one side, symbols of brutal conquest (a ruined, burning fortress); on the other side, symbols of order and connectivity (a Catfolk courier rider galloping fast along a structured road, representing the Yam postal system and trade). Limited color palette, visible pixels. Serious mood. No text."
+    }
+  ]
+}
