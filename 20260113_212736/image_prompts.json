@@ -1,0 +1,80 @@
+{
+  "topic": "The Imposter recognized by the whole country (False Dmitry I.)",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Cinematic, dramatic shot. A solitary catfolk figure (Lzhedmitry I) wearing opulent Muscovite Tsar robes stands in a vast, dimly lit throne room. He looks intensely forward, slightly haunted. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Cinematic slow dolly-in towards the catfolk Tsar (Lzhedmitry I) in Muscovite robes in a vast, dim throne room. The foreground shows flickering candlelight from unseen candelabras (dynamic light). Subtle dust motes drift across the light beams (particles). The Tsar catfolk breathes visibly, his tail sways slowly, and his head performs a slight, contained nod of deep contemplation (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Dramatic low-key lighting. An older, powerful catfolk figure (Boris Godunov) sits heavily on a massive, ornate wooden throne. His expression is strained and deeply worried. The background shows a large, stormy window hinting at political chaos outside. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow, uneasy pan across the ornate throne room, emphasizing the isolation of the Tsar catfolk (Godunov). Heavy, flickering torchlight casts long, shaky shadows across the walls. Outside the large window, swirling dust and visual chaos are visible (2.5D parallax). Godunov's heavy fur collar subtly rises and falls with his troubled breathing. His hand, holding the scepter, trembles slightly (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Highly dramatic reveal. A mysterious catfolk figure (Dmitry) emerges from thick, atmospheric ground fog in a desolate, dark landscape (possibly ruins or a forest edge). Strong backlight creates a shadowy, ghostly silhouette. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow tilt up from the swirling, thick ground fog (2.5D parallax) to reveal the mysterious catfolk figure. The figure's heavy cloak gently billows in an unseen wind. His eyes briefly catch a hidden light source, giving a momentary, intense, ghostly flicker (dynamic light). His ears twitch slightly in the silence (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). High-contrast, intense close-up of a charismatic catfolk's face (Dmitry). He is wearing simple, determined clothing and has a magnetic, confident gaze with a slight smirk. Cinematic focus on the eyes. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Micro-dolly zoom focusing intensely on the charismatic catfolk's eyes. A soft, single light source flickers slightly on his face, highlighting his sharp features. He performs a subtle, confident head tilt (looping heroic movement). His whiskers twitch slightly, conveying alertness and calculation. Limited palette, no text."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Dramatic interior scene. Dmitry (catfolk, military dress) stands confidently next to a Polish nobleman (catfolk in Szlachta attire). They look down at a polished table where scattered gold coins and a military map are visible. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Soft horizontal pan across the polished table, focusing on the gold coins and the map. A lantern in the midground casts a warm, flickering light (dynamic light) on the gold. The Polish nobleman catfolk gestures subtly with his paw towards a point on the map (looping heroic movement). Subtle breathing and tail sway from both figures. Limited palette, no text."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Wide shot of a small column of mixed catfolk soldiers (peasants, mercenaries) marching through a bleak, muddy Russian landscape under a grey sky. Lzhedmitry I is leading them, looking determined. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow, steady side-scrolling pan, simulating the arduous march. Fine sleet or snow falls constantly (particles). The banners and soldiers' cloaks ripple gently in the cold wind (2.5D parallax movement). Lzhedmitry I, leading the column, turns his head slightly to scan the horizon (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Low-angle shot focused on a dense crowd of ragged peasant catfolk, faces full of desperate hope and devotion, kneeling or cheering. Strong emotional intensity. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow cinematic tilt down onto the faces of the kneeling peasant catfolk. Fine dust motes rise from the ground (particles). The crowd members subtly shift their weight, and their tails sway with fervent emotion. One central peasant catfolk raises a hand in devotion and holds the gesture before slowly lowering it (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Dramatic, low-angle shot within the Kremlin courtyard. Several richly dressed, powerful boyar catfolk stand in deep, submissive bows before an unseen figure (Dmitry). Their faces show grudging, fearful submission. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Very slow, uneasy dolly out from the bowing boyar catfolk. Heavy, dramatic shadows suggest the monumental shift in power. Their opulent robes subtly rustle. One central boyar nervously adjusts his heavy fur collar and then resumes his bow (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Triumphal scene. Lzhedmitry (catfolk) on horseback rides through the massive Spasskaya Gate into the Kremlin. Crowds of cheering catfolk line the route. Dramatic sunlight streams through the gate arch. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow, soft horizontal pan following the triumphal procession as Lzhedmitry enters the gate. Flower petals and confetti fall constantly from the cheering crowds above (particles). Banners and pennants flutter gently. Lzhedmitry subtly nods his head, acknowledging the cheers (looping heroic movement). Bright, triumphant lighting. Limited palette, no text."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). High-angle, majestic shot of the newly crowned Lzhedmitry (catfolk) wearing the Monomakh's Cap and heavy Tsar robes, sitting powerful and slightly arrogant on the throne during the ceremony. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow, majestic tilt up the Tsar catfolk on the opulent throne. Soft, golden light radiates from the crown (dynamic light). Thick incense smoke drifts slowly across the foreground (particles, 2.5D parallax). Lzhedmitry subtly shifts his weight on the throne, adjusting the heavy crown (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Scene of cultural clash. Lzhedmitry (catfolk) in stylish, slightly European/Polish attire stands awkwardly in a traditional, highly decorated Russian chamber (terem). Two older, disapproving boyar catfolk whisper in the background. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow horizontal pan emphasizing the contrast between the European-dressed Lzhedmitry and the ancient Russian interior carvings. The disapproving boyars in the background subtly shake their heads and their mouths move slightly in silent murmuring. Lzhedmitry taps his foot impatiently on the floor (looping heroic movement). Limited palette, no text."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). High-tension scene in a Russian Orthodox cathedral. Lzhedmitry and his Catholic bride, Marina Mniszech (both catfolk, she in Polish wedding dress), stand defiantly at the altar, facing a crowd of shocked and angry boyar and priest catfolk. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Cinematic push-in towards the defiant catfolk couple at the altar. Numerous cathedral candles flicker wildly, casting erratic shadows (dynamic light). Marina subtly adjusts her veil and looks out defiantly at the crowd (looping heroic movement). The fabric of their rich clothing subtly billows with atmosphere. Limited palette, no text."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Violent action. A narrow, dark hallway in the Tsar's chambers. A group of armed boyar catfolk, led by a fierce Vasily Shuisky, burst through a heavy wooden door, weapons raised. Dramatic shadows and sense of chaos. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Quick, jerky micro-handheld camera movement simulating the chaos of the intrusion. Dust particles fly up from the violent entry (particles). The heavy wooden door swings slightly on its hinges before settling (looping heroic movement). The boyars' eyes gleam menacingly in the darkness. Limited palette, no text."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Desperate struggle. Lzhedmitry (catfolk, disheveled) hangs desperately from a high window ledge of the palace, his body half outside. Armed boyar catfolk grab at his legs from inside the room. Extreme close-up on the struggle. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow tilt down, emphasizing the height of the window and the danger. Smoke or mist rises from the cold morning air outside (particles, 2.5D parallax). Lzhedmitry's paws slip slightly on the stone ledge before regaining grip (looping heroic movement). His ragged breathing is visible through micro-animations of his chest. Limited palette, no text."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Symbolic scene of chaos. The Tsar's crown (Monomakh's Cap) lies abandoned and slightly damaged in the foreground, surrounded by smoke and debris. In the distance, a landscape burns, symbolizing the Time of Troubles. Visible pixels, limited color palette, no text.",
+      "video_prompt": "Seamless loop, 16-bit pixel art (SNES RPG cutscene). Slow, ominous pan across the abandoned Monomakh's Cap. Thick, dark smoke and tiny embers drift constantly across the frame (particles). The crown subtly glints under a distant, flickering firelight (dynamic light). The smoke swirls and briefly forms an abstract, unsettling shape above the crown (looping heroic movement). Limited palette, no text."
+    }
+  ]
+}
