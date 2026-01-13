@@ -1,0 +1,80 @@
+{
+  "topic": "Генерал, который сжёг Москву, чтобы победить",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "A highly detailed retro 16-bit pixel art cutscene, cinematic shot. A weathered, stern catfolk General in early 19th-century Russian military uniform (general's coat, epaulets) stands on a high hill overlooking a massive, sprawling cityscape (Moscow analogue) veiled in a cold, foreboding mist. Limited 16-bit color palette, visible pixels. Dramatic lighting, deep shadows. No text or UI elements.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. A weathered catfolk General stands on a hilltop overlooking the misty city below. Slow, subtle camera dolly zoom out combined with a gentle upward tilt, emphasizing the vastness of the city and the General's solitary position. Micro-animations: General's coat subtly billowing in the cold wind, ears twitching, slow, deep breathing/chest rise, distant smoke plumes slowly rising from the city midground, subtle light flicker suggesting distant internal conflict. Looping hero movement: The General slowly clenches and unclenches his gloved paw, a sign of deep internal struggle. No text."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Highly dramatic retro 16-bit pixel art cutscene. Close-up on the face of the catfolk General (Kutuzov analogue) illuminated by a harsh, single source of light (lantern or faint fire glow). His expression is one of profound internal agony and impossible choice. Visible pixels, dark, high contrast environment (a command tent interior). He is looking down, perhaps gripping a rolled map tightly. No text or UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. Extreme close-up on the conflicted catfolk General in a dark tent interior. Slow, subtle camera pan left, maintaining focus on his eyes. Micro-animations: Gentle flicker of lantern light casting moving shadows on his face and uniform, slow breathing, subtle movement of his whiskers and ears, tiny dust motes drifting in the light beam. Looping hero movement: The General's eyes slowly blink, heavy with despair, before settling back into a grim stare. No text."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Epic retro 16-bit pixel art establishing shot. A massive column of catfolk soldiers (Napoleonic Imperial Guard analogue, detailed French uniforms 1812) marching relentlessly towards imposing stone city gates (Moscow analogue). The sky is overcast and dramatic. Visible pixels, limited palette emphasizing the grey-blue uniforms and dusty road. A sense of overwhelming, organized force. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. A long line of catfolk Imperial Guard soldiers marching towards the city gates. Subtle camera dolly push forward, enhancing the feeling of relentless advance. 2.5D parallax: Foreground grass/roadside detail moves faster than the marching midground troops, which move faster than the distant gates. Micro-animations: Subtle movement of flags/banners in the wind, small puffs of dust rising from the marching feet, glinting bayonets, rhythmic swaying of the soldiers' tails. Looping hero movement: The column of soldiers marches continuously, never reaching the gate, creating a perpetual sense of approach. No text."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Grim retro 16-bit pixel art cutscene. Night scene on a desolate, muddy battlefield (Borodino analogue). The catfolk General stands alone, his silhouette stark against a pale, smoke-filled moonlit sky. Ground is littered with indistinct debris and shadows. His posture is one of deep exhaustion and recent trauma. Visible pixels, muted, somber palette. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. A desolate, smoky battlefield at night. The catfolk General stands immobile, contemplating. Slow, gentle camera tilt up, revealing more of the vast, smoke-choked sky. Micro-animations: Wisps of battle smoke drift slowly across the frame, subtle shifting of shadows under the moonlight, the General's ears drooping slightly, slow, heavy breathing visible in the chest movement. Looping hero movement: A single, faint, red ember (from a distant fire) pulses softly in the background, symbolizing the decision taking root. No text."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Intense retro 16-bit pixel art scene: A closed-door council of war. Four catfolk officers (Russian generals, 19th-century uniforms) gathered around a rough wooden table dominated by a large, schematic map of Moscow. The General points decisively at the map. High tension, dramatic lighting from a lamp above. Visible pixels, limited indoor palette (browns, dark greens, muted reds). No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. Tense council of war. Four catfolk officers surrounding a map. Subtle camera micro-handheld shake, conveying tension. 2.5D parallax: Foreground objects (a spilled ink pot) are slightly offset from the midground officers and the background wall. Micro-animations: General's tail twitches nervously, lamp light flickers rapidly, subtle steam rising from tea cups, rapid blinking from the junior officers. Looping hero movement: The General's finger, pointing firmly at the map, trembles slightly with the weight of the command. No text."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Detailed retro 16-bit pixel art. The catfolk General, resolute, hands a sealed document or gives a firm command gesture to a second, anxious catfolk figure (Rostopchin analogue, civilian/governor attire). They are standing in a shadowy interior, perhaps a temporary headquarters. The General's face is grimly determined. Visible pixels, focus on the exchange of power/command. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. The General gives the order to the Governor. Gentle camera dolly push in towards the two figures, focusing on the gravity of the exchange. Micro-animations: The Governor's ears are flattened in distress, the General's mantle shifts slightly, slow rise and fall of their chests (breathing), subtle shadow movement from an unseen heat source. Looping hero movement: The Governor nervously adjusts the collar of his coat, a repeated gesture of anxiety before carrying out the terrible command. No text."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Stealthy retro 16-bit pixel art night scene. A column of heavy, covered wagons, escorted by silent catfolk soldiers (in dark Russian uniforms), are secretly pulling fire pumps and water barrels away from the city gates. Low angle shot, emphasizing the clandestine nature of the operation. Moonlight highlights the dust on the road. Visible pixels, dark blue/grey/brown palette. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. Covert removal of fire equipment at night. Slow, horizontal camera pan (tracking shot) following the wagons as they move left across the frame. 2.5D parallax: Foreground bushes/trees move quickly, emphasizing speed and secrecy. Micro-animations: Subtle wheel rotation on the wagons, dust particles kicking up behind the horses (off-screen), gentle movement of the soldiers' tails, soft ambient moonlight flicker. Looping hero movement: The last wagon in the convoy continuously passes out of frame and loops back into existence, emphasizing the endless removal. No text."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Eerie retro 16-bit pixel art. A catfolk figure representing Napoleon (Bicorne hat, French officer uniform, hand tucked into waistcoat) stands alone in a wide, deserted Moscow street. The city is unnaturally silent and empty. In the background, faint, barely visible wisps of smoke rise from several windows, signaling the hidden trap. Low saturation, oppressive atmosphere. Visible pixels. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. Napoleon catfolk stands in an eerily silent street. Very slow, subtle camera pull back (dolly out), increasing the distance and isolation of the figure. Micro-animations: Napoleon's whiskers twitch nervously, subtle heat haze distorting the distant buildings, tiny, looping wisps of smoke rising from several unseen sources, faint dust motes dancing in the still air. Looping hero movement: Napoleon slowly turns his head, scanning the silent street with growing suspicion, then returns to his original pose. No text."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Dramatic retro 16-bit pixel art action shot. Massive wooden warehouses (full of supplies) erupting into initial flames. Focus on the explosive start of the fire, with thick, dark smoke billowing upwards against a deep orange sky. Catfolk figures (French soldiers) in the foreground react with shock. Limited, vibrant palette dominated by reds and oranges. Visible pixels. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. A warehouse structure violently catches fire. Subtle camera tilt down and short, rapid micro-shake, mimicking the impact of an explosion. 2.5D parallax: Flammable debris (crates) in the foreground appear to shudder. Micro-animations: Explosive bursts of fire and sparks looping rapidly, thick, dark smoke rapidly churning and rising, shocked catfolk soldiers repeatedly turning their heads in alarm, flickering internal light from the structure. Looping hero movement: A large, continuous plume of fire shoots upwards from the roof, defining the initial conflagration. No text."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Epic, apocalyptic retro 16-bit pixel art wide shot. Moscow is fully engulfed in a massive firestorm. Towering columns of flame consume buildings, meeting the sky. Strong, visible wind lines/motion blur effect on the flames. The palette is dominated by intense reds, oranges, and black smoke. Highly cinematic and dramatic. Visible pixels. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. The apex of the firestorm. Slow, sweeping camera pan right across the burning cityscape, emphasizing the scale. 2.5D parallax: Fast-moving embers and ash in the foreground sweep across the lens. Micro-animations: Flames rapidly licking up the sides of buildings, huge plumes of black smoke churning violently against the sky, rapid flickering light and shadow across the landscape, strong wind effects making the fire move horizontally. Looping hero movement: Massive, continuous waves of heat haze ripple visibly across the scene, distorting the background. No text."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Intense retro 16-bit pixel art portrait. Close-up on the catfolk Napoleon's face, contorted in absolute rage and frustration. He is silhouetted against the intense orange glow of the burning city, visible in the background over his shoulder. Sweat or moisture visible on his face. Dramatic use of shadows and firelight. Visible pixels. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. Close-up on the furious catfolk Napoleon. Subtle camera micro-handheld shake conveying his inner turmoil. Micro-animations: Rapid, intense flickering of firelight reflecting in his eyes and uniform, smoke particles constantly drifting across the frame, rapid, shallow breathing/chest heaving, angry twitching of his ears and tail. Looping hero movement: Napoleon slowly raises his fist in a gesture of impotent fury, holding the gesture, then slowly lowering it in a perpetual loop. No text."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Somber retro 16-bit pixel art scene. Exhausted catfolk soldiers (French uniform, dirty, ragged) huddle miserably in the smoking ruins of Moscow. The ground is covered in ash and debris. The sky is grey and cold, hinting at the coming winter. Focus on despair and deprivation. Visible pixels, muted, cold palette. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. Exhausted catfolk soldiers huddling in ruins. Slow, mournful camera tilt down, focusing on the desolate ground and the soldiers' feet. Micro-animations: Tiny plumes of smoke rising from smoldering timbers, subtle movement of tattered fabric/uniforms in a cold draft, shivering movement in the soldiers' shoulders, occasional falling ash flakes. Looping hero movement: One soldier repeatedly rubs his gloved hands together over a dying ember for warmth, a continuous, futile gesture. No text."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Wide, devastating retro 16-bit pixel art panorama. A huge, sprawling landscape of total destruction—miles of smoldering ruins and skeletal remains of buildings. Only chimneys and charred walls remain standing. The sheer scale of the devastation is the focus. Overcast, grey sky. Visible pixels, high detail in the wreckage. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. Panoramic view of the vast, ruined cityscape. Slow, continuous camera pan left (surveying the damage). 2.5D parallax: Piles of foreground debris shift slightly against the distant, static ruins. Micro-animations: Thin plumes of smoke slowly curl up from dozens of points in the ruins, subtle heat shimmer above the ash, the distant sky is dark and heavy, faint particles of soot drifting down. Looping hero movement: A single, large chunk of charred wood in the foreground subtly collapses and settles, emphasizing ongoing decay. No text."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Highly emotional retro 16-bit pixel art scene. The catfolk General (Kutuzov analogue) stands alone on a ridge, turning his back on the smoking, ruined city below. His expression is heavy with the cost of the sacrifice, yet resolute. The setting sun casts long, dramatic shadows. Visible pixels, mixture of warm (sun) and cold (ruins) colors. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. The General stands on a ridge, watching the smoking ruins at sunset. Slow, gentle camera tilt down, then a slow tilt up, mimicking a head shake of resignation. Micro-animations: General's cape gently flutters in the wind, his ears slightly droop, the distant smoke plumes slowly rise and twist, the setting sun casts a subtle, looping shimmer of light. Looping hero movement: The General slowly brings his hand to his chest, gripping his coat tightly over his heart, acknowledging the pain of the sacrifice. No text."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Triumphant yet tragic retro 16-bit pixel art final shot. The catfolk General stands tall and determined, facing forward into a cold, clear sky. Behind him, the vast, silent field of ash and ruins stretches to the horizon. This is a portrait of grim victory. Detailed 19th-century uniform. Visible pixels, strong contrast between the General's figure and the desolate background. No text.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic loop. The General stands resolute against the backdrop of silent ash and ruins. Slow, powerful camera dolly push in towards the General's face, ending in a tight, heroic framing. Micro-animations: Cold air visibly misting slightly around the General's breath, subtle glinting on his epaulets, slow, large particles of ash drifting down from the sky, his tail gives a single, slow, determined flick. Looping hero movement: The General slowly raises his chin slightly, a subtle, looping gesture of final, hard-won resolve. No text."
+    }
+  ]
+}

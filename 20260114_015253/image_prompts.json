@@ -1,0 +1,80 @@
+{
+  "topic": "Корабль-призрак, который приплыл сам",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels, dramatic lighting, cinematic atmosphere. A wide shot of the Atlantic storm, 1872. Two large sailing ships are visible in heavy rain and mountainous waves. In the foreground, a catfolk sailor (wearing 1870s oilskins) stands on the deck of the 'Dei Gratia', urgently pointing toward a distant, mysterious brigantine ('Mary Celeste') battling the waves. Dark, ominous sky. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A slow, subtle dolly zoom out. The camera slightly rocks rhythmically with the heavy waves (soft handheld). Heavy rain streaks across the screen (parallax particles). A catfolk sailor in the foreground blinks and breathes (micro-animation), his oilskin coat and tail flap slightly in the strong wind (micro-animation). The distant brigantine subtly pitches and rolls in the massive, foam-flecked waves (heroic movement). Dynamic lightning flashes briefly on the horizon (dynamic light). Loopable, cinematic atmosphere. No text."
+    },
+    {
+      "id": 2,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. A stunning, detailed shot of the brigantine 'Mary Celeste' sailing smoothly. The sails are perfectly set, taut, and undamaged. The hull is pristine. Low angle emphasizes the majesty and perfection of the ship against a deep blue ocean. Catfolk aesthetic, 1870s setting. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A very slow, gentle pan right across the perfect, taut white sails of the 'Mary Celeste'. Subtle sunlight glints off the wet deck planks (dynamic light). The sails gently billow and vibrate in the clean breeze (micro-animation). The ship's flag (if visible, generic/unreadable) flutters softly (micro-animation). Subtle 2.5D movement of the perfect ship gliding against a smooth ocean backdrop (heroic movement). Camera maintains a slight, steady tilt. Loopable. No text."
+    },
+    {
+      "id": 3,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. A cinematic, mid-deck view of the abandoned 'Mary Celeste'. The deck is completely empty, ropes are neatly coiled, creating an eerie stillness. The main hatch leading below deck is slightly ajar. Dramatic shadows suggest late afternoon. Catfolk aesthetic, 1870s historical ship detail. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A slow, creeping tilt down from the mast base towards the empty, silent main deck. Fine particles of sea spray drift across the frame (particles). Ropes and loose canvas gently sway and tremble (micro-animation). A shadow cast by the rigging slowly lengthens and contracts (dynamic light/shadow). The slight, rhythmic rocking motion of the ship is the only steady movement. Loopable. No text."
+    },
+    {
+      "id": 4,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. Close-up, low-angle shot inside a small, orderly storage locker on the ship. A rack of 1870s naval cutlasses and muskets hangs untouched. Dust motes float in a strong beam of sunlight slanting through a small porthole. The scene is unnervingly clean and untouched. Catfolk aesthetic. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A micro-dolly shot slowly pushing into the dark, silent storage locker. The beam of sunlight filtering through the porthole subtly shifts and brightens/dims (dynamic lighting). Dust motes gently swirl and float in the light beam (particle effect). The metallic surfaces of the weapons show a tiny, looping reflection of the light. The camera maintains a very soft, slow pan left. Loopable. No text."
+    },
+    {
+      "id": 5,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. Interior of the Captain's cabin. A small wooden table holds a half-eaten breakfast (bread, plate), and a cup of coffee sits next to it. The food looks fresh but abandoned. A nautical chart or logbook lies open nearby. The scene suggests immediate, sudden departure. Warm, internal lamp lighting. Catfolk aesthetic. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A slow, cinematic micro-pan across the table surface. The shadows cast by the objects slightly shift due to the ship's gentle, looping movement (dynamic shadows). A few tiny, lingering wisps of 'cold' steam subtly dissipate above the coffee cup (micro-animation). The logbook page subtly curls at the corner (micro-animation). The overall effect is unnerving stillness (heroic movement: the stillness itself). Loopable. No text."
+    },
+    {
+      "id": 6,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. Extreme close-up of a thick, leather-bound ship's logbook open to the last entry. The page is slightly yellowed. A catfolk captain's quill pen rests beside the book. The scene is lit by a focused, dramatic light source. No readable text, only pixel scribble suggesting handwriting.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A tight shot focused on the logbook. A single, dramatic shadow slowly passes over the page (dynamic light/shadow). The quill pen slightly trembles on the desk due to the ship's subtle motion (micro-animation). The ambient light from an implied lantern gently flickers (dynamic lighting). A fine layer of dust subtly settles and lifts (particle effect). Loopable. No text."
+    },
+    {
+      "id": 7,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. A catfolk sailor (wearing 1870s uniform) stands at the rail of the 'Mary Celeste', looking out over the vast, empty ocean. The sky is now clear but melancholic. The emptiness of the sea emphasizes the unanswered question. Cinematic, wide perspective. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A slow, expansive tilt up from the deck to the horizon. The catfolk sailor breathes deeply (chest movement, micro-animation), and his tail twitches slightly (micro-animation). The water below subtly ripples and shifts texture (heroic movement: the slow, rhythmic pulse of the ocean). A few seagulls looplessly fly past in the distance (micro-animation). Camera maintains a slight, soft handheld sway. Loopable. No text."
+    },
+    {
+      "id": 8,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. A dark, cramped view inside the ship's hold/truce. Massive wooden barrels, stacked high, fill the space. A single, weak lantern casts dramatic, deep shadows. The atmosphere is heavy and oppressive. 1870s setting. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A very slow dolly in towards the stacked barrels in the gloomy hold. Fine, wispy vapor/fumes subtly rise from the gaps between the barrels (particle effect, symbolizing alcohol vapor). The lantern light source gently flickers and sways (dynamic lighting), making the deep shadows dance dramatically on the wooden surfaces. The camera executes a subtle, slow tilt down. Loopable. No text."
+    },
+    {
+      "id": 9,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. A dramatic, stylized representation of the hold. Barrels are visible, but the air is thick with a visible, shimmering, highly flammable vapor (represented by yellow/green pixel gradients). The scene feels tense, like a ticking clock. High contrast, cinematic. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. Tight shot on the vapor-filled air between the barrels. The shimmering, volatile vapor aggressively pulsates and shifts color slightly (heroic movement: internal pressure building). The light reflecting off the vapor is unstable and strobing faintly (dynamic lighting). Fine dust particles are caught in the vapor's movement (particle effect). The camera is still, focusing on the volatile atmosphere. Loopable. No text."
+    },
+    {
+      "id": 10,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. Flashback scene: Captain Briggs (a distinguished catfolk in 1870s naval uniform) stands decisively on the deck, pointing urgently toward the sea/lifeboat. His face is grim with fear and determination. Other catfolk crew members are scrambling nearby. Stormy backdrop. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A quick, looping pan across the Captain's frantic face and outstretched arm. The Captain's ears are flattened slightly in panic (micro-animation), and his tail is rigid. His coat flaps violently in the wind (micro-animation). Rain lashes down (particle effect). The ambient light shifts rapidly, simulating the urgency of the moment (dynamic lighting). The heroic movement is the Captain's repeated, urgent gesture. Loopable. No text."
+    },
+    {
+      "id": 11,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. Medium shot showing the large brigantine ('Mary Celeste') towering over a small, crowded lifeboat bobbing precariously close. A thick rope tethers the lifeboat to the main ship. Several anxious catfolk crew members are visible in the lifeboat, looking up at the ship. Choppy water. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A gentle tilt down, following the thick tethering rope from the deck of the 'Mary Celeste' to the lifeboat below. The lifeboat visibly bobs up and down aggressively on the choppy water (heroic movement). The rope is taut and slightly snapping under tension (micro-animation). Crew members in the boat nervously shift their posture and blink. Sea spray hits the foreground (particle effect). Loopable. No text."
+    },
+    {
+      "id": 12,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. A dramatic, high-contrast shot during a storm. A huge wave crests between the brigantine and the lifeboat. The tethering rope is visible snapping violently in the foreground. The lifeboat is being pulled away by the turbulent water. Extreme chaos and dark, stormy colors. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A rapid, jarring micro-shake (simulating the snap). Focus is on the rope remnant whipping violently against the side of the 'Mary Celeste' (heroic movement). Heavy rain and foam obscure parts of the frame (particle effect). The water texture is extremely agitated, looping rapidly. The lighting flashes wildly (dynamic lighting). Camera quickly resets to loop the violent action. Loopable. No text."
+    },
+    {
+      "id": 13,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. A serene, almost beautiful shot of the 'Mary Celeste' sailing alone under a clear, calm sky. Sails are full and perfect. The sea is calm. The absence of the crew is emphasized by the sheer perfection of the ship's silent motion. Cinematic, catfolk aesthetic. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A slow, majestic tracking shot alongside the 'Mary Celeste' as it glides silently. The ship maintains a perfect, rhythmic forward motion (heroic movement). Light ripples reflect off the hull and move slowly upwards (dynamic lighting). The ship's mast and rigging subtly sway (micro-animation). Gentle lapping of water against the hull. Loopable. No text."
+    },
+    {
+      "id": 14,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. Wide, epic shot of the 'Mary Celeste' as a tiny, isolated figure against a massive, empty expanse of ocean and sky. The scene conveys isolation and vastness. The ship looks flawless, a perfect machine without a soul. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. An extremely slow, expansive pan across the horizon, with the 'Mary Celeste' centered and moving steadily forward. The sun/moon subtly rises/sets across the sky in a quick, looping cycle (dynamic light, time-lapse effect). The wake behind the ship remains steady (heroic movement). Subtle 2.5D parallax between the ocean surface (foreground) and the far horizon (background). Loopable. No text."
+    },
+    {
+      "id": 15,
+      "image_prompt": "retro 16-bit pixel art, SNES RPG cutscene style, limited color palette, visible pixels. Highly dramatic, iconic view of the 'Mary Celeste' shrouded in a mysterious, ethereal sea fog or mist. Low angle, emphasizing its legendary status as a ghost ship. The atmosphere is chilling and unresolved. Cinematic, dark colors. No text or UI elements.",
+      "video_prompt": "retro 16-bit pixel art, SNES RPG cutscene style. A slow, upward tilt through thick, swirling sea fog (particle effect) that obscures the ship's details (2.5D parallax). The ship's bell or rigging subtly sways back and forth (heroic movement). Eerie, cold light filters dimly through the mist (dynamic lighting). The fog layers continuously drift and reform (micro-animation). Loopable, maintaining a dramatic, unresolved atmosphere. No text."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "topic": "Он продал Эйфелеву башню. ДВАЖДЫ",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "A dramatic, cinematic portrait of VICTOR LUSTIG, a handsome, sharply dressed catfolk con man in a 1920s suit and fedora. He has cunning, confident eyes and a slight smirk. Highly detailed retro 16-bit pixel art, visible pixels, limited color palette (SNES RPG cutscene style). Dramatic lighting, focused spotlight on the face.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic close-up on VICTOR LUSTIG, a cunning catfolk con man in a sharp 1920s suit. The background is dark, subtly revealing the silhouette of the Eiffel Tower through a window. Seamless loop. Camera: Slow micro-dolly zoom focusing on his eyes. Atmosphere: Subtle dust motes floating in the air, dynamic light flickering across his face (like distant streetlights). Animations: Slow breathing, confident smirk slightly holding, ears and tail twitching gently, fabric of the suit subtly swaying, eyes blinking slowly. Hero Loop: A subtle, confident raising of one eyebrow."
+    },
+    {
+      "id": 2,
+      "image_prompt": "A wide establishing shot of the Eiffel Tower in 1925 Paris. The tower is visible but appears neglected and dingy. Below, narrow, wet cobblestone streets of Paris with distant gaslights. Retro 16-bit pixel art, limited palette (SNES RPG overworld style). Cinematic perspective, focused on the massive scale of the tower.",
+      "video_prompt": "Retro 16-bit pixel art, 1925 Paris street scene dominated by the base of the Eiffel Tower. The tower structure is visibly rusting (dark reds/browns). Seamless loop. Camera: Slow, subtle upward tilt (micro-pan) emphasizing the height and decay. Atmosphere: Heavy, damp air, subtle ground fog/mist, dynamic streetlamp glow reflecting on the wet cobblestones. Animations: Distant smoke rising from chimneys (looping), subtle shimmering of the wet ground, gentle falling drizzle (rain particles), distant gaslight flicker. Hero Loop: A faint, looping visual vibration effect suggesting a distant trolley passing."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Extreme close-up shot focusing on a section of the Eiffel Tower's iron structure. Thick, visible rust (dark red/orange pixels) covers the rivets and beams. The atmosphere is grim and decaying. Highly detailed retro 16-bit pixel art, visible pixels. Dramatic, high-contrast lighting emphasizing texture and decay.",
+      "video_prompt": "Retro 16-bit pixel art, extreme close-up on heavily rusted iron beams of the Eiffel Tower structure. Seamless loop. Camera: Very slow, soft handheld micro-shake/dolly to the side, enhancing the oppressive feel. Atmosphere: Fine red dust/rust particles slowly drifting downwards, dynamic shadows shifting across the textured rust surface. Animations: Subtle glint of reflected light on the wet metal, minuscule shifting of shadows, continuous slow drift of rust particles. Hero Loop: A small, persistent drop of water or condensation forming and dripping from a rivet head (looping)."
+    },
+    {
+      "id": 4,
+      "image_prompt": "VICTOR LUSTIG (catfolk, 1920s suit) leaning against a velvet curtain in a dimly lit, expensive hotel room. He is looking out a window towards the distant, decaying Eiffel Tower silhouette. A predatory, thoughtful expression. Retro 16-bit pixel art, limited palette, cinematic composition.",
+      "video_prompt": "Retro 16-bit pixel art, VICTOR LUSTIG (catfolk, sharp suit) stands in silhouette against a large, ornate hotel window. The distant Eiffel Tower is visible through the glass. Seamless loop. Camera: Slow, subtle dolly inward towards Lustig's thoughtful face. Atmosphere: Warm, dusty internal light contrasting with the cool exterior light, subtle motes of dust rising from the carpet. Animations: Lustig's tail twitching slightly with anticipation, slow breathing, subtle sway of the heavy curtain fabric, light glinting off his polished shoes. Hero Loop: Lustig slowly raising a hand to adjust his cufflink (looping the motion before the adjustment is complete)."
+    },
+    {
+      "id": 5,
+      "image_prompt": "A close-up on a mahogany desk in a secret room. VICTOR LUSTIG's gloved catfolk hand is sealing an official-looking envelope with a fake government wax seal. Several other sealed envelopes are stacked nearby. The scene is dark, lit only by a single desk lamp. Retro 16-bit pixel art, visible pixels, limited color palette, high detail on the forgery tools.",
+      "video_prompt": "Retro 16-bit pixel art, intimate view of a large, dark wooden desk. Six identical, officially sealed envelopes are laid out. Seamless loop. Camera: Slow, soft pan across the row of envelopes. Atmosphere: The scene is lit by a flickering oil lamp, casting dynamic, shifting shadows. Animations: Subtle shimmer/glint on the wax seals, smoke rising gently from a nearby extinguished match or candle, slight movement of paper due to air currents, the flickering light source. Hero Loop: A subtle, looping heat distortion effect rising from the lamp flame."
+    },
+    {
+      "id": 6,
+      "image_prompt": "VICTOR LUSTIG (catfolk, impeccably dressed) standing at a large table in a private, ornate room (hotel suite). He is addressing six shadowy, anxious catfolk scrap metal dealers seated opposite him. Lustig's posture is cold and authoritative. Retro 16-bit pixel art, deep shadows, dramatic spotlight on Lustig.",
+      "video_prompt": "Retro 16-bit pixel art, VICTOR LUSTIG (catfolk) commanding the attention of six nervous catfolk scrap dealers around a polished mahogany table in a dimly lit, luxurious room. Seamless loop. Camera: Slow, subtle zoom (dolly-in) on Lustig's face. Atmosphere: Heavy cigar smoke hanging and swirling in the air, dynamic light filtering from a high window or chandelier. Animations: Lustig's ears slightly lowered in authoritative focus, breathing motion, subtle shifting/fidgeting of the nervous dealers, movement of the smoke trails. Hero Loop: Lustig slowly, deliberately tapping his fingers once on the tabletop (looping the anticipation/pause before the tap)."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Close-up on VICTOR LUSTIG's catfolk hand resting on a stack of official-looking (but forged) documents marked with a large, imposing seal. The focus is on the authority he projects. He is wearing fine gloves. Retro 16-bit pixel art, limited palette, high detail on the paper texture and seal design.",
+      "video_prompt": "Retro 16-bit pixel art, focus on a large, ornate table where VICTOR LUSTIG (catfolk) has laid out official-looking documents. Seamless loop. Camera: Slow, soft tilt down towards the documents and the imposing seal. Atmosphere: Intense, focused light beam illuminating the documents, sharp contrast between light and shadow. Animations: Subtle movement of the paper (micro-vibrations), light reflecting gently off the seal, Lustig's tail slowly swaying back and forth behind him (visible in the foreground/midground), slow rise of heat haze/dust near the light source. Hero Loop: Lustig's gloved hand slowly rotating a fountain pen between his fingers."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Two catfolk men face-to-face: VICTOR LUSTIG (confident, smirk) and ANDRÉ POISSON (nervous, sweaty, heavy-set, wearing a cheap suit). Lustig is subtly pointing at Poisson, singling him out. The background shows the other dealers looking defeated. Retro 16-bit pixel art, dramatic tension, high contrast lighting.",
+      "video_prompt": "Retro 16-bit pixel art, tight shot on ANDRÉ POISSON (nervous catfolk dealer). He is sweating profusely, looking anxious, facing Lustig (who is slightly off-camera). Seamless loop. Camera: Slow, soft handheld micro-shake, emphasizing Poisson's anxiety. Atmosphere: Hot, stuffy air, visible sheen of sweat on Poisson's brow, dynamic shadows cast by the tension. Animations: Poisson's ears flattened slightly, rapid shallow breathing, sweat visibly dripping from his brow (looping particle effect), fabric of his collar slightly damp. Hero Loop: Poisson nervously adjusting his tie repeatedly."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Close-up shot of two catfolk hands meeting over a briefcase. ANDRÉ POISSON's hand (trembling, sweaty) is handing over a dark leather briefcase to VICTOR LUSTIG's hand (steady, gloved). The briefcase is slightly open, revealing stacks of cash inside. Retro 16-bit pixel art, dark setting, light focused only on the hands and the money.",
+      "video_prompt": "Retro 16-bit pixel art, tight focus on a slightly opened, dark leather briefcase filled with stacks of 1920s currency. Seamless loop. Camera: Slow, subtle dolly-in towards the money. Atmosphere: Low, intense light reflecting off the paper currency, warm glow from an unseen lamp. Animations: Subtle shimmer/vibration of the cash stacks, Lustig's gloved fingers resting lightly near the latch, a few dust motes settling onto the money. Hero Loop: A single ribbon or strap on the briefcase gently swaying due to air circulation."
+    },
+    {
+      "id": 10,
+      "image_prompt": "VICTOR LUSTIG (catfolk) sitting comfortably in a first-class compartment of a train speeding away from Paris. He is leaning back, a confident smirk on his face, a heavy briefcase resting beside him. Outside the window, blurred Parisian landscape disappears. Retro 16-bit pixel art, cinematic depth of field, high-speed motion blur effect on the background.",
+      "video_prompt": "Retro 16-bit pixel art, VICTOR LUSTIG (catfolk) seated calmly in a plush, moving train compartment. A heavy, dark briefcase sits securely next to him. Seamless loop. Camera: Extremely slow, subtle pan across the compartment, emphasizing the luxurious movement. Atmosphere: Dust motes swirling in the light beam cutting through the compartment window, repetitive rhythmic shadow play from passing telephone poles/trees outside. Animations: Lustig's breathing, gentle rocking motion of the train (affecting his head and suit), subtle glint on the briefcase latch, movement of the external shadow pattern. Hero Loop: Lustig slowly taking a drag from an unlit cigarette (looping the breathing/rocking motion)."
+    },
+    {
+      "id": 11,
+      "image_prompt": "ANDRÉ POISSON (catfolk) sitting alone in a dark, empty office or room. His posture is slumped, head in hands, consumed by shame and humiliation. A discarded, official-looking document lies crumpled on the floor near his feet. Retro 16-bit pixel art, heavy use of shadow and negative space, focusing on despair.",
+      "video_prompt": "Retro 16-bit pixel art, ANDRÉ POISSON (catfolk) slumped alone at a wooden desk in a dimly lit office. Seamless loop. Camera: Very slow, soft zoom out (dolly-out), increasing the sense of isolation. Atmosphere: Deep, oppressive shadows, a single bare light bulb flickering overhead (dynamic light effect). Animations: Poisson's heavy, slow breathing, his ears drooping low, subtle tremble in his shoulders, continuous flickering of the light bulb. Hero Loop: Poisson slowly, weakly raising his head and then letting it drop back into his hands (looping the slow movement of defeat)."
+    },
+    {
+      "id": 12,
+      "image_prompt": "VICTOR LUSTIG (catfolk) relaxing in an opulent European hotel room, smoking a cigarette and casually counting stacks of cash spread across a white tablecloth. He looks perfectly smug and satisfied. Retro 16-bit pixel art, rich textures (velvet, polished wood), warm interior lighting.",
+      "video_prompt": "Retro 16-bit pixel art, VICTOR LUSTIG (catfolk) leaning back comfortably in a plush armchair in a grand hotel suite. Stacks of cash are visible on a nearby table. Seamless loop. Camera: Slow, subtle side pan (micro-dolly) across the scene. Atmosphere: Soft, warm light filtering in, gentle smoke from his cigarette slowly curling upwards. Animations: Lustig's tail slowly swishing side to side, smoke rising and dissipating (looping), eyes slowly closing and opening in contentment, the subtle sway of his suit fabric. Hero Loop: Lustig slowly exhaling a plume of smoke (looping the exhalation and subsequent curl)."
+    },
+    {
+      "id": 13,
+      "image_prompt": "VICTOR LUSTIG (catfolk) standing on a busy Parisian train platform, holding the same briefcase, looking determinedly forward. The Eiffel Tower is visible in the distance through the station's glass roof structure. Retro 16-bit pixel art, busy background (other catfolk travelers), sense of arrival and purpose.",
+      "video_prompt": "Retro 16-bit pixel art, VICTOR LUSTIG (catfolk) standing confidently on a busy, slightly foggy Parisian train platform. Seamless loop. Camera: Slow, deliberate dolly-in towards Lustig's face. Atmosphere: Steam and smoke particles from a distant train drifting across the scene, cool, damp Parisian air, dynamic light filtering through the station roof structure. Animations: Lustig's ears twitching, subtle movement of the surrounding crowd (background catfolk looping minor walking motions), fabric of his coat gently moving in the draft. Hero Loop: Lustig slowly adjusting his fedora brim with a determined gaze."
+    },
+    {
+      "id": 14,
+      "image_prompt": "VICTOR LUSTIG (catfolk) looking slightly stressed or cornered, standing before two new, skeptical catfolk scrap dealers. One dealer is pointing an accusatory finger at Lustig. The room feels colder and less convincing than the first meeting. Retro 16-bit pixel art, visible tension, tight focus on the confrontation.",
+      "video_prompt": "Retro 16-bit pixel art, three catfolk figures in a tense meeting room. VICTOR LUSTIG is attempting to convince two skeptical new dealers. Seamless loop. Camera: Slow, agitated micro-handheld shake, emphasizing the rising tension. Atmosphere: Cool, harsh lighting, subtle dust motes swirling aggressively. Animations: Lustig's breathing is slightly shallow, one dealer's tail is flicking angrily, the accusatory dealer's finger slightly trembling, Lustig's suit fabric slightly wrinkled from stress. Hero Loop: Lustig slowly taking a step back, realizing the scheme is unraveling (looping the step back and recovery)."
+    },
+    {
+      "id": 15,
+      "image_prompt": "VICTOR LUSTIG (catfolk) running at high speed down a narrow, dark, wet Parisian alleyway. He glances back over his shoulder at the pursuing shadows (police catfolk silhouettes). Dynamic motion lines, rain streaks. Retro 16-bit pixel art, dramatic action pose, limited palette emphasizing blues and blacks.",
+      "video_prompt": "Retro 16-bit pixel art, VICTOR LUSTIG (catfolk, suit slightly disheveled) quickly moving through a dark, narrow Parisian alley, illuminated by occasional gaslight beams. Seamless loop. Camera: Fast, low-angle tracking shot (dolly following Lustig), emphasizing the speed and escape. Atmosphere: Heavy, persistent rain (particle effect), reflections on the wet cobblestones, dynamic shadows shifting rapidly. Animations: Lustig's coat tails flapping dramatically, water splashing from his feet, rapid blinking, ears flattened against his head, continuous rain streaks. Hero Loop: Lustig quickly rounding a corner, disappearing momentarily, and then reappearing as the loop resets (focus on the continuous motion of flight)."
+    }
+  ]
+}

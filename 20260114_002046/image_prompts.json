@@ -1,0 +1,80 @@
+{
+  "topic": "Голливуд смеялся про фильм аватар: «Это будет самый дорогой провал в истории»",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A dimly lit, opulent boardroom. Three smug anthropomorphic catfolk executives, dressed in rich, historically stylized dark suits, are laughing maliciously, covering their muzzles with their paws. Deep shadows and limited, dramatic color palette. Cinematic composition, visible pixels. No text or labels.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A dimly lit, opulent boardroom. Three smug anthropomorphic catfolk executives, dressed in rich, historically stylized dark suits, are laughing maliciously. Camera performs a soft, slow downward tilt, emphasizing their dismissive attitude (micro handheld effect). Loopable action: Executives' tails subtly twitching, one catfolk wiping a pixelated tear of laughter (hero loop), soft dust motes floating in the faint light shafts (particles), subtle breathing animation."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A single, determined anthropomorphic catfolk director (Cat-Cameron proxy) stands alone on a massive, dark film set. He is wearing a stylized director's vest. His back is mostly toward the viewer, gazing intensely into an overwhelming, blinding white light source (representing the future/risk). Strong rim lighting, dramatic contrast. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A solitary, determined catfolk director stands gazing into a massive, overwhelming light source. Camera executes a very slow, subtle dolly zoom outward, slightly increasing the feeling of isolation. Loopable action: Catfolk's ears subtly twitching, faint smoke/haze particles drifting across the bright light beam, subtle breathing animation. Hero loop: The catfolk director slowly clenches and unclenches one fist in determination."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Extreme close-up on an impossibly high, unstable stack of stylized 16-bit gold coins and currency tokens, representing 300 million. The stack casts deep, dramatic shadows. A worried anthropomorphic catfolk clerk's paw reaches out hesitantly from the side, rendered in a limited, earthy palette. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. An unstable, towering stack of stylized gold coins. Camera slowly pans horizontally across the massive pile, emphasizing the scale and instability. Loopable action: The gold coins subtly shimmer/glint, fine dust particles fall from the ceiling rafters, the clerk's paw trembles slightly (micro-animation). Hero loop: The clerk's paw slowly pulls back and then returns to hover over the stack."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A sterile, brightly lit executive office. Two anthropomorphic catfolk executives, dressed in conservative period attire, stand side-by-side, their faces pixelated with sweat and fear. One is gripping a rolled document tightly. Large, stylized red warning lights flash dimly in the background. Cinematic tension. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. Two terrified catfolk executives in a sterile office environment. Camera has a slight, constant handheld micro-shake effect, emphasizing panic. Loopable action: Pixelated sweat beads dripping down their foreheads, rapid breathing cycles, their tails flicking nervously. Hero loop: The executive clutching the document nervously rubs his free paw against the other, repeating the anxious gesture."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A highly dramatic, dark scene set in a stormy sea. An anthropomorphic catfolk executive clings desperately to a piece of stylized wooden debris (a plank). Massive, stylized 16-bit waves crash violently in the background. Heavy blue, grey, and black limited palette. Cinematic, high contrast. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A catfolk clinging to debris in a violent storm (flashback memory). Camera executes a slow, subtle tilt up from the churning water level. Loopable action: Waves violently crash and loop their foam animation, heavy rain streaks (particles) fall continuously, the debris slowly rocks back and forth, the executive blinks rapidly against the spray. Atmosphere: Dynamic, looping lightning flashes illuminating the scene without showing the storm source."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A scene split by harsh contrast. Left side: A highly romanticized, soft-focus anthropomorphic catfolk star (representing Leo/old Hollywood) in elegant attire. Right side: A strange, dark, bio-luminescent forest (Pandora proxy) featuring complex, glowing alien flora and a shadowy, tall blue catfolk figure hidden within the foliage. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. Split scene showing romantic star power vs. alien world risk. Camera performs a slow, soft pan across the dividing line between the two contrasting halves. Loopable action: Left side: The star's elegant fabric gently sways. Right side: The bio-luminescent plants pulse with soft, looping light, tiny glowing spore particles drift through the air. Hero loop: The shadowy blue catfolk figure subtly shifts its position deeper into the foliage."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A tight shot focusing on a pair of clunky, stylized 3D glasses resting on an empty, plush red velvet cinema seat. The darkness of the theater is broken only by a dramatic, harsh light reflecting off the glasses' lenses from an unseen screen. Limited, dark palette with intense highlights. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. Clunky 3D glasses resting on an empty velvet seat in a dark theater. Camera executes a very slow, almost imperceptible dolly movement inward towards the glasses. Loopable action: Soft dust motes dance and float intensely in the light beam, the velvet fabric of the seat subtly shifts (micro-breathing effect), the harsh light reflecting off the glasses subtly flickers as if the projection is changing."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A dark cinema aisle scene. An anthropomorphic catfolk audience member is hunched over in their seat, clutching their head in obvious pain. Discarded 3D glasses lie on the floor below. The figure is rendered mostly in silhouette, emphasizing discomfort and headache. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A catfolk audience member hunched over, clutching their head in pain. Camera performs a soft, slow pan across the figure's hunched form. Loopable action: The figure's shoulders gently rise and fall (heavy breathing/sighing), subtle pixelated discomfort lines/sweat appear and dissipate near the temples, faint light distortion effects subtly wobble on the screen reflection (off-frame). Hero loop: The catfolk slowly adjusts their grip on their aching head."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Extreme close-up on the massive, closed, heavy red velvet curtains of a grand premiere theater. A single, intense beam of light shines down the center seam, illuminating floating dust particles. The composition conveys intense tension and silence before the reveal. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. Closed, massive velvet premiere curtains with a single light beam shining through the seam. Camera executes an ultra-slow, almost frozen dolly forward towards the curtains. Loopable action: The velvet fabric subtly ripples due to air pressure, intense dust motes floating and looping in the light beam (particles), the light source subtly flickers (dynamic light). Hero loop: A deep shadow (implying the director) slightly shifts position behind the curtain."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A massive, stylized financial graph line shoots straight up, breaking dramatically out of the frame borders, rendered in bright green light. Below, stunned anthropomorphic catfolk accountants and executives look up in awe, bathed in the glow of exponential success. High contrast and dynamic composition. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A stylized financial graph line rapidly ascending. Camera slowly tilts up, following the exponential growth of the line. Loopable action: The graph line is constantly drawing itself upwards (looping growth animation), the green light pulsating intensely (dynamic light), tiny pixelated sparks/energy particles fly off the ascending line. Hero loop: Executives' jaws slowly drop in repeated awe and surprise."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A long, winding queue of eager anthropomorphic catfolk patrons (in varied period attire) leading towards a cinema entrance (implied 'Pandora' gateway). Patrons are holding stylized 16-bit tickets, their faces illuminated with anticipation. Focus on the density and eagerness of the crowd. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A long, winding queue of eager catfolk patrons waiting for tickets. Camera performs a slow, smooth pan along the queue line, showing the depth of the crowd. Loopable action: Patrons' tails gently swaying, ticket stubs subtly fluttering in a soft breeze, subtle shifting and murmuring of the crowd. Hero loop: A single catfolk impatiently taps their foot repeatedly while waiting in line."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A lonely, muted bedroom scene. An anthropomorphic catfolk figure sits sadly on the edge of a bed, head bowed, rendered in desaturated, melancholic colors. They are holding a small, stylized, brightly glowing blue flower (a piece of Pandora). Focus on deep sadness. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A sad catfolk figure sitting alone, experiencing post-Avatar depression. Camera executes a very slow, soft pull-back (dolly out), increasing the feeling of isolation. Loopable action: The blue flower gently pulses with soft, looping light (dynamic atmosphere), the figure's chest rises and falls slowly (sighing/heavy breathing), fine dust motes hang still in the heavy air. Hero loop: A single pixelated tear slowly traces down the catfolk's cheek."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A highly dramatic, treacherous landscape. A determined anthropomorphic catfolk stands at the edge of a massive, dark ravine. On the far side, an impossibly distant and high glowing golden marker (symbolizing the 1 Billion goal) shines brightly. Composition emphasizes the impossible gap. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A catfolk standing at the edge of a vast ravine, facing an impossible golden goal marker. Camera executes a slow, minor pan across the depth of the ravine, emphasizing the distance. Loopable action: The catfolk's cloak flutters subtly in the wind, small pixelated rocks tumble slowly into the abyss (particles), the golden marker subtly vibrates with light energy. Hero loop: The catfolk takes a slow, determined step forward, right up to the very edge of the cliff."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A glorious, illuminated hall of achievement. An anthropomorphic catfolk figure stands triumphantly before a colossal, stylized golden monument (symbolizing the 2 Billion mark). Bright, celebratory lighting and rich golden hues dominate the limited palette. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. A catfolk figure standing triumphant before a colossal golden achievement monument. Camera executes a slow, sweeping crane shot upward, revealing the full scale of the monument. Loopable action: Golden light beams slowly rotate (god rays effect), confetti/sparkle particles fall gently and loop, subtle shimmering effects on the gold monument. Hero loop: The catfolk slowly raises their chin and chest in repeated triumph."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. A high, solitary throne room overlooking a stylized 16-bit map of the world. The anthropomorphic catfolk director (Cat-Cameron) sits imperiously on a massive, stylized throne, wearing regal attire and a laurel crown. Dominating, powerful composition. No text.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene. Cat-Cameron sitting imperially on a throne overlooking a world map. Camera executes a very slow, subtle tilt down, starting focused on the crown and ending on the map below the throne. Loopable action: The catfolk's long tail slowly sways back and forth, faint, regal smoke/incense particles drift upwards (atmosphere), the laurel crown subtly glints. Hero loop: Cat-Cameron slowly taps a finger repeatedly on the armrest of the throne, asserting unchallenged dominance."
+    }
+  ]
+}

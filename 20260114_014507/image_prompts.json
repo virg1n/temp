@@ -1,0 +1,80 @@
+{
+  "topic": "Смертельный танец, от которого не могли остановиться",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, isometric perspective, cinematic lighting, SNES RPG cutscene aesthetic. A wide, ominous establishing shot of 16th-century Strasbourg, July 1518. Narrow cobblestone streets and dark half-timbered buildings under a heavy, dramatic sky. The scene is quiet, hinting at impending doom. Anthropomorphic catfolk figures in period clothing are sparsely visible. Serious mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. A wide, ominous shot of a 16th-century Strasbourg street at dusk. Slow, soft dolly push-in camera movement with 2.5D parallax on the historical buildings. Micro-animations: Distant smoke rises slowly from chimneys, subtle light flickers in a few windows, long shadows deepen and loop. The atmosphere is heavy and silent, conveying a serious mood. Anthropomorphic catfolk, 16th-century period clothing. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 2,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, isometric perspective, cinematic lighting. Focus on a single female anthropomorphic catfolk (Frau Troffea) standing isolated in the center of a cobblestone square. She is dressed in simple 16th-century attire and has just begun an unnatural, jerky dance movement. Her expression is already strained. Harsh, dramatic sunlight casts sharp shadows. Serious, dramatic mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. A medium shot of an isolated female catfolk dancer in a public square. The camera executes a slow, deliberate zoom (dolly) towards the figure. The figure performs a repetitive, jerky, looping dance movement (hero movement). Micro-animations: Her ears twitch slightly, her simple dress fabric subtly sways, dust motes drift and loop in the harsh sunlight. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 3,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, cinematic lighting, low-angle close-up shot of an anthropomorphic catfolk dancer's torso and face. Her face is contorted in a painful, strained grimace. Her arms are flailing awkwardly and frantically. The movement is clearly involuntary and desperate, not celebratory. Intense focus on the painful emotion and severe physical effort. Serious, dramatic mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Tight close-up, low-angle shot on the catfolk dancer's upper body. The camera has a subtle, constant micro-handheld shake. The dancer's frantic arm movements loop quickly and repetitively (hero movement). Micro-animations: Her chest rises rapidly (heavy breathing), sweat glistens on her fur (subtle pixel shimmer), her facial muscles twitch with pain, her tail flicks erratically. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 4,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, isometric perspective, cinematic lighting. A single, exhausted anthropomorphic catfolk dancer continues her relentless, painful movement in an empty street. Long, deep shadows stretch across the cobblestones, indicating the passage of hours (dusk setting). Her clothing is disheveled, and her posture shows extreme fatigue, yet she cannot stop. Serious, dramatic mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Medium shot of the solitary catfolk dancer. The camera slowly pans sideways (tracking shot), keeping the dancer centered. The dancer performs the repetitive, exhausted, painful dance loop. Micro-animations: Dynamic shadows subtly shift and lengthen (suggesting time passing), her eyes blink slowly, her head sways slightly from exhaustion. Subtle dust particles swirl around her feet. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 5,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, cinematic lighting, isometric perspective. A wide shot of a public square in Strasbourg. The original dancer is now joined by several other anthropomorphic catfolk figures (a group of about 6-8), all performing erratic, uncontrollable, painful dance movements. A few alarmed catfolk bystanders watch from the edges of the frame. The atmosphere is escalating chaos and alarm. Serious mood, 16th-century period clothing, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Wide shot of a small group of catfolk dancers in a public square. The camera executes a slow, gentle pan across the group, showing multiple figures moving erratically (hero movement: multiple, looping, chaotic dances). Micro-animations: Onlookers in the background shift their weight nervously, dust is constantly kicked up by the dancers' feet and loops softly, the dancers' tails swish involuntarily. Strong 2.5D parallax between foreground dancers and background buildings. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 6,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, cinematic lighting. Interior shot of a dimly lit council chamber or official balcony. Several stern-faced anthropomorphic catfolk officials in rich 16th-century noble attire are consulting a document or scroll with expressions of panic and confusion. In the deep background, through an arched window, the chaotic dancing crowd is dimly visible. Focus is on the distressed officials. Serious, dramatic mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Interior shot focusing on the catfolk officials. The camera executes a dramatic, slow dolly pull focusing on the worried faces of the officials. The officials are subtly gesturing or debating (hero movement: looping hand gesture of debate). Micro-animations: A torch flame flickers, casting dynamic shadows on the wall, an official's tail twitches nervously, the blurred dancers visible through the window are constantly moving. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 7,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, isometric perspective, cinematic lighting. A wide shot illustrating the authorities' decision. A hastily erected, simple wooden stage is visible in the public square. The afflicted catfolk dancers are moving chaotically nearby. The mood is tense and desperate, showing the attempt to control the madness through organization. Serious mood, 16th-century Strasbourg setting, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Wide shot of the public square where a simple wooden stage has been built. The camera executes a slow, high-angle tilt down to emphasize the scale of the square. Dancers move erratically in the midground (hero movement: looping dance). Micro-animations: Wooden planks on the stage subtly creak or shift, banners hanging from nearby buildings gently flap, dynamic light and shadow from the sun shift slightly. Strong parallax effect. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 8,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, cinematic lighting. Close-up on a makeshift wooden stage. Two anthropomorphic catfolk musicians (one playing a lute, one playing a hand drum) look nervous and exhausted as they frantically play repetitive, harsh music. Their eyes are wide with stress. The focus is on the desperate attempt to provide rhythm for the afflicted. Serious, dramatic mood, 16th-century instruments and clothing, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Medium shot focused on the catfolk musicians on the wooden stage. The camera subtly pans across the musicians. The drummer's hands beat a frantic, repetitive loop (hero movement). Micro-animations: The lute player's fingers pluck rapidly, the musicians' ears flatten with stress, dynamic shadows flicker from a nearby torch or lantern, the drum skin vibrates subtly. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 9,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, overwhelming wide shot of a dense historical city street filled wall-to-wall with hundreds of anthropomorphic catfolk figures, all dancing uncontrollably and chaotically. The sheer scale emphasizes the failure of the plan and the epidemic's severity. Overcrowded, dizzying, chaotic movement. Serious, dramatic mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Wide, slightly elevated shot showing dense crowds of catfolk dancing in mass chaos. The camera executes a slow, continuous dolly backward, emphasizing the overwhelming scale (massive 2.5D parallax). Hero movement: The crowd of dancers moves in a relentless, looping, disorganized frenzy. Micro-animations: Fine pixelated dust clouds constantly rise from the ground and loop, the sheer density of figures creates shifting, complex shadows. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 10,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, extreme close-up, low-angle shot focusing entirely on the feet of an anthropomorphic catfolk dancer. The worn 16th-century leather shoes are scuffed and split, soaked with visible, dark pixelated blood pooling on the wet cobblestones beneath. A gruesome, visceral detail emphasizing the physical toll. Serious, dramatic mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Tight, low-angle shot focused on the dancer's bloody feet and the cobblestones. The camera has a subtle, repetitive micro-shake (to imply impact). Hero movement: The feet stomp or shift rhythmically and painfully in a continuous loop. Micro-animations: The pixelated blood subtly spreads and glistens on the wet stone, water/blood droplets splash slightly upon impact, dust particles settle and rise. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 11,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, cinematic lighting. A grim scene: A collapsed anthropomorphic catfolk dancer lies prone and exhausted on the cobblestones, clearly near death. Surrounding them, several other catfolk figures continue their frantic, relentless dance, ignoring the fallen. Strong contrast between the stillness of death/exhaustion and the ceaseless motion. Serious, dramatic mood, dark shadows, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Medium shot focused on the collapsed catfolk figure on the ground. The camera slowly tilts up from the ground level. Hero movement: The collapsed figure's chest barely rises and falls (shallow, looping breath). In the foreground, the feet of two other dancers continuously stomp past in a looping motion. Micro-animations: Dynamic shadows sweep across the scene, a few flies buzz and loop over the fallen figure, subtle dust rises from the moving feet. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 12,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, dramatic, dark cinematic lighting. A close-up, slightly abstract shot emphasizing the cause of the affliction. Focus on a patch of dark, grain-like fungus (ergot/spore) growing on a stalk of rye or wheat, juxtaposed with the strained, almost hallucinatory face of a catfolk dancer in the background. The mood is unsettling and toxic. Serious, clinical horror aesthetic, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. A shallow focus shot of a stalk of grain infected with dark pixelated fungus (ergot). The camera executes a slow, smooth dolly pull-out, revealing the blurry, convulsing outline of a catfolk dancer in the background (2.5D parallax). Micro-animations: The grain stalk subtly sways, fine pixelated spores drift off the fungus and loop, the dancer's blurry movements are jerky and repetitive. Eerie, greenish dynamic lighting. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 13,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, high contrast, cinematic lighting. A single, solitary anthropomorphic catfolk dancer silhouetted against a harsh light source (like a doorway or archway). The dancer is mid-movement, but the posture is clearly one of agony and compulsion, not joy. Emphasize the involuntary nature of the dance. Serious, dramatic, high-contrast mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Medium shot, high contrast, focused on the silhouetted catfolk dancer. The camera executes a slow, subtle pan, following the dancer's movement. Hero movement: The dancer performs a repetitive, painful, looping gesture of compulsion/agony. Micro-animations: Their ears are pinned back, the fabric of their clothes ripples slightly, subtle ambient light flickers behind them. The shadow cast by the figure moves slightly. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 14,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, wide shot of the public square (the previous scene of chaos), now completely and eerily empty under daylight. A single, abandoned 16th-century shoe or piece of clothing lies on the cobblestones. The atmosphere is silent, abandoned, and unsettling. The epidemic has vanished. Serious, contemplative mood, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. Wide, contemplative shot of the empty public square. The camera executes a very slow, smooth dolly out and upward tilt. The only visual movement is dust motes slowly settling and looping in the bright air. Micro-animations: A single, abandoned piece of fabric gently flutters in the breeze, the shadows are static but the light intensity subtly changes (suggesting time passing). Strong sense of quiet aftermath. Seamless loop, no text or UI elements."
+    },
+    {
+      "id": 15,
+      "image_prompt": "16-bit pixel art, visible pixels, limited color palette, extreme dramatic lighting, deep shadows. A haunting final image: A narrow, dark alleyway in Strasbourg. A faint, slightly transparent, ghostly silhouette of an anthropomorphic catfolk dancer is briefly visible against a stone wall, suggesting a lingering presence or mystery. The mood is chilling, historical, and unresolved. Serious, cinematic final shot, no text or UI elements.",
+      "video_prompt": "16-bit pixel art, visible pixels, limited color palette, SNES RPG cutscene aesthetic. A slow, dramatic tilt up into a shadowed corner of a narrow alleyway. The atmosphere is heavy and cold. Hero movement: A faint, shimmering, transparent ghost-like figure of a catfolk dancer briefly manifests and performs a single, looping, agonizing dance gesture before fading slightly. Micro-animations: Mist or cold breath subtly rises and loops, dynamic shadows shift slightly, subtle pixel noise/shimmer on the ghostly figure. Seamless loop, no text or UI elements."
+    }
+  ]
+}

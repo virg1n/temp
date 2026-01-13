@@ -1,0 +1,10 @@
+{
+  "topic": "Он продал Эйфелеву башню. ДВАЖДЫ",
+  "language": "ru",
+  "target_seconds": 60,
+  "segments": 15,
+  "tts_engine": "elevenlabs",
+  "image_engine": "gemini",
+  "keep_artifacts_flag": false,
+  "created_at": "2026-01-14T01:37:00"
+}
