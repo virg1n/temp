@@ -1,0 +1,95 @@
+{
+  "topic": "Он пережил 7 покушений — и умер от гриппа",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Cinematic, dramatic retro 16-bit pixel art SNES cutscene style. A regal, battle-scarred catfolk king, dressed in early 20th-century military uniform, stands defiant in a dimly lit, opulent palace hall. Contrast of a strong warrior figure and a frail, coughing posture. Limited palette, visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene, SNES style. A highly detailed shot of the catfolk king (early 20th-century uniform) standing in a grand, dimly lit hall. He raises a gloved hand slightly to his chest, momentarily suppressing a cough, his tail twitching slightly. Soft, slow push-in camera dolly (micro zoom). 2.5D parallax with heavy velvet curtains (foreground) and distant columns (background). Subtle dust motes drift in the shafts of light. Looping micro-animations: deep breathing, eye blink, cloth sway, flickering candlelight reflection on polished floor. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art, SNES style. Detailed interior of a lavish but heavily fortified bedroom (early 20th century). A weary catfolk king, wearing a silk dressing gown, lies tense in a large bed. His eyes are slightly open, and a heavy, ornate pistol rests on the pillow right next to his head. Dramatic low light from a single window. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES style. Detailed interior of a lavish but heavily fortified bedroom (early 20th century). A weary catfolk king, wearing a silk dressing gown, lies tense in a large bed. His eyes are slightly open, and a heavy, ornate pistol rests on the pillow right next to his head. Dramatic low light from a single window. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art, dramatic portrait style. A powerful, stern-faced catfolk king (Ahmet Zogu equivalent) wearing a detailed, early 20th-century Balkan military uniform and a traditional cap. He is framed against a severe, stone background, looking directly out. Visible pixels, limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene, cinematic portrait. The catfolk king stands rigid in his early 20th-century uniform against a rough stone wall. He slowly and deliberately turns his head a few degrees, scanning the area with wary eyes, then returns to the center. Subtle micro handheld camera sway. 2.5D parallax with a heavy banner or flag fabric (foreground edge) swaying slightly. Looping micro-animations: eye blink, slight movement of the tail, subtle shimmer on the brass buttons of the uniform. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art, SNES cinematic style. A determined catfolk figure, dressed in early 20th-century civilian clothes but looking hardened, walks through a narrow, perilous mountain pass at dusk. The path is rocky and dangerous. Visible pixels, dramatic shadows, deep colors. Focus on persistence and survival. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES cinematic style. A determined catfolk figure, dressed in early 20th-century civilian clothes but looking hardened, walks through a narrow, perilous mountain pass at dusk. The path is rocky and dangerous. Visible pixels, dramatic shadows, deep colors. Focus on persistence and survival. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art, dark and intense scene. Two distinct groups of traditional Albanian-dressed catfolk (early 20th century) face off menacingly in a dusty, narrow village street. One group holds rifles; the tension is palpable. Visible pixels, heavy shadows. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A tense standoff between two groups of armed catfolk in traditional attire in a dusty village square. The protagonist catfolk (Zogu) is visible in the background, observing the conflict with cold resolve. Micro handheld camera shake. 2.5D parallax with a low stone wall (foreground) and distant, smoky mountains (background). Fine dust particles swirl across the ground. Looping micro-animations: Rifles are slightly adjusted in grip, tails twitch, smoke drifts from a nearby chimney, slight wind movement on clothing. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art, highly symbolic scene. The catfolk king sits alone at a highly polished, dark wood table. He stares intensely at a single, heavy, loaded revolver resting under a harsh spotlight. Dramatic contrast, limited color palette. SNES RPG style focus shot. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Close focus on the catfolk king's hands resting near the heavy revolver on the table. Soft, slow pull-out camera dolly (micro zoom out). 2.5D parallax with the edge of the table (foreground). The king slowly closes his hand into a tight fist, then subtly relaxes it, repeating the gesture of intense contemplation. A harsh, flickering spotlight creates dancing shadows on the wall. Looping micro-animations: subtle finger twitch, light reflecting off the barrel of the revolver shimmers, soft breathing. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art, historic government building interior (Tirana, 1923). A catfolk politician (Zogu) stands near a podium in a formal but slightly chaotic hall. The lighting is harsh. Focus on the moment just before impact. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Inside a crowded, early 20th-century parliamentary hall. The catfolk politician (Zogu) gestures emphatically at a podium. Soft, slow pan across the crowded assembly hall. 2.5D parallax with formal flags/banners (foreground). Looping micro-animations: slight movement of the politician's hand during the gesture, ambient crowd murmuring suggested by subtle head movements in the background, dust motes catching the light. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art, intense close-up. The catfolk politician grimaces, clutching his side where blood stains his suit jacket. He is leaning heavily against a marble wall, determined not to fall. Dramatic lighting emphasizes pain and survival. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Close-up on the injured catfolk, leaning heavily against a marble column. He slowly and painfully adjusts his grip on the wound area, wincing slightly. Micro handheld camera movement suggests instability. 2.5D parallax with the column (foreground). Looping micro-animations: heavy, ragged breathing, subtle quiver in his posture, slight drip of blood visible on the floor below, ears flattened back in pain. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art, chaotic interior scene. The interior of the Parliament building (1924). Catfolk members are ducking for cover. Zogu stands firm amid the chaos. Intense action, limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Chaos erupts on the Parliament floor. Catfolk figures in suits dive behind benches. Soft, gentle lateral pan (micro dolly left) to reveal the extent of the panic. 2.5D parallax with overturned chairs (foreground). Looping micro-animations: papers flutter down from above, shouting implied by rapid head turns, smoke/muzzle flash residue hangs in the air, flickering light from broken fixtures. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art, action shot. The catfolk politician (Zogu) stands over a fallen piece of furniture, aiming and firing a pistol fiercely across the room. Smoke billows from the muzzle. Heroic, determined posture. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The catfolk (Zogu) crouches behind a marble pedestal in the Parliament. He quickly pops up, fires his pistol once (muzzle flash and smoke visible), and immediately ducks back down, checking his surroundings. Soft, rapid tilt up/down camera movement synchronized with his action. 2.5D parallax with the pedestal (foreground). Looping micro-animations: smoke dissipates slowly, heavy breathing, ears twitching, he checks the chamber of the pistol quickly before popping back up. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art, European city street scene (Vienna, 1930s). Elegant, snowy street outside a grand opera house. Focus on the architecture and atmosphere. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A wide shot of a grand, European opera house entrance at night (Vienna, 1930s). Soft, slow tilt up camera movement, emphasizing the height of the building. 2.5D parallax with a gas lamp post (foreground) and the opera facade (background). Fine, gentle snow falls continuously. Looping micro-animations: snow accumulation on ledges, subtle flickering of the gas lamp, light reflecting off the wet cobblestones. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art, intense street action. The catfolk king (Zogu, in formal evening wear) steps out onto the snowy sidewalk. Two shadowy catfolk figures emerge from the darkness, raising weapons. Dramatic contrast between light and shadow. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The catfolk king steps briskly out of the opera entrance onto the snowy sidewalk. He stops abruptly, his ears flattening instantly as he perceives the threat and quickly reaches inside his coat for his weapon. Quick micro pan to follow his head turning sharply. 2.5D parallax with a large decorative potted plant (foreground). Fine snow falls. Looping micro-animations: slight shift of weight as he prepares to draw, snow falling, breath visible as a faint mist, tension in his shoulders. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art, chaotic street battle. Zogu and his adjutant (both catfolk in formal wear) are crouched behind a car, firing back intensely at unseen attackers. Muzzle flash and smoke dominate the frame. Snowy street setting. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Zogu (in formal evening wear) and his adjutant are positioned defensively behind a large black early 20th-century automobile on a snowy street. Zogu quickly reloads his weapon (a visible, precise motion of snapping the magazine/cylinder shut) and glances over the roof of the car. Soft, slow dolly back camera movement. 2.5D parallax with the car bumper (foreground). Fine snow falls, and wisps of gun smoke drift rapidly across the scene. Looping micro-animations: reloading action, intense breathing, snow falling, flickering muzzle flashes reflected on the car's chrome. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art, symbolic shot. A determined catfolk king stands alone on a battlefield or rubble pile. Seven distinct bullet holes are visible in the stone wall behind him, arranged dramatically. He looks invincible. Visible pixels, cinematic framing. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The catfolk king stands defiant amidst the rubble of a conflict zone. He slowly raises his chin, his gaze fixed on the horizon, before slowly lowering it, a look of grim satisfaction. Soft, slow tilt up camera movement. 2.5D parallax with broken debris (foreground). Fine dust motes rise slowly from the rubble. Looping micro-animations: slow head movement, deep breath, dust motes drifting, slight wind causing his coat lapel to flutter. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art, somber scene. The catfolk king stands on the deck of a ship, looking back at a distant, darkening shoreline. He is dressed in civilian clothes, his posture heavy with defeat. Limited palette, melancholic mood. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The catfolk king stands at the rail of a ship, gazing intensely at the receding, dark shoreline. He slowly reaches out a hand towards the land, a gesture of loss, before pulling it back to grip the rail tightly. Soft, gentle pan (dolly) away from the king, emphasizing distance. 2.5D parallax with the ship's railing (foreground) and choppy waves (midground). Looping micro-animations: subtle sway of the ship, gentle rocking motion of the king, waves moving, the king's hand gesture. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 16,
+      "image_prompt": "Retro 16-bit pixel art, calm, domestic scene (1940s/50s European villa). The older catfolk king is reading a book by a fireplace, looking relaxed but slightly bored. Contrast of previous tension and current peace. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. The older catfolk king sits comfortably in a deep armchair by a warm fireplace in a quiet villa. He slowly turns a page of the book he is reading, then adjusts his glasses slightly on his nose. Soft, slow micro handheld camera sway. 2.5D parallax with the edge of the mantelpiece (foreground). Looping micro-animations: gentle crackle and flicker of the firelight, smoke rising from the fireplace, gentle breathing, page turning gesture. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 17,
+      "image_prompt": "Retro 16-bit pixel art, Parisian apartment interior (1961). A minimalist, slightly sterile room. Focus on a single, clean bed. The atmosphere is quiet, clinical. Late life setting. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. A quiet, clinical interior of a Parisian apartment bedroom (1961). Soft, slow tilt down, focusing on the empty side table next to the bed. 2.5D parallax with the foot of the bed (foreground). Looping micro-animations: subtle dust motes floating in the light shaft from the window, gentle sway of thin curtains caused by a breeze, slight reflection shimmer on the polished wood floor. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 18,
+      "image_prompt": "Retro 16-bit pixel art, highly dramatic final scene. The elderly catfolk king lies frail and pale in the bed, clearly ill with fever, surrounded by sterile white sheets. His posture is weak and defeated, contrasting sharply with his previous warrior image. Focus on the sad irony. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene. Close-up on the elderly, frail catfolk king lying gravely ill in a clean, white bed. He weakly raises a hand to wipe sweat from his brow, a gesture of feverish struggle, before letting his hand fall heavily back onto the sheet. Soft, slow zoom in (dolly). 2.5D parallax with the bed curtain rail (foreground). Looping micro-animations: shallow, labored breathing, slight tremor in his hand, subtle flickering of room light, sweat visible on his brow. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}

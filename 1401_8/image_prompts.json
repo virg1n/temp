@@ -1,0 +1,95 @@
+{
+  "topic": "Он стал президентом… и умер через месяц от стакана воды",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Cinematic portrait of William Henry Harrison, a dignified elderly catfolk wearing 19th-century formal civilian attire (suit and cravat), standing against a dark, dramatic background. Serious, pensive expression. Retro 16-bit pixel art, SNES RPG cutscene style, limited palette. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow cinematic zoom (micro dolly in) on the elderly catfolk president (Harrison). He stands rigidly, his tail slightly swaying with anxiety. Subtle breathing animation. Foreground elements (like velvet drapes) show 2.5D parallax shift. Dynamic, soft light catches the texture of his pixelated fur. Micro-animations: blinking, subtle hand clench, ears twitching slightly. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "A close-up, dramatic shot of an elderly catfolk's face (Harrison), deeply lined, looking determined and slightly weary. The light highlights his features, emphasizing the passage of forty years. He wears 19th-century formal attire. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. Cinematic composition. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Very slow, deliberate pan across the solemn face of the elderly catfolk (Harrison). His eyes blink slowly; his breath is deep and steady. 2.5D parallax: a slight shift in the background wall texture. Dynamic shadows shift subtly across his face, simulating light flicker. His whiskers twitch slightly. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "A heroic, action-oriented depiction of a younger catfolk (Harrison) wearing early 19th-century US military uniform (General's epaulets). He stands dynamically on a muddy battlefield after a victory (Tippecanoe). Smoke lingers in the background, dimly lit by firelight. Cinematic, dramatic lighting. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Soft, slow tilt up from the muddy ground to the victorious catfolk General (Harrison). Smoke particles drift realistically across the midground. Subtle firelight flickers on his armor/uniform. His cape/coat fabric sways gently in the unseen wind. He performs a slow, heroic loopable gesture: slightly lowering and then raising his sword/saber, reflecting the firelight. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "A melancholic, low-angle shot of the 68-year-old catfolk (Harrison) looking down, his face shadowed, emphasizing his age and weariness. He is dressed in campaign-era civilian clothes. The scene suggests a dimly lit room or backstage area. Retro 16-bit pixel art, SNES RPG cutscene style. Limited palette. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Micro handheld camera shake effect focused on the aged catfolk (Harrison). He stands still, breathing heavily. He performs a loopable movement: a slight, weary sigh followed by a slow, subtle shake of his head (denying the accusation of being old). Dust motes drift slowly in the midground light beam. His ears droop slightly and then perk up. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "A powerful, medium shot of the catfolk candidate (Harrison) standing tall, chin raised in fierce determination. His eyes are fixed straight ahead, challenging the viewer. Strong, dramatic backlighting (rim light). He wears formal 19th-century attire. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, dramatic dolly zoom (pulling back slightly while zooming in) on the determined catfolk. He performs a loopable gesture: he grips his cane or the podium edge tightly, demonstrating strength. His chest expands slightly with determined breaths. Dynamic highlights catch the movement of his gripping hand. His tail flicks sharply once, then settles. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Wide establishing shot of Washington D.C. in 1841. Iconic architecture (like the Capitol building facade) visible in the distance, partially obscured by cold, gray weather. Foreground features bare trees or colonial street elements. Limited, muted color palette reflecting cold. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, gentle pan across the wide shot of 1841 Washington D.C. Heavy, pixelated snow or freezing rain falls continuously (particle effect). Subtle 2.5D parallax between the street pavement (FG) and the distant buildings (BG). Tiny pixelated figures (catfolk citizens) can be seen moving slowly in the middle ground, enduring the cold. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Close-up on the inauguration stage/platform. The scene is dominated by harsh, driving wind. Catfolk onlookers in the background are huddled and visibly cold. Gray, dramatic lighting. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Camera slightly tilts down, emphasizing the exposed platform. Severe wind animation: the fabric of flags/banners whips violently (loopable animation). Particles of ice/freezing drizzle sweep across the frame. 2.5D parallax where the foreground railing remains steady while the background crowd sways against the wind. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "The elderly catfolk (Harrison) stands proudly on the cold inauguration platform. He is clearly visible without a heavy coat or hat, contrasted against other bundled-up catfolk officials nearby. Determined, challenging stance. Retro 16-bit pixel art, SNES RPG cutscene style. Dramatic shadow contrast due to the harsh light. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow dolly out, revealing the catfolk (Harrison) exposed to the elements. He performs a loopable movement: he firmly adjusts his collar or cravat, signifying his refusal to put on a coat. His ears flatten slightly against the wind, then return. Cloth animation: his tail fur and suit jacket subtly ripple in the persistent cold wind. Freezing particles are visible. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Medium shot of the catfolk President (Harrison) at the podium, his mouth slightly open mid-speech. He looks strained but committed. A vast, blurred crowd of catfolk stretches into the background. Dramatic lighting focused solely on him. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Fixed shot, subtle micro-handheld shake. The catfolk (Harrison) performs a loopable speaking gesture: a slight raising and lowering of his hand for emphasis, then returning to rest on the podium. Visible breath condensation (small white puffs) appears and dissipates quickly in the cold air. His chest rises and falls rapidly, showing exertion. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "High contrast shot of the catfolk President (Harrison) drenched in icy rain. Water streams down his face and uniform. He looks utterly exhausted but still standing. Dark, cold color palette. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, continuous tilt up, following the driving line of the freezing rain particles hitting the catfolk (Harrison). Water visibly drips from his ears and soaked uniform. Loopable movement: he shivers visibly, a subtle, full-body tremor. Dynamic light reflections glint off the wet surface of his clothes. 2.5D parallax: the rain hitting the foreground railing moves faster than the rain in the background. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Close-up on the catfolk President (Harrison) immediately indoors, looking pale and unwell. He is holding a handkerchief or cuff near his mouth. The light is dim and warm (indoor contrast to the cold outside). Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Soft, slow dolly in towards the unwell catfolk (Harrison). He performs a loopable action: a suppressed, deep cough (or clearing of the throat), followed by a pained expression. His breathing is shallow and rapid. Subtle steam rises from a nearby cup (atmospheric particle effect). His tail hangs limp. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Dramatic, high-contrast shot of the catfolk President lying in bed, sweating heavily. His eyes are closed, suggesting fever. He is surrounded by dark, heavy curtains. Limited, warm/sickly yellow and red palette. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Micro tilt down and slight pan across the feverish catfolk in bed. Heat shimmers visibly above his forehead (subtle particle effect). Loopable movement: he twitches restlessly under the covers, mumbling slightly. His breathing is visibly labored. Dynamic, flickering light (like a nearby oil lamp) makes the shadows dance on the wall. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Extremely close-up, melancholic shot of the catfolk's hand resting weakly and frail on the white bedsheets. Deep shadows surround the focus point. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Fixed shot with a very slow, shallow focus pull, emphasizing the frailty of the hand. Loopable movement: the fingers of the catfolk's hand twitch weakly and then relax onto the sheet. Subtle movement of the sheet fabric as he breathes shallowly. Dust motes drift slowly near the hand. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "A dramatic, centered shot of a simple, opaque glass of water sitting on a polished wooden surface (nightstand). The water looks murky or shadowed, implying contamination. The background is dark and indistinct. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, deliberate dolly in towards the glass of murky water. Loopable movement: subtle ripples or movement within the water surface (suggesting microscopic life or instability). Dynamic lighting: a single beam of light strikes the glass, and dust particles float visibly around it. 2.5D parallax: the surface below the glass shifts slightly. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "A grim, detailed depiction of a dark, damp, pixelated basement or service area beneath a grand building (White House). Visible pipes, dripping water, and general filth, rendered in a sickly green/brown palette. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, steady pan across the foul, dark basement. Water drips continuously from a broken pipe (particle/animation effect) into a stagnant puddle in the foreground. Subtle steam or miasma rises from the wet ground. 2.5D parallax: the background wall texture shifts slowly against the foreground pipes. Dynamic light flickers unevenly. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 16,
+      "image_prompt": "A symbolic image: a single, ornate calendar page (no numbers/text visible) hanging slightly askew, with a dramatic shadow falling across it, suggesting a very short span of time. Dramatic, dark composition. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Soft, slow tilt up on the symbolic calendar page. Loopable movement: a single, slow, pixelated teardrop or drop of water slides down the paper's surface. The shadow cast across the page shifts subtly (time passing). Subtle air movement makes the edge of the page ripple gently. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 17,
+      "image_prompt": "A solemn, respectful wide shot of the catfolk President (Harrison) lying peacefully, deceased, in a formal, darkened room. Officials (other catfolk) stand respectfully in the shadows in the background. Cinematic, somber lighting. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Very slow, respectful dolly out from the deceased catfolk, revealing the solemn room. Particles of dust float softly in the heavy air. Dynamic light: a candle or distant lamp flickers, making the shadows of the mourning catfolk officials shift slowly on the wall. The fabric of the curtains sways imperceptibly. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 18,
+      "image_prompt": "The ghost-like, translucent image of the catfolk (Harrison) stands regretfully beside a heavy, pixelated 19th-century overcoat hanging on a hook. The coat is solid and real, contrasting with the ethereal figure. Dramatic, moody lighting. Retro 16-bit pixel art, SNES RPG cutscene style. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, gentle pull back (dolly out) from the coat. The translucent catfolk figure (Harrison) performs a loopable movement: he slowly reaches out his spectral hand toward the coat, hesitates, and withdraws it, a gesture of eternal regret. The coat fabric sways slightly due to the implied movement. Subtle ethereal glow/mist particles around the ghost figure. Loopable. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "topic": "The tragedy of Ignaz Semmelweis (Catfolk Edition)",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Cinematic, dramatic 16-bit pixel art cutscene. A stern catfolk doctor (Semmelweis) in 19th-century surgical attire (dark coat, white apron) stands isolated and defiant in a long, tiled hospital corridor. He is illuminated by a single harsh, overhead gas lamp light. Two shadowy catfolk figures (senior doctors) stand in the background, arms crossed, looking down on him with intense disapproval. Limited color palette, visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Slow, soft camera push-in (dolly forward) on the defiant catfolk doctor (Semmelweis) standing in the harsh light of a hospital corridor. Dynamic flickering gaslight source casting moving shadows. Fine dust motes drift slowly in the light beam (particles). The doctor is breathing heavily, his tail twitches slightly with tension, and he performs a subtle, looping gesture of defiance, gripping the lapel of his coat firmly (heroic movement loop). The background doctors slightly shift their weight, their ears twitching in anger. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art cutscene, highly dramatic. A claustrophobic, dimly lit ward room in a 19th-century Viennese hospital. Foreground focus on a catfolk mother lying weakly in a simple bed, shadowed and distressed. A worried catfolk nurse hovers nearby. The atmosphere is heavy and oppressive. Limited palette, visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art cutscene, highly dramatic. A claustrophobic, dimly lit ward room in a 19th-century Viennese hospital. Foreground focus on a catfolk mother lying weakly in a simple bed, shadowed and distressed. A worried catfolk nurse hovers nearby. The atmosphere is heavy and oppressive. Limited palette, visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Cinematic 16-bit pixel art establishing shot of 19th-century Vienna (cityscape view through a narrow alley). The atmosphere is dark and ominous. In the foreground, stylized, hazy green or grey vapor (representing the fever/miasma) hangs heavy. The architecture is detailed and historical. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Wide shot of a dark 19th-century Viennese street scene. Slow, subtle pan left across the scene (camera movement). Heavy, stylized green/grey particulate mist (the fever) slowly swirls and drifts across the cobblestones (particles). Soft light sources (distant oil lamps) flicker gently. Smoke drifts from chimneys in the background (micro-animation). Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Dramatic 16-bit pixel art cutscene. Close-up on a heavy, dark wooden door inside a hospital. A single catfolk figure (a grieving relative) is slumped against the wall nearby, head bowed in despair. The lighting is low and mournful. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Dramatic 16-bit pixel art cutscene. Close-up on a heavy, dark wooden door inside a hospital. A single catfolk figure (a grieving relative) is slumped against the wall nearby, head bowed in despair. The lighting is low and mournful. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Stark, cinematic 16-bit pixel art. An extremely long, symmetrical view down a hospital ward hallway. The perspective emphasizes the vast number of empty or recently vacated beds, symbolizing the high mortality rate. The lighting is cold and unforgiving. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. A slow, continuous pan right across the row of stark, empty hospital beds stretching into the distance. Strong 2.5D parallax effect emphasizing the depth of the hallway. Subtle, rhythmic flicker from gas lamps lining the ceiling. A faint, cold breeze causes thin curtains to billow slightly (micro-animation). Moving shadows across the tiled floor. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Highly stylized, dramatic 16-bit pixel art close-up. Focus on the hands of a catfolk doctor, clad in 19th-century surgical sleeves. The hands are visibly smeared with a stylized, dark, ominous substance (the 'cadaverous particles'). The background is dark and indistinct. The mood is horrifying. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Highly stylized, dramatic 16-bit pixel art close-up. Focus on the hands of a catfolk doctor, clad in 19th-century surgical sleeves. The hands are visibly smeared with a stylized, dark, ominous substance (the 'cadaverous particles'). The background is dark and indistinct. The mood is horrifying. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Heroic, cinematic portrait in 16-bit pixel art. Dr. Ignaz Semmelweis (a thoughtful, determined catfolk man) stands in a professional pose, wearing a crisp 19th-century suit and medical coat. He holds a ledger or notebook. The background is an austere, professional office or library. Strong, dramatic backlighting. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Heroic, cinematic portrait in 16-bit pixel art. Dr. Ignaz Semmelweis (a thoughtful, determined catfolk man) stands in a professional pose, wearing a crisp 19th-century suit and medical coat. He holds a ledger or notebook. The background is an austere, professional office or library. Strong, dramatic backlighting. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Dramatic split-scene 16-bit pixel art. On the left, a cold, clinical morgue setting with a shrouded figure on a slab. On the right, a warm, anxious delivery room. A catfolk doctor is crossing the threshold between the two scenes, looking grim. The transition is stark. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. A focused shot on a doorway threshold separating a cold, blue-lit morgue (BG) and a dim, yellow-lit delivery room (FG). A catfolk doctor (not Semmelweis) steps across the threshold, wiping his hands quickly on his apron (looping movement). The lighting shifts dramatically as he crosses. Cold vapor/mist rises from the morgue side (particles). Subtle 2.5D parallax as the camera slightly pans to follow the doctor's movement. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Highly stylized, dramatic 16-bit pixel art close-up on the catfolk doctor's hands, now seen under a harsh, clinical light. Stylized green/black noxious energy or particles visually emanate from the skin. The image is disturbing and clinical. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Extreme close-up, slightly tilted view of the doctor's contaminated hands held out. Soft, micro handheld camera shake. The stylized noxious particles (trupny yad) visibly shimmer and slowly rise off the hands in the dim light (particles). The doctor's fingers subtly clench and relax (micro-animation loop). The shadows shift slowly across the hands. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Cinematic 16-bit pixel art cutscene. Dr. Semmelweis (catfolk) standing determinedly at a simple stone wash basin in a hospital utility room. He is vigorously scrubbing his hands. The lighting is focused and revealing, highlighting the clean water contrasting with the grime. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Slow, soft zoom-in (dolly) on Semmelweis vigorously washing his hands in the stone basin. Water splashes slightly and reflects the light (micro-animation). Steam or mist gently rises from the basin (particles). Semmelweis performs a continuous, looping action of scrubbing his hands and forearms, looking focused and determined (heroic movement loop). His ears are slightly flattened with concentration. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Close-up, highly detailed 16-bit pixel art of a glass beaker or ceramic pot containing a milky, bright solution (calcium chloride/chlorine water). The liquid glows slightly under the harsh light. Focus on the chemical substance itself. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Tight shot of the milky chlorine solution in a glass container on a wooden counter. Subtle micro handheld camera shake. The solution gently swirls and settles (micro-animation). Faint, stylized gaseous vapor (representing the chlorine smell) rises slowly from the liquid (particles). Dynamic light flickers, causing the liquid's surface to sparkle slightly. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Bright, optimistic 16-bit pixel art cutscene. A clean, well-lit delivery room. A catfolk mother holds a newborn kitten, smiling weakly but healthily. Dr. Semmelweis stands nearby, looking relieved and successful. The atmosphere is warm and hopeful. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Slow, soft pan right across the peaceful, well-lit maternity scene. The catfolk mother gently rocks the swaddled newborn kitten (micro-animation loop). Semmelweis stands in the background, subtly nodding and making a small, looping gesture of satisfaction (e.g., folding his hands). Sunlight streams through the window, providing bright, shimmering dust particles. The mother's tail curls contentedly. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Dramatic 16-bit pixel art. Semmelweis (catfolk) standing proudly, while a group of three elderly, severe catfolk doctors in dark robes stand in the foreground, their faces contorted in outrage and disbelief. High contrast lighting in a lecture hall setting. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Dramatic 16-bit pixel art. Semmelweis (catfolk) standing proudly, while a group of three elderly, severe catfolk doctors in dark robes stand in the foreground, their faces contorted in outrage and disbelief. High contrast lighting in a lecture hall setting. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Cinematic 16-bit pixel art close-up on the face of a haughty, aristocratic catfolk doctor (opponent), wearing formal 19th-century attire. His expression is one of extreme disdain and contempt, looking down his nose. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Extreme close-up on the face of the arrogant catfolk doctor. Slow, subtle pan across his face, emphasizing his sneer. He performs a looping action of scoffing, slightly shaking his head in disbelief, and adjusting his spectacles with a dismissive gesture (heroic movement loop). His whiskers and ears twitch with contempt. Subtle light shifts across his face. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Dramatic, dark 16-bit pixel art. A catfolk doctor (one of Semmelweis's opponents) is alone in a dark study, head in hands, slumped over a desk covered in papers. The light is dim, emphasizing his psychological burden and guilt. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Dramatic, dark 16-bit pixel art. A catfolk doctor (one of Semmelweis's opponents) is alone in a dark study, head in hands, slumped over a desk covered in papers. The light is dim, emphasizing his psychological burden and guilt. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 16,
+      "image_prompt": "Somber 16-bit pixel art cutscene. Dr. Semmelweis (catfolk), looking defeated, walks away from the imposing, severe facade of the hospital building into a cold, grey street. He is carrying a small bag or case. The hospital entrance is massive and unforgiving. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Wide shot of the imposing hospital entrance. Slow, continuous pan right as the defeated catfolk Dr. Semmelweis walks away from the building towards the foreground. A cold wind causes his coat to billow slightly (micro-animation). Subtle snow or cold rain particles drift down. He performs a slow, looping movement of turning his head back once toward the hospital, then continuing his walk (heroic movement loop). Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 17,
+      "image_prompt": "Dark, dramatic 16-bit pixel art. The maternity ward is once again grim and shadowed. A terrified catfolk nurse witnesses another patient succumbing to the fever. The atmosphere is tense and fearful, a return to suffering. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Focus on a distressed catfolk nurse standing by a patient's bed in the dark ward. Slow, soft camera pull-out (dolly back). Dynamic shadows crawl across the scene due to rapid flickering from a nearby candle. The nurse is breathing rapidly and performs a looping gesture of covering her mouth in horror (heroic movement loop). Dust motes dance in the harsh, low light. Her tail is tucked tightly. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 18,
+      "image_prompt": "Tragic, somber 16-bit pixel art scene. Dr. Semmelweis (catfolk), now looking disheveled and aged, is confined to a stark, padded room or asylum cell. He is alone, staring blankly at his hands. The only light source is weak and institutional. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Looping 16-bit pixel art animation. Tight shot on the confined, distressed catfolk Semmelweis in the asylum cell. Subtle micro handheld shake. He performs a repetitive, looping, obsessive action: rubbing his hands together vigorously, as if still trying to wash them clean, driven by trauma (heroic movement loop). His eyes blink slowly, showing deep exhaustion. Cold, institutional light flickers slightly on the rough stone walls. His ears twitch nervously. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}

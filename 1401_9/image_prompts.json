@@ -1,0 +1,95 @@
+{
+  "topic": "The shortest war in history lasted less than an hour",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "A highly detailed, dramatic 16-bit pixel art cinematic shot in SNES RPG cutscene style. Extreme close-up of a shattered, ornate pocket watch lying on dusty, sun-baked cobblestones. The watch hands are frozen. Dramatic shadows and limited color palette emphasize the frozen time. Anthropomorphic catfolk history context implied. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A highly detailed, dramatic 16-bit pixel art cinematic shot in SNES RPG cutscene style. Extreme close-up of a shattered, ornate pocket watch lying on dusty cobblestones. The camera performs a very slow, shallow dolly zoom out. The sun flares slightly, causing subtle lens bloom and dust motes to drift slowly past the broken glass. The broken hands subtly glint in the shifting light. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "A highly detailed, dramatic 16-bit pixel art cinematic shot in SNES RPG cutscene style. Extreme close-up of a shattered, ornate pocket watch lying on dusty, sun-baked cobblestones. The hands are frozen at thirty-eight minutes past the hour. Dramatic shadows and limited color palette emphasize the finality. Anthropomorphic catfolk history context implied. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A highly detailed, dramatic 16-bit pixel art cinematic shot in SNES RPG cutscene style. Extreme close-up of a shattered, ornate pocket watch lying on dusty cobblestones. The camera performs a slow, subtle handheld micro-shake. Fine particles of sand and dust drift lazily across the frame. The polished metal casing of the watch catches a dynamic flicker of light, suggesting heat haze. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "A wide, cinematic 16-bit pixel art view of Stone Town, Zanzibar, in 1896, SNES RPG cutscene style. Busy tropical port scene with white coral stone buildings and intricate wooden balconies. Catfolk in historical East African attire are moving through the crowded market street. Bright equatorial sunlight, strong contrast. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A wide, cinematic 16-bit pixel art view of Stone Town, Zanzibar, 1896. The camera slowly pans right, revealing the bustling port activity (2.5D parallax). Catfolk in market attire are walking (micro-looping steps). Palm tree fronds gently sway in the breeze. Dust particles drift in the intense tropical sunlight. Gentle breathing and tail swishing micro-animations on the foreground catfolk. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "A dramatic 16-bit pixel art scene, SNES RPG cutscene style. Interior shot of a lavish, dimly lit Zanzibari palace chamber. A deceased catfolk Sultan, wearing traditional, rich robes, lies solemnly on a funeral bier. Mourning catfolk guards stand vigil. Muted, somber lighting, limited palette. Serious and cinematic mood. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A dramatic 16-bit pixel art scene, SNES RPG cutscene style. Interior shot of a lavish, dimly lit Zanzibari palace chamber. The camera performs a very slow, subtle tilt up, emphasizing the height of the ornate chamber. Torches flicker on the walls, casting dynamic, dancing shadows across the silent catfolk guards. One guard (protagonist) subtly shifts his weight and bows his head in respect (looping action). Incense smoke rises slowly towards the ceiling. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "A highly detailed, dramatic 16-bit pixel art interior shot of a grand throne room in a Zanzibar palace, SNES RPG cutscene style. An imposing, determined catfolk (Khalid, the nephew) wearing rich, traditional Zanzibari robes stands proudly on a raised dais, glaring defiantly. The room is opulent but tense. Strong shadows. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A highly detailed, dramatic 16-bit pixel art interior shot of a grand throne room. The camera performs a slow, subtle dolly in on the determined catfolk usurper (Khalid). He is breathing deeply, his chest slightly rising and falling. His ears and tail twitch slightly with nervous energy. A subtle heat haze shimmers near the high windows. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "A dramatic 16-bit pixel art scene, SNES RPG cutscene style. A wide shot of the entrance to the Sultan's Palace in Zanzibar. Catfolk soldiers loyal to Khalid, armed with rifles and traditional weapons, are hastily securing the gates and barricading the entrance. Determined expressions, strong midday sun. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A dramatic 16-bit pixel art scene of the palace entrance. The camera performs a slow, subtle pan across the barricaded gate. A catfolk officer (protagonist) quickly checks the rifle of a guard and nods decisively (looping inspection gesture). Dust swirls around their feet. The shadows of the palm trees outside gently move across the stone walls. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "A dramatic 16-bit pixel art scene inside a British Naval command post, SNES RPG cutscene style. A stern, impeccably uniformed British Naval Officer (catfolk) in colonial 1890s attire leans over a rough wooden table lit by a single oil lamp. He is delivering a forceful ultimatum to a subordinate. Tense atmosphere, strong contrast between light and shadow. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A dramatic 16-bit pixel art scene inside a command tent. The camera performs a slow, subtle tilt up from the map on the table to the face of the stern British Naval Officer (catfolk). He is speaking forcefully (looping mouth movement/whisker twitch) and taps the table emphatically with his finger. The oil lamp flickers intensely, causing dynamic light shifts and shadows to jump across their faces. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "A tense, cinematic 16-bit pixel art close-up, SNES RPG cutscene style. Focus on the determined, unyielding face of the catfolk officer (British). He holds a precise pocket watch, awaiting the expiration of the ultimatum. Harsh morning light, serious expression. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A tense, cinematic 16-bit pixel art close-up. Focus on the determined catfolk officer (British). He slowly raises the pocket watch to eye level, checks it, and then lowers it again (looping gesture). The camera performs a soft, slow handheld shake, emphasizing tension. Strong morning sunlight glints sharply off the brass buttons of his uniform. Subtle steam rises from his tense breath. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "A wide, cinematic 16-bit pixel art view of the palace courtyard at dawn, SNES RPG cutscene style. Three thousand Zanzibari soldiers (catfolk, mixed traditional/outdated uniforms) are hastily forming ranks, looking poorly equipped but resolute. Dust hangs in the air. Dramatic, pre-dawn orange/purple sky. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A wide, cinematic 16-bit pixel art view of the palace courtyard at dawn. The camera slowly dollies forward into the crowd. A leading catfolk officer (protagonist) frantically adjusts his helmet strap and looks around nervously (looping action). The large crowd of soldiers subtly shifts and breathes. Faint smoke/mist rises from the ground in the cool morning air. Subtle light flickering from distant lamps. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "A dramatic 16-bit pixel art shot, SNES RPG cutscene style. Focus on a single, old, armed wooden sloop anchored near the shore, dwarfed by the palace walls. Catfolk sailors are frantically loading supplies and checking a small cannon. The scene is desperate and hurried. Dark water, early morning light. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A dramatic 16-bit pixel art shot of the Zanzibari sloop. The camera performs a slow tilt down, following the mast to the deck. A catfolk sailor (protagonist) strains to pull a heavy rope, securing a cannon (looping pull action). The sloop gently bobs on the choppy water (subtle vertical parallax shift). Fine sea spray particles mist the air. The lantern hanging from the mast subtly swings. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "An imposing, wide 16-bit pixel art view of the British naval squadron anchored off the coast of Zanzibar, SNES RPG cutscene style. Five massive steel warships dominate the horizon. Hundreds of British sailors (catfolk in white tropical uniforms) line the decks. Dark, heavy sea, dramatic clouds. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "An imposing, wide 16-bit pixel art view of the British naval squadron. The camera performs a very slow, subtle pan across the five warships. Smoke gently curls from the funnels of the lead vessel. Sailors (catfolk) on the deck are subtly scanning the shore with binoculars (looping head turn). The ocean waves gently lap against the hulls. Subtle steam rises from the hot metal decks. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "A tense, detailed 16-bit pixel art shot on the deck of a British warship, SNES RPG cutscene style. Two thousand catfolk sailors, dressed in colonial naval uniforms, stand ready at attention near a large cannon. Their faces are grim and focused. Strong morning sun, sharp shadows. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A tense, detailed 16-bit pixel art shot on the deck of a British warship. The camera performs a slow, subtle dolly in towards the front rank of sailors. The lead catfolk gunner (protagonist) slowly loads a shell into the cannon breach, then closes it with a sharp click (looping preparation action). Steam vents slightly from the ship's machinery nearby. The sailors are breathing in unison. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "A highly dramatic 16-bit pixel art close-up, SNES RPG cutscene style. Focus on the determined face of the British Admiral (catfolk) on the bridge of his flagship. His eyes are fixed straight ahead, awaiting the exact minute. The scene is bathed in harsh morning light. Sweat beads subtly on his brow. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A highly dramatic 16-bit pixel art close-up of the British Admiral (catfolk). The camera performs a shallow dolly in, increasing tension, with a slight handheld wobble. The Admiral slowly, deliberately raises his hand to signal the order, then holds the position (looping gesture). His whiskers twitch slightly. The sunlight glints off the brass railings of the bridge, shimmering due to ship motion. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "A dramatic, cinematic 16-bit pixel art close-up of a massive naval gun on a British warship, SNES RPG cutscene style. A loader (catfolk) shields his ears while the gun fires. A huge cloud of thick, white smoke and orange muzzle flash obscures the view forward. Intense, high-contrast lighting. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A dramatic, cinematic 16-bit pixel art close-up of a massive naval gun. The gunner (catfolk protagonist) quickly steps back after pulling the lanyard (looping action). Immediately, a massive burst of orange muzzle flash and smoke explodes forward, momentarily covering the screen. The scene vibrates violently (camera shake). Hot brass shrapnel/sparks fly outward and dissipate. The smoke slowly begins to dissipate before the loop restarts. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "A wide, terrifying 16-bit pixel art shot of the Sultan's Palace in Zanzibar being shelled, SNES RPG cutscene style. Massive explosions rock the ornate stone structure. Dust, smoke, and debris fill the air. Catfolk soldiers are seen scrambling and fleeing amidst the ruins. Intense, chaotic lighting and dynamic destruction. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A wide, terrifying 16-bit pixel art shot of the Palace being shelled. The camera is positioned low, looking up at the collapsing structure. A large section of the palace wall cracks and falls, releasing huge plumes of dust and smoke (looping particle effect). A single catfolk soldier (protagonist) runs desperately across the foreground, stumbling slightly (looping run/stumble). Continuous, violent camera shake. Dynamic flashes of light from ongoing shelling in the distance. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 16,
+      "image_prompt": "A dark, tragic 16-bit pixel art scene showing the Zanzibari armed sloop, completely ablaze and sinking rapidly into the choppy waters, SNES RPG cutscene style. Thick smoke billows. Catfolk sailors are struggling in the water. The silhouette of a massive British warship looms ominously in the background. Limited, muted color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A dark, tragic 16-bit pixel art scene of the sloop sinking. The camera performs a slow, mournful tilt down towards the water. Flames lick high from the wooden deck (dynamic fire animation). A catfolk sailor (protagonist) clinging to a broken mast weakly waves his arm for help before slumping (looping micro-animation). Water splashes violently near the sinking hull. Thick, dark smoke pours into the sky. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 17,
+      "image_prompt": "A dramatic, high-angle 16-bit pixel art shot of the top of the palace mast, SNES RPG cutscene style. A catfolk soldier, defeated and covered in dust, is hastily lowering the large, tattered Zanzibari flag. Smoke hangs heavy in the air. Strong sense of defeat. Limited color palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A dramatic, high-angle 16-bit pixel art shot of the palace mast. The camera performs a slow, subtle zoom out, emphasizing the destruction below. The defeated catfolk soldier (protagonist) slowly pulls the rope, causing the large, tattered flag to slide down the pole (looping descent). Dust and fine debris rain down lightly around the mast. The flag gently billows and collapses in the wind. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 18,
+      "image_prompt": "A somber, cinematic 16-bit pixel art scene of the aftermath, SNES RPG cutscene style. In the foreground, a single British Marine (catfolk, immaculate uniform, only a slight scratch on his cheek) stands rigid, surveying the devastation. Background shows ruined Zanzibari architecture and a fallen catfolk soldier in the rubble. Muted, dusty colors. Dramatic sidelighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "A somber, cinematic 16-bit pixel art scene of the aftermath. The camera performs a slow, handheld micro-dolly forward. The British Marine (catfolk protagonist) slowly wipes the sweat/dust from his cheek with a gloved hand, then returns to his rigid posture (looping gesture). Dust motes hang heavily and drift slowly in the stagnant air. Faint smoke still curls from the rubble. The Marine's tail twitches once, reflecting slight unease. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}
