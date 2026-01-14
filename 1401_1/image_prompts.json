@@ -1,0 +1,95 @@
+{
+  "topic": "Самый успешный серийный убийца в истории… оказался болезнью",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, dramatic volumetric lighting. A single, tall anthropomorphic catfolk figure, cloaked and ominous, stands centered against a dark, foggy backdrop. The catfolk is wearing accurate 14th-century robes, suggesting a grim reaper or plague doctor aesthetic (without the mask). A faint, sickly green glow emanates from the shadows. Serious, cinematic mood. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, highly detailed, dramatic lighting. A tall, cloaked catfolk figure stands against a swirling, dark backdrop. Soft micro-dolly push-in on the figure (camera movement). 2.5D parallax scrolling of the foreground fog layer. The catfolk protagonist slowly lowers their head and slightly shifts their weight (looping movement). Faint, green/yellow dust particles drift continuously across the scene. Subtle flickering light source. The catfolk’s tail sways slowly, and their ears twitch once per loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, oppressive atmosphere. A wide, desolate landscape view, mid-14th century Europe. A lone anthropomorphic catfolk survivor stands on a high ridge, looking down into a vast, dark valley filled with countless, highly stylized 16-bit grave markers and piles of rubble, symbolizing mass death. The sky is dark and stormy. Serious, cinematic mood. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, vast, desolate landscape. A lone catfolk survivor stands on a ridge overlooking a valley of death. Slow, sweeping horizontal pan (left to right) across the valley floor, emphasizing the scale of destruction (camera movement). 2.5D parallax in the distant graves and foreground hill. The catfolk protagonist slowly raises their chin, taking a deep, visible breath (looping movement). Subtle dust devils spin in the distance. Oppressive, moving shadows cast by the stormy clouds. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, historical accuracy. A detailed, busy street scene in a 14th-century European city (timber-framed buildings, cobblestones). Several anthropomorphic catfolk citizens in accurate medieval attire are walking. The lighting is bright but casts deep, uneasy shadows. Focus on the architectural detail and the density of the populace before the plague. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, busy 14th-century city street. Soft, slow tilt-down shot, starting from the rooftops and settling on the street level (camera movement). 2.5D parallax layering of buildings and street furniture. Catfolk citizens walk slowly and purposefully in the background (micro-animation). Smoke gently rises from a chimney (looping particle effect). A protagonist catfolk pauses in the foreground flow of traffic, looking quickly left and right with suspicion (looping movement). Foreground lanterns flicker softly. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, mystery, and dread. A dark, foggy medieval harbor scene at dawn or dusk. Rough wooden docks and pylons in the foreground. A single, massive, unfamiliar cargo ship is moored, silhouetted against the heavy mist. The water is murky and still. Serious, cinematic mood. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, dark, foggy harbor scene. Slow, creeping dolly forward towards the mysterious ship (camera movement). Heavy, low fog rolls across the water and docks (parallax and particle effect). The ship’s mast and rigging creak slightly. A protagonist catfolk figure, partially hidden by a dock piling, slowly peeks out from behind the wood, looking towards the ship (looping movement). Water subtly laps against the dock pylons. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, focus on the vector of disease. Extreme close-up shot of a weathered, rough wooden ship's gangway or dock plank. The shadow of a massive ship looms above. Several dark, stylized 16-bit pixel shapes representing rats are visible near the bottom edge, suggesting movement and filth. Dark, ominous lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, tight close-up on a dirty wooden dock plank. Subtle micro-dolly shot, panning slightly down the plank (camera movement). Faint, oily shimmer on the murky water in the background. Highly stylized rats quickly dart across the foreground plank in a loop (protagonist/main movement). Fine dust particles kick up momentarily as the rats move. The wooden surface appears greasy and damp. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, intense suffering. A catfolk peasant or merchant, dressed in simple 14th-century clothing, stumbles violently and clutches their chest and neck in obvious, agonizing pain, leaning against a rough stone wall. Expression of extreme distress and fever. Harsh, dramatic shadows emphasize the suffering. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, focused on suffering. Gentle, micro-handheld camera sway, emphasizing the victim's instability (camera movement). The afflicted catfolk gasps repeatedly, shoulders rising violently (looping movement). Their hand trembles visibly as it grips the stone wall. Heavy breathing animation. Sweat glistens on their fur. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, grotesque symptoms. Tight close-up shot focused on the neck and collarbone area of a suffering anthropomorphic catfolk. Their fur is matted. Dark, stylized, menacing pixel clusters (representing buboes) are visible on the skin/fur, illuminated by a sickly yellow light. Extreme close-up perspective. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, extreme close-up on the afflicted area. Very slight macro dolly zoom in on the stylized buboes (camera movement). The lighting pulses slowly with a sickly yellow/green hue. The catfolk's chest rapidly rises and falls (struggling to breathe, looping movement). A stylized bead of sweat or moisture slowly drips down the matted fur/skin. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, finality. A catfolk figure lying completely still and lifeless on a dirty, shadowed cobblestone street. A single, dramatic, vertical beam of sunlight cuts through the darkness, highlighting the figure's limp hand. Overwhelming sense of stillness and despair. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, focus on a lifeless figure on the street. Slow, mournful tilt-up shot, starting close to the ground near the body and ending on the desolate street scene (camera movement). Faint dust motes drift lazily and continuously in the dramatic shaft of sunlight (particle effect). A nearby oil lamp or torch flickers rapidly and erratically. The ambient shadows slowly deepen and lighten (dynamic light). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, deserted cityscape. A wide shot of a recognizable, stylized 14th-century European city (Gothic architecture, stone bridge, canals). The streets and public squares are completely empty. Scattered debris and silence. The mood is eerie and desolate. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, wide shot of an empty 14th-century city. Slow, consistent horizontal pan (right to left) across the deserted cityscape (camera movement). 2.5D parallax separation of foreground debris and background buildings. Subtle heat haze shimmers over the stone buildings. A banner or flag hangs limply from a high window, occasionally twitching with a microscopic gust of wind (looping micro-animation). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, overwhelming mortality. A grim scene on a main thoroughfare. Several inert catfolk shapes are covered loosely by tattered cloth. A lone, utterly exhausted catfolk (a hastily dressed grave digger) stands slumped against a rough stone wall, their shovel dropped nearby. Desperate, dark lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, focus on exhaustion and despair. Slow, creeping dolly forward towards the slumped grave digger catfolk (camera movement). Heavy, hot air shimmers distorting the background. The grave digger protagonist slowly lifts their head, surveys the scene with despair, and then slowly lowers it again, resting their forehead against the wall (looping movement). Subtle movement of flies/insects (small pixels) near the covered bodies. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, social collapse. A narrow, dark medieval alleyway. An anthropomorphic catfolk figure, clearly dressed as an official (priest or doctor attire, historically accurate), is seen running away in terror, glancing frantically over their shoulder. Dynamic perspective emphasizing speed and panic. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, focused on a panicked escape. Quick, short lateral dolly shot, tracking the fleeing catfolk official (camera movement). The protagonist catfolk's cloak billows dramatically behind them as they run (looping cloth animation). Their tail is tucked tight. Dust and dirt particles kick up momentarily behind their feet. The catfolk quickly turns their head to check behind them before snapping it forward again (looping movement). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, abstract representation of statistics. Dramatic overhead view of a stylized, dark 14th-century map of Europe. The map is subtly overlaid with expanding, ominous, dark red/black pixel clusters representing the overwhelming spread of death. Ominous, dramatic lighting from above. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, abstract map representation. Gentle overhead tilt down onto the stylized map (camera movement). The dark pixel clusters representing the plague subtly pulse and flicker with a faint, unnatural red light (protagonist/main animation). Smoke or wisps of shadow slowly drift across the map surface. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, overwhelming solitude. Extreme wide shot of rolling hills and vast empty fields (rural European landscape). A single, tiny, anthropomorphic catfolk figure stands perfectly centered on the distant horizon line, dwarfed by the empty expanse. Overwhelming sense of loss and isolation. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, extreme wide shot of an empty landscape. Very slow, high-angle crane shot, pulling back slightly to reveal more of the empty fields (camera movement). The wind rustles the tall grass in the foreground (parallax and particle effect). The solitary catfolk protagonist slowly adjusts their cloak against the wind and shifts their stance (looping movement). Distant clouds move slowly across the massive sky. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, societal contrast. A scene dramatically divided by light and shadow: on the left, crumbling, dark medieval structures symbolizing the past; on the right, newly emerging, simpler, robust buildings symbolizing the future. An anthropomorphic catfolk stands squarely between the two sides, looking thoughtful. Dramatic, high-contrast lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, focus on transition. Slow, smooth horizontal pan across the dividing line, moving from the crumbling past structure to the emerging future structure (camera movement). Dust settles on the crumbling side. The catfolk protagonist slowly turns their head, looking deliberately from the left (past) to the right (future), a contemplative gesture (looping movement). Shadows shift subtly across the scene. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, power shift. A scene set in a workshop or field. A strong, working-class anthropomorphic catfolk, dressed in clean, simple 14th-century attire, stands tall and confident, holding a stylized tool (hammer or scythe). In the background, a noble catfolk (in faded finery) looks on with clear resentment or resignation. Assertive pose, dramatic lighting from below. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, focus on newfound power. Gentle camera tilt up, focusing on the powerful, confident stance of the working-class catfolk (camera movement). The protagonist catfolk slowly and deliberately raises their chin and tightens their grip on the tool (looping movement). The noble in the background subtly shifts their weight, indicating unease. Soft light glints off the metal tool. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 16,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, unseen threat. A dark, dramatic scene in a shadowed alley. An anthropomorphic catfolk stands looking upward fearfully. The air above them is filled with highly stylized, tiny, black and red pixel dots swirling ominously, representing unseen bacteria. Macro/micro contrast. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, macro to micro reveal. Extreme close-up dolly zoom out, starting from the swirling stylized bacteria pixels and pulling back to reveal the catfolk looking up fearfully (camera movement). The bacteria particles swirl continuously in place (looping particle effect). The catfolk protagonist slightly flinches or takes a small, hesitant step back (looping movement). Subtle, sickly green light pulses within the air. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 17,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, knowledge and hope. An anthropomorphic catfolk researcher, wearing simple protective historical attire, stands in a dimly lit, laboratory-like setting (still 16-bit style). They are holding a stylized glass vial that glows with a faint, confident blue light, representing medicine. Focused, determined expression. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, focus on resolution. Slow, subtle pan across the researcher catfolk’s face and then down to the glowing vial they hold (camera movement). The blue light from the vial subtly flickers and pulses (dynamic light). The researcher protagonist catfolk nods once, slowly and confidently, their ears twitching slightly (looping movement). Faint steam or vapor gently rises from the vial. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 18,
+      "image_prompt": "Cinematic 16-bit pixel art, visible pixels, limited color palette, grand scale closing shot. A majestic, wide shot of a massive, ancient, stylized stone archway or ruin. A lone, small anthropomorphic catfolk figure is framed perfectly in the archway, looking out towards a distant, unknown future. Dramatic sunset or sunrise lighting casting long, cinematic shadows. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "16-bit pixel art, seamlessly loopable 3-second clip. Cinematic, grand scale closing. Slow, soft tilt-up and gentle dolly back (crane shot) to emphasize the scale of the archway and the smallness of the catfolk against the sky (camera movement). Sun rays flicker continuously through the distant clouds (dynamic light). The catfolk protagonist slowly raises one hand, pointing vaguely towards the distant horizon in a gesture of looking forward (looping movement). Their cloak gently moves in the breeze. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "topic": "Он выиграл Олимпиаду… не зная, что участвует",
+  "language": "ru",
+  "target_seconds": 60,
+  "segments": 18,
+  "tts_engine": "elevenlabs",
+  "image_engine": "gemini",
+  "keep_artifacts_flag": false,
+  "created_at": "2026-01-15T02:16:33"
+}
