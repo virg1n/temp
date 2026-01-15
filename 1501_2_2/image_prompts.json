@@ -1,0 +1,80 @@
+{
+  "topic": "Он стал королём, потому что был… единственным трезвым",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Cinematic wide shot of the Protagonist (Ginger Tabby catfolk in deep forest-green tunic) standing perfectly still and alert in a lavish, torch-lit medieval feasting hall. The floor is littered with overturned goblets and sleeping catfolk lords sprawled unconscious. Dramatic lighting, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Low-angle shot. The Protagonist (Ginger Tabby catfolk in deep green tunic) stands still, observing the chaos. Soft, slow camera dolly movement forward. Torches flicker slightly, casting dynamic shadows on the stone walls. Fine dust motes drift in the air near the light sources. The Protagonist slowly blinks and subtly adjusts his posture, his tail giving a soft, slow twitch. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Close-up on a heavy, dark wooden table piled high with empty, ornate wine flagons, spilled ale, and discarded food. A fat, drunken, sleeping catfolk noble is slumped over the table, his paw hanging limp, barely visible in the background. Extremely messy, dramatic, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Tight shot focusing on the mess of spilled drinks and flagons on the table. Soft camera pan across the sticky, wet surface of the table. A small puddle of spilled dark red wine slowly expands. Dynamic, flickering light from an unseen fire. Steam or condensation subtly rises from the spilled liquid. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium shot inside a grand, medieval hall. The Protagonist (Ginger Tabby catfolk in deep green tunic) is seated stiffly at the edge of a long banquet table, looking uncomfortable. Richly dressed catfolk heirs are aggressively drinking and arguing, gesturing wildly. Chaos is setting in. Limited palette, dramatic shadows. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium shot. The Protagonist (Ginger Tabby catfolk) sits alertly. The camera slightly tilts up, emphasizing the height of the hall. Two drunken catfolk lords in the background loudly slap the table and laugh. The Protagonist slowly turns his head, observing them with disdain, his whiskers twitching slightly. Cloth banners hanging from the rafters gently sway. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Wide shot, focusing on massive wooden barrels stacked high in a dark corner of the feasting hall, emphasizing the sheer quantity of alcohol. Servants (catfolk) look exhausted. The Protagonist (Ginger Tabby catfolk) stands near the barrels, watching the process with an expression of weary disgust. Limited palette, dark mood. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Wide shot, emphasizing the scale of the operation. The Protagonist (Ginger Tabby catfolk) stands near the stacked barrels. Soft camera dolly back, revealing the immense size of the hall. A servant catfolk struggles to lift a heavy pitcher. Small drops of spilled liquid drip slowly from the barrels. The Protagonist subtly shakes his head, a slight, disapproving gesture. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Close-up on the floor of the hall. Rich tapestries and discarded food litter the stone. Several heavily armored, richly dressed catfolk nobles are sprawled unconscious. The Protagonist's (Ginger Tabby catfolk) clean boot/paw is visible stepping carefully over a sleeping hand. Dramatic, low lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Low-angle medium shot of the floor, focusing on the unconscious lords. Soft camera pan across the scene of wreckage. The Protagonist's (Ginger Tabby catfolk) legs and lower body are visible as he slowly and deliberately takes a single, careful step over a sprawling noble. The heavy breathing (snoring) of the sleeping figures causes their chests to rise and fall rhythmically. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dramatic portrait shot of the Protagonist (Ginger Tabby catfolk, deep green tunic). He is standing alone, leaning against a stone pillar in a dimly lit section of the hall. He looks composed, alert, but slightly melancholic. Focus is on his serious, unwavering gaze. Backlighting emphasizes his silhouette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Close-up on the Protagonist (Ginger Tabby catfolk). Soft camera zoom/dolly in on his face, emphasizing his alertness. He slowly turns his head, surveying the silent hall. His ears slightly twitch, listening. Fine dust particles catch the light filtering from a high window. His chest rises and falls with calm, steady breathing. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Close-up on the Protagonist's hand (Ginger Tabby catfolk paw) resting near a pristine, untouched pewter goblet. The goblet stands in sharp contrast to the surrounding chaotic mess of spilled liquid and crumpled napkins on the table. The Protagonist's expression is one of grim determination. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Close-up shot of the untouched goblet and the Protagonist's hand. Soft camera tilt down onto the surface of the table. The Protagonist slowly and deliberately moves his paw away from the goblet, emphasizing his refusal. A nearby torch casts a shimmering reflection on the pewter. A tiny insect buzzes briefly near the cup. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dramatic exterior shot of the castle gatehouse at midnight. A large wooden gate is violently splintering inward. Silhouettes of heavily armored catfolk soldiers (the invaders) are visible rushing through the gap. Lit only by moonlight and the faint glow of torches inside. Dark, ominous mood. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Exterior shot of the castle gatehouse. Dynamic camera shake and soft zoom out as the large wooden gate splinters inward. Heavy dust and small wooden splinters fly into the air. The invading catfolk silhouettes rush forward slightly, their cloaks fluttering. The moonlight shifts subtly across the stone walls. Loopable (the breach action must reset subtly). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium shot inside the hall entrance. A group of heavily armed Northern catfolk soldiers stop abruptly, looking confused and shocked, staring at the scene of mass drunken collapse. The Protagonist (Ginger Tabby catfolk) is visible far in the background, standing unnoticed in the shadows, observing the invaders. Limited palette, high contrast. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium shot focusing on the invading catfolk soldiers who have just entered. Soft camera pan across their confused faces. One soldier slowly lowers his ready sword, looking around in disbelief. The Protagonist (Ginger Tabby catfolk) is stationary in the background. Light from the entrance flickers, creating moving shadows. The soldiers' armor slightly glints as they shift weight. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Extreme wide, high-angle shot (overhead perspective) showing the vast feasting hall floor. Dozens of unconscious catfolk nobles are scattered like dolls among the wreckage. The Protagonist (Ginger Tabby catfolk), appearing small but distinct, walks deliberately through the maze of bodies toward the center of the room. Cinematic scale. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. High-angle wide shot of the hall floor littered with bodies. Soft camera dolly down and slight tilt toward the Protagonist (Ginger Tabby catfolk) who is making his way through the chaos. He takes two slow, measured steps. The unconscious figures occasionally twitch or groan softly. Fine dust motes rise slightly as he walks. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium close-up. The Protagonist (Ginger Tabby catfolk) stands tall, grasping a heavy, functional longsword pulled from a nearby guard's scabbard. His expression is focused and determined. The background shows the blurred chaos of sleeping bodies. Dramatic, heroic lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium close-up on the Protagonist (Ginger Tabby catfolk) holding the heavy sword. Soft camera zoom in on his resolute face. He slowly and deliberately adjusts his grip on the hilt, testing the weight. His ears are flattened slightly in determination, and his tail flicks rapidly. The metal of the sword subtly reflects the torchlight. Loopable (focusing on the grip adjustment and readiness). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Cinematic low-angle shot. The Protagonist (Ginger Tabby catfolk, holding the sword) is standing atop a small dais. He is dramatically raising a large, heavy royal banner (simple, distinctive pattern). His mouth is open in a defiant shout directed toward the invaders, who are visible shrinking in the distance. Heroic composition, strong backlight. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Cinematic low-angle shot. The Protagonist (Ginger Tabby catfolk) stands elevated, holding the royal banner high. The camera slightly pans up, following the movement of the banner. The banner fabric violently ripples and snaps in an imaginary wind. The Protagonist maintains his shouting pose, his chest heaving slightly. Dynamic light flares as the standard catches the torchlight. Loopable (the movement of the banner and the pose). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Wide shot focusing on the hall entrance. The Northern catfolk soldiers are scrambling, turning and running back out the broken gate, looking fearful and confused. The Protagonist (Ginger Tabby catfolk) is visible in the midground, still standing defiantly under the banner. Chaos of retreat. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Wide shot of the hall entrance. Soft camera pan, tracking the panicked retreat of the Northern catfolk soldiers. They stumble over each other, their chainmail rattling. Dust rises heavily from the floor as they run. The Protagonist (Ginger Tabby catfolk) stands motionless, watching them flee, his expression changing subtly from defiance to grim satisfaction. Loopable (the chaotic running motion). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium shot of the throne room. The Protagonist (Ginger Tabby catfolk), now wearing a simple but regal crown, is seated firmly on the large stone throne. Two disheveled, confused catfolk lords are visible in the foreground, rubbing their heads, just waking up on the cold floor, looking up at him in shock. Bright morning light streams through a high window. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Medium shot in the throne room. The Protagonist (Ginger Tabby catfolk) sits on the throne. Soft camera tilt down from the throne to the waking lords. One of the lords slowly pushes himself up onto one elbow, blinking rapidly in confusion. The Protagonist slowly raises one hand, resting his chin on his knuckles, a subtle gesture of authority. Sunlight filtering through the high window shifts slightly. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Grand, final cinematic portrait. The Protagonist (Ginger Tabby catfolk), now King, stands facing the viewer, fully armored (simple, functional armor over his green tunic) and wearing the crown. He holds a scepter, looking wise and resolute. He stands before a grand, clean hall. Deep, rich colors, powerful composition. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Grand portrait shot of the King (Protagonist, Ginger Tabby catfolk) standing resolute. Soft, slow camera zoom out, revealing the scale of the throne room. He slowly nods once, a gesture of quiet confidence. His cloak subtly billows behind him, animated by a slight draft. Subtle magical shimmer on the scepter. Loopable. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}

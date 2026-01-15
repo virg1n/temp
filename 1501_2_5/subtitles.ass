@@ -1,0 +1,207 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,10,0,5,60,60,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Самая
+Dialogue: 0,0:00:00.34,0:00:00.62,Default,,0,0,0,,Самая {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}глупая
+Dialogue: 0,0:00:00.62,0:00:01.02,Default,,0,0,0,,глупая {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}казнь.
+Dialogue: 0,0:00:01.40,0:00:01.68,Default,,0,0,0,,казнь. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Человек
+Dialogue: 0,0:00:01.68,0:00:01.88,Default,,0,0,0,,Человек {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}умер
+Dialogue: 0,0:00:01.88,0:00:02.00,Default,,0,0,0,,умер {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}от
+Dialogue: 0,0:00:02.00,0:00:02.44,Default,,0,0,0,,от {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}собственной
+Dialogue: 0,0:00:02.44,0:00:02.88,Default,,0,0,0,,собственной {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}бороды.
+Dialogue: 0,0:00:03.50,0:00:03.96,Default,,0,0,0,,бороды. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Встречайте
+Dialogue: 0,0:00:03.96,0:00:04.34,Default,,0,0,0,,Встречайте {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}ганса
+Dialogue: 0,0:00:04.34,0:00:05.06,Default,,0,0,0,,ганса {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Штайнингера.
+Dialogue: 0,0:00:05.42,0:00:06.10,Default,,0,0,0,,Штайнингера. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Бургамистра,
+Dialogue: 0,0:00:06.18,0:00:06.36,Default,,0,0,0,,Бургамистра, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}чья
+Dialogue: 0,0:00:06.36,0:00:06.90,Default,,0,0,0,,чья {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}гордость,
+Dialogue: 0,0:00:06.94,0:00:07.08,Default,,0,0,0,,гордость, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}стала
+Dialogue: 0,0:00:07.08,0:00:07.30,Default,,0,0,0,,стала {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}его
+Dialogue: 0,0:00:07.30,0:00:07.90,Default,,0,0,0,,его {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}проклятием.
+Dialogue: 0,0:00:08.28,0:00:08.38,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}В
+Dialogue: 0,0:00:08.38,0:00:09.58,Default,,0,0,0,,В {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}1567
+Dialogue: 0,0:00:09.58,0:00:10.28,Default,,0,0,0,,1567 {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}году
+Dialogue: 0,0:00:10.28,0:00:10.78,Default,,0,0,0,,году {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}его
+Dialogue: 0,0:00:10.78,0:00:11.00,Default,,0,0,0,,его {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}борода
+Dialogue: 0,0:00:11.00,0:00:11.46,Default,,0,0,0,,борода {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}достигала
+Dialogue: 0,0:00:11.46,0:00:11.70,Default,,0,0,0,,достигала {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}почти
+Dialogue: 0,0:00:11.70,0:00:12.00,Default,,0,0,0,,почти {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}двух
+Dialogue: 0,0:00:12.00,0:00:12.34,Default,,0,0,0,,двух {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}метров
+Dialogue: 0,0:00:12.34,0:00:12.54,Default,,0,0,0,,метров {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}в
+Dialogue: 0,0:00:12.54,0:00:12.84,Default,,0,0,0,,в {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}длину.
+Dialogue: 0,0:00:13.28,0:00:13.46,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Это
+Dialogue: 0,0:00:13.46,0:00:13.64,Default,,0,0,0,,Это {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}была
+Dialogue: 0,0:00:13.64,0:00:13.94,Default,,0,0,0,,была {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}самая
+Dialogue: 0,0:00:13.94,0:00:14.20,Default,,0,0,0,,самая {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}длинная
+Dialogue: 0,0:00:14.20,0:00:14.44,Default,,0,0,0,,длинная {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}борода
+Dialogue: 0,0:00:14.44,0:00:14.60,Default,,0,0,0,,борода {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}в
+Dialogue: 0,0:00:14.60,0:00:14.80,Default,,0,0,0,,в {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}мире,
+Dialogue: 0,0:00:14.92,0:00:15.30,Default,,0,0,0,,мире, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}абсолютный
+Dialogue: 0,0:00:15.30,0:00:15.64,Default,,0,0,0,,абсолютный {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}рекорд.
+Dialogue: 0,0:00:16.14,0:00:16.34,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Чтобы
+Dialogue: 0,0:00:16.34,0:00:16.48,Default,,0,0,0,,Чтобы {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}не
+Dialogue: 0,0:00:16.48,0:00:17.10,Default,,0,0,0,,не {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}спотыкаться,
+Dialogue: 0,0:00:17.14,0:00:17.18,Default,,0,0,0,,спотыкаться, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}он
+Dialogue: 0,0:00:17.18,0:00:17.72,Default,,0,0,0,,он {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}сворачивал
+Dialogue: 0,0:00:17.72,0:00:17.96,Default,,0,0,0,,сворачивал {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}ее
+Dialogue: 0,0:00:17.96,0:00:18.10,Default,,0,0,0,,ее {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}и
+Dialogue: 0,0:00:18.10,0:00:18.38,Default,,0,0,0,,и {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}прятал
+Dialogue: 0,0:00:18.38,0:00:18.48,Default,,0,0,0,,прятал {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}в
+Dialogue: 0,0:00:18.48,0:00:19.00,Default,,0,0,0,,в {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}специальный
+Dialogue: 0,0:00:19.00,0:00:19.40,Default,,0,0,0,,специальный {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}кожаный
+Dialogue: 0,0:00:19.40,0:00:19.70,Default,,0,0,0,,кожаный {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}карман
+Dialogue: 0,0:00:19.70,0:00:19.90,Default,,0,0,0,,карман {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}на
+Dialogue: 0,0:00:19.90,0:00:20.36,Default,,0,0,0,,на {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}поясе.
+Dialogue: 0,0:00:20.80,0:00:20.92,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Но
+Dialogue: 0,0:00:20.92,0:00:21.46,Default,,0,0,0,,Но {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}однажды
+Dialogue: 0,0:00:21.46,0:00:21.54,Default,,0,0,0,,однажды {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}в
+Dialogue: 0,0:00:21.54,0:00:21.84,Default,,0,0,0,,в {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}жаркий
+Dialogue: 0,0:00:21.84,0:00:22.06,Default,,0,0,0,,жаркий {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}день
+Dialogue: 0,0:00:22.06,0:00:22.66,Default,,0,0,0,,день {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}раздался
+Dialogue: 0,0:00:22.66,0:00:23.00,Default,,0,0,0,,раздался {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}крик.
+Dialogue: 0,0:00:23.52,0:00:23.82,Default,,0,0,0,,крик. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Город
+Dialogue: 0,0:00:23.82,0:00:24.36,Default,,0,0,0,,Город {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Бравнауна
+Dialogue: 0,0:00:24.36,0:00:24.64,Default,,0,0,0,,Бравнауна {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}иння
+Dialogue: 0,0:00:24.64,0:00:25.00,Default,,0,0,0,,иння {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}охватил
+Dialogue: 0,0:00:25.00,0:00:25.42,Default,,0,0,0,,охватил {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}страшный
+Dialogue: 0,0:00:25.42,0:00:25.72,Default,,0,0,0,,страшный {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}пожар.
+Dialogue: 0,0:00:25.72,0:00:26.62,Default,,0,0,0,,пожар. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Ганс
+Dialogue: 0,0:00:25.72,0:00:26.62,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Ганс
+Dialogue: 0,0:00:26.62,0:00:27.08,Default,,0,0,0,,Ганс {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}охваченный
+Dialogue: 0,0:00:27.08,0:00:27.64,Default,,0,0,0,,охваченный {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}паникой
+Dialogue: 0,0:00:27.64,0:00:27.84,Default,,0,0,0,,паникой {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}и
+Dialogue: 0,0:00:27.84,0:00:28.50,Default,,0,0,0,,и {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}необходимостью
+Dialogue: 0,0:00:28.50,0:00:28.88,Default,,0,0,0,,необходимостью {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}спасать
+Dialogue: 0,0:00:28.88,0:00:29.14,Default,,0,0,0,,спасать {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}людей
+Dialogue: 0,0:00:29.14,0:00:30.06,Default,,0,0,0,,людей {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}бросился
+Dialogue: 0,0:00:30.06,0:00:30.20,Default,,0,0,0,,бросился {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}к
+Dialogue: 0,0:00:30.20,0:00:30.58,Default,,0,0,0,,к {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}выходу.
+Dialogue: 0,0:00:30.92,0:00:31.04,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Он
+Dialogue: 0,0:00:31.04,0:00:31.32,Default,,0,0,0,,Он {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}забыл
+Dialogue: 0,0:00:31.32,0:00:31.42,Default,,0,0,0,,забыл {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}о
+Dialogue: 0,0:00:31.42,0:00:31.70,Default,,0,0,0,,о {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}главном
+Dialogue: 0,0:00:31.70,0:00:32.20,Default,,0,0,0,,главном {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}правиле.
+Dialogue: 0,0:00:32.38,0:00:32.52,Default,,0,0,0,,правиле. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Он
+Dialogue: 0,0:00:32.52,0:00:32.66,Default,,0,0,0,,Он {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}не
+Dialogue: 0,0:00:32.66,0:00:32.94,Default,,0,0,0,,не {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}успел
+Dialogue: 0,0:00:32.94,0:00:33.14,Default,,0,0,0,,успел {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}убрать
+Dialogue: 0,0:00:33.14,0:00:33.38,Default,,0,0,0,,убрать {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}свою
+Dialogue: 0,0:00:33.38,0:00:34.02,Default,,0,0,0,,свою {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}роскошную,
+Dialogue: 0,0:00:34.08,0:00:34.14,Default,,0,0,0,,роскошную, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}но
+Dialogue: 0,0:00:34.14,0:00:34.68,Default,,0,0,0,,но {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}смертельно
+Dialogue: 0,0:00:34.68,0:00:35.14,Default,,0,0,0,,смертельно {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}опасную
+Dialogue: 0,0:00:35.14,0:00:35.62,Default,,0,0,0,,опасную {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}бороду.
+Dialogue: 0,0:00:36.06,0:00:36.16,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Он
+Dialogue: 0,0:00:36.16,0:00:36.48,Default,,0,0,0,,Он {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}бежал
+Dialogue: 0,0:00:36.48,0:00:36.64,Default,,0,0,0,,бежал {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}по
+Dialogue: 0,0:00:36.64,0:00:36.94,Default,,0,0,0,,по {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}узкой
+Dialogue: 0,0:00:36.94,0:00:37.30,Default,,0,0,0,,узкой {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}каменной
+Dialogue: 0,0:00:37.30,0:00:37.86,Default,,0,0,0,,каменной {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}лестнице,
+Dialogue: 0,0:00:37.86,0:00:38.02,Default,,0,0,0,,лестнице, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}когда
+Dialogue: 0,0:00:38.02,0:00:38.18,Default,,0,0,0,,когда {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}его
+Dialogue: 0,0:00:38.18,0:00:38.62,Default,,0,0,0,,его {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}огромная
+Dialogue: 0,0:00:38.62,0:00:39.00,Default,,0,0,0,,огромная {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}седая
+Dialogue: 0,0:00:39.00,0:00:39.36,Default,,0,0,0,,седая {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}борода
+Dialogue: 0,0:00:39.36,0:00:40.42,Default,,0,0,0,,борода {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}выскользнула
+Dialogue: 0,0:00:40.42,0:00:40.54,Default,,0,0,0,,выскользнула {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}из
+Dialogue: 0,0:00:40.54,0:00:40.66,Default,,0,0,0,,из {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}-под
+Dialogue: 0,0:00:40.66,0:00:41.14,Default,,0,0,0,,-под {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}контроля.
+Dialogue: 0,0:00:41.70,0:00:42.28,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Внезапно,
+Dialogue: 0,0:00:42.28,0:00:42.36,Default,,0,0,0,,Внезапно, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}на
+Dialogue: 0,0:00:42.36,0:00:42.70,Default,,0,0,0,,на {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}середине
+Dialogue: 0,0:00:42.70,0:00:43.04,Default,,0,0,0,,середине {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}спуска,
+Dialogue: 0,0:00:43.04,0:00:43.22,Default,,0,0,0,,спуска, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}он
+Dialogue: 0,0:00:43.22,0:00:43.66,Default,,0,0,0,,он {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}наступил
+Dialogue: 0,0:00:43.66,0:00:43.78,Default,,0,0,0,,наступил {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}на
+Dialogue: 0,0:00:43.78,0:00:43.92,Default,,0,0,0,,на {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}нее
+Dialogue: 0,0:00:43.92,0:00:44.10,Default,,0,0,0,,нее {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}всем
+Dialogue: 0,0:00:44.10,0:00:44.56,Default,,0,0,0,,всем {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}весом.
+Dialogue: 0,0:00:44.98,0:00:45.38,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Тяжость,
+Dialogue: 0,0:00:45.64,0:00:45.74,Default,,0,0,0,,Тяжость, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}тела
+Dialogue: 0,0:00:45.74,0:00:45.90,Default,,0,0,0,,тела {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}и
+Dialogue: 0,0:00:45.90,0:00:46.42,Default,,0,0,0,,и {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}инерция,
+Dialogue: 0,0:00:46.50,0:00:46.94,Default,,0,0,0,,инерция, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}мгновенно
+Dialogue: 0,0:00:46.94,0:00:47.52,Default,,0,0,0,,мгновенно {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}опрокинули
+Dialogue: 0,0:00:47.52,0:00:47.66,Default,,0,0,0,,опрокинули {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}его
+Dialogue: 0,0:00:47.66,0:00:48.00,Default,,0,0,0,,его {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}вперед,
+Dialogue: 0,0:00:48.00,0:00:48.18,Default,,0,0,0,,вперед, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}как
+Dialogue: 0,0:00:48.18,0:00:48.76,Default,,0,0,0,,как {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}подсечка.
+Dialogue: 0,0:00:49.20,0:00:49.74,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Бургамистер
+Dialogue: 0,0:00:49.74,0:00:50.06,Default,,0,0,0,,Бургамистер {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Ганс
+Dialogue: 0,0:00:50.06,0:00:50.68,Default,,0,0,0,,Ганс {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Штайнингер
+Dialogue: 0,0:00:50.68,0:00:50.82,Default,,0,0,0,,Штайнингер {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}не
+Dialogue: 0,0:00:50.82,0:00:51.30,Default,,0,0,0,,не {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}сгорел.
+Dialogue: 0,0:00:51.76,0:00:51.88,Default,,0,0,0,,сгорел. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Он
+Dialogue: 0,0:00:51.88,0:00:52.22,Default,,0,0,0,,Он {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}упал
+Dialogue: 0,0:00:52.22,0:00:52.44,Default,,0,0,0,,упал {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}и
+Dialogue: 0,0:00:52.44,0:00:52.72,Default,,0,0,0,,и {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}сломал
+Dialogue: 0,0:00:52.72,0:00:52.92,Default,,0,0,0,,сломал {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}себе
+Dialogue: 0,0:00:52.92,0:00:53.30,Default,,0,0,0,,себе {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}шею.
+Dialogue: 0,0:00:53.30,0:00:53.86,Default,,0,0,0,,шею. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Он
+Dialogue: 0,0:00:53.30,0:00:53.86,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Он
+Dialogue: 0,0:00:53.86,0:00:54.26,Default,,0,0,0,,Он {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}погиб,
+Dialogue: 0,0:00:54.38,0:00:54.72,Default,,0,0,0,,погиб, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}задушенный
+Dialogue: 0,0:00:54.72,0:00:54.90,Default,,0,0,0,,задушенный {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}и
+Dialogue: 0,0:00:54.90,0:00:55.22,Default,,0,0,0,,и {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}убитый
+Dialogue: 0,0:00:55.22,0:00:55.54,Default,,0,0,0,,убитый {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}самым
+Dialogue: 0,0:00:55.54,0:00:55.94,Default,,0,0,0,,самым {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}длинным
+Dialogue: 0,0:00:55.94,0:00:56.42,Default,,0,0,0,,длинным {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}волосянным
+Dialogue: 0,0:00:56.42,0:00:56.86,Default,,0,0,0,,волосянным {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}покровом
+Dialogue: 0,0:00:56.86,0:00:56.96,Default,,0,0,0,,покровом {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}в
+Dialogue: 0,0:00:56.96,0:00:57.18,Default,,0,0,0,,в {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}истории
+Dialogue: 0,0:00:57.18,0:00:57.88,Default,,0,0,0,,истории {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}человечества.
+Dialogue: 0,0:00:58.32,0:00:58.58,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Сегодня
+Dialogue: 0,0:00:58.58,0:00:58.74,Default,,0,0,0,,Сегодня {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}его
+Dialogue: 0,0:00:58.74,0:00:59.08,Default,,0,0,0,,его {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}борода
+Dialogue: 0,0:00:59.08,0:00:59.36,Default,,0,0,0,,борода {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}–
+Dialogue: 0,0:00:59.36,0:00:59.48,Default,,0,0,0,,– {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}та
+Dialogue: 0,0:00:59.48,0:00:59.84,Default,,0,0,0,,та {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}самая
+Dialogue: 0,0:00:59.84,0:01:00.30,Default,,0,0,0,,самая {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}раковая
+Dialogue: 0,0:01:00.30,0:01:00.84,Default,,0,0,0,,раковая {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}храниться
+Dialogue: 0,0:01:00.84,0:01:00.96,Default,,0,0,0,,храниться {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}в
+Dialogue: 0,0:01:00.96,0:01:01.22,Default,,0,0,0,,в {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}музее
+Dialogue: 0,0:01:01.22,0:01:01.36,Default,,0,0,0,,музее {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}в
+Dialogue: 0,0:01:01.36,0:01:01.48,Default,,0,0,0,,в {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}его
+Dialogue: 0,0:01:01.48,0:01:01.68,Default,,0,0,0,,его {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}родном
+Dialogue: 0,0:01:01.68,0:01:02.16,Default,,0,0,0,,родном {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}городе.
+Dialogue: 0,0:01:02.50,0:01:02.68,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Она
+Dialogue: 0,0:01:02.68,0:01:02.84,Default,,0,0,0,,Она {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}до
+Dialogue: 0,0:01:02.84,0:01:03.00,Default,,0,0,0,,до {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}сих
+Dialogue: 0,0:01:03.00,0:01:03.18,Default,,0,0,0,,сих {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}пор
+Dialogue: 0,0:01:03.18,0:01:03.54,Default,,0,0,0,,пор {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}является
+Dialogue: 0,0:01:03.54,0:01:03.96,Default,,0,0,0,,является {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}самой
+Dialogue: 0,0:01:03.96,0:01:04.46,Default,,0,0,0,,самой {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}известной
+Dialogue: 0,0:01:04.46,0:01:04.96,Default,,0,0,0,,известной {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}причиной
+Dialogue: 0,0:01:04.96,0:01:05.58,Default,,0,0,0,,причиной {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}смерти.
+Dialogue: 0,0:01:05.96,0:01:06.06,Default,,0,0,0,,смерти. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}В
+Dialogue: 0,0:01:06.06,0:01:06.42,Default,,0,0,0,,В {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}категории
+Dialogue: 0,0:01:06.42,0:01:06.58,Default,,0,0,0,,категории {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}не
+Dialogue: 0,0:01:06.58,0:01:06.88,Default,,0,0,0,,не {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}лепых
+Dialogue: 0,0:01:06.88,0:01:07.38,Default,,0,0,0,,лепых {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}несчастных
+Dialogue: 0,0:01:07.38,0:01:07.92,Default,,0,0,0,,несчастных {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}случаев.
+Dialogue: 0,0:01:08.32,0:01:08.74,Default,,0,0,0,,{\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Подумайте
+Dialogue: 0,0:01:08.74,0:01:09.30,Default,,0,0,0,,Подумайте {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}дважды,
+Dialogue: 0,0:01:09.30,0:01:09.46,Default,,0,0,0,,дважды, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}прежде
+Dialogue: 0,0:01:09.46,0:01:09.70,Default,,0,0,0,,прежде {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}чем
+Dialogue: 0,0:01:09.70,0:01:10.12,Default,,0,0,0,,чем {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}отращивать
+Dialogue: 0,0:01:10.12,0:01:10.32,Default,,0,0,0,,отращивать {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}что
+Dialogue: 0,0:01:10.32,0:01:10.42,Default,,0,0,0,,что {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}-то
+Dialogue: 0,0:01:10.42,0:01:10.74,Default,,0,0,0,,-то {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}слишком
+Dialogue: 0,0:01:10.74,0:01:11.40,Default,,0,0,0,,слишком {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}длинное.
+Dialogue: 0,0:01:11.78,0:01:12.32,Default,,0,0,0,,длинное. {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}Подпишись,
+Dialogue: 0,0:01:12.38,0:01:12.50,Default,,0,0,0,,Подпишись, {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}чтобы
+Dialogue: 0,0:01:12.50,0:01:12.86,Default,,0,0,0,,чтобы {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}узнать
+Dialogue: 0,0:01:12.86,0:01:13.14,Default,,0,0,0,,узнать {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}больше
+Dialogue: 0,0:01:13.14,0:01:13.44,Default,,0,0,0,,больше {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}таких
+Dialogue: 0,0:01:13.44,0:01:13.92,Default,,0,0,0,,таких {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}безумных
+Dialogue: 0,0:01:13.92,0:01:14.32,Default,,0,0,0,,безумных {\fscx30\fscy30\t(0,120,\fscx100\fscy100)}фактов.
