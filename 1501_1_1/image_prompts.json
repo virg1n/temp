@@ -1,0 +1,80 @@
+{
+  "topic": "The shortest reign in history: Louis XIX",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Cinematic, dramatic lighting. A weary Siamese Catfolk protagonist (Louis XIX), dressed in a dark blue 1830s French military uniform with gold epaulets, stands isolated in a vast, dark, opulent royal chamber. The scene conveys immense historical weight and loneliness. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Slow dolly out from the Siamese Catfolk protagonist (Louis XIX, 1830s uniform) standing in the opulent chamber. Subtle light flicker from unseen chandeliers casts moving shadows on the floor. Dust motes drift in the air. Protagonist slowly raises his chin in a gesture of reluctant acceptance, then lowers it, breathing shallowly. His tail gives a single, nervous flick. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dramatic, high contrast. The Siamese Catfolk protagonist (Louis XIX, 1830s uniform) is silhouetted against a grand palace window, gazing down at a chaotic Parisian street scene below. The street is filled with the orange and red glow of 16-bit pixelated fires and smoke, indicating the July Revolution. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Soft handheld camera micro-shake. Intense fire glow and flickering light reflected dynamically on the palace window and the silhouetted Siamese Catfolk protagonist (Louis XIX). Smoke particles drift past the window. Protagonist slowly raises a gloved hand to gently rest it on the cold glass, then slowly pulls it away, expressing resignation. His uniform fabric subtly shifts with his breathing. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dim, somber lighting. The defeated older King (Charles X Catfolk, wearing heavy, dark robes) is slumped heavily in a massive, ornate royal chair, looking utterly broken. The Siamese Catfolk protagonist (Louis XIX, 1830s uniform) stands respectfully to the side, observing the collapse of the Bourbon monarchy. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Slow, subtle horizontal pan across the two catfolk figures. An unseen candle casts a violent, looping flicker, causing shadows to dance across the heavy wall tapestries. The old king's chest moves with heavy, looping breaths. The Siamese Catfolk protagonist (Louis XIX) shifts his weight subtly from one leg to the other, his tail giving a low, slow, looping swing. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Tense, close framing. The Siamese Catfolk protagonist (Louis XIX, 1830s uniform) stands next to a large, antique wooden desk. A stern, uniformed Catfolk minister points decisively at a waiting parchment and quill on the desk. Focus on the tension and the immediate demand for abdication. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Soft tilt down focusing on the waiting parchment and the Protagonist's hands. The Protagonist's gloved paw hovers just above the document, flexing the fingers and twitching slightly in deep hesitation (looping action). The minister's shadow subtly moves across the table surface as he impatiently waits. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dramatic cinematic close-up (head and shoulders) of the Siamese Catfolk protagonist (Louis XIX, 1830s uniform). His eyes are wide, reflecting profound internal conflict, weariness, and reluctance toward the impending power. Strong shadows define his features. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Very subtle micro zoom in/out (dolly). The Protagonist slowly turns his head slightly to the left, then gently returns to the center, avoiding the implied gaze of the camera/witnesses. His Siamese cat ears twitch nervously. His mustache/whiskers subtly vibrate with his shallow breathing. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Focus on action. The older King (Charles X Catfolk) is dramatically leaning over the desk, quill in hand, signing the abdication document. The Siamese Catfolk protagonist (Louis XIX) watches passively from the midground, a silent witness to the transfer of the crown. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Slow pan right, following the movement of Charles X's hand as the quill finishes the stroke and rests on the parchment (looping the final moment of signing). The Siamese Catfolk protagonist (Louis XIX) blinks slowly, absorbing the gravity of the change in status. The tip of the resting quill subtly reflects the light source. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Moment of realization. Medium shot of the Siamese Catfolk protagonist (Louis XIX). He is momentarily frozen, standing upright, suddenly illuminated by a strong, single beam of light filtering through a high window, emphasizing his brief elevation to King. The atmosphere is silent and heavy. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Slow, dramatic tilt up. The beam of light illuminating the Protagonist slowly brightens and dims in a gentle pulse. Protagonist slowly raises his chin slightly, holding the pose of the new king for a moment, then hesitantly lowers it. The gold braiding on his uniform subtly glints in the moving light. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Close-up on the Siamese Catfolk protagonist's face (Louis XIX). His expression is one of shock, terror, and dawning, overwhelming realization. The background is a blurry, dark corridor, emphasizing the speed and confusion of the moment. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Subtle, rapid micro-movement suggesting a sudden, sharp intake of breath. Protagonist's eyes widen slightly in shock, then rapidly narrow as he processes the title. The dark background subtly swirls like an atmospheric effect. His ears flatten slightly against his head in distress, then return to normal. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. High tension. The Siamese Catfolk protagonist (Louis XIX) stands in a narrow, high-ceilinged palace corridor. In the distance, silhouetted against a doorway, several shadowy Catfolk figures (new ministers) wait impatiently, their rigid postures demanding immediate action and transfer of power. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Slow dolly zoom (pulling back while zooming in, emphasizing confinement). The waiting ministers in the background subtly shift their weight, showing impatience. The Siamese Catfolk protagonist (Louis XIX) nervously fidgets with the cuff of his military uniform, rubbing the fabric between his thumb and forefinger (looping nervous habit). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Extreme threat. Low angle shot of the Siamese Catfolk protagonist (Louis XIX) standing near a heavy, dark wooden door, his back mostly to the viewer. Through a small crack or peephole, a terrifying red/orange glow and the chaotic, indistinct shapes of the pixelated revolutionary crowd are visible outside. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. The red/orange light shining through the door crack flickers violently, mimicking the chaos and fire outside. A subtle, low-frequency screen shake suggests the pounding of the crowd. Protagonist slowly puts his hand on the door handle, gripping it tightly until his knuckles whiten, then slowly releasing the tension (looping action of fear). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Extreme close-up on the desk surface. A non-protagonist hand places a fresh, crisp roll of parchment (the abdication document) directly in front of the Siamese Catfolk protagonist's gloved hand, which is resting on the desk. Focus on the immediate demand of the second signing. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Soft tilt down and dolly in on the parchment. The parchment subtly unrolls and settles on the desk surface with a slight ripple. The Protagonist's gloved hand slowly retreats a few pixels from the document, then inches back towards it again (looping reluctance). Subtle light glints off the fresh ink on the title line. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Profound sadness. The Siamese Catfolk protagonist (Louis XIX) gazes down intensely at the document of his personal abdication. His expression is profoundly sad and weary, acknowledging the brevity of his reign. Strong, overhead lighting casts deep, dramatic shadows. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Camera holds steady on the Protagonist's face and the document. His eyes slowly track across the surface of the parchment (implied reading). A single, highly pixelated tear slowly wells up in the corner of his eye and begins to fall (looping particle effect). His muzzle area subtly trembles with suppressed emotion. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Close-up on the hand. The Siamese Catfolk protagonist's gloved paw holds the quill, poised just above the parchment for the signature. The hand is visibly shaking, implied by subtle pixel displacement, conveying the tremor and hesitation before the final act. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Extremely tight close-up on the hand and pen. The quill trembles violently in the Protagonist's grasp. The tip of the pen slowly descends toward the paper, stops just short of touching the surface, then trembles again, looping the final moment of hesitation before the signature. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Aftermath. The Siamese Catfolk protagonist (Louis XIX) stands in the same opulent room, illuminated by the fading light of dusk. He holds the quill loosely, the signature complete. He looks empty and exhausted, reflecting on the twenty minutes of his reign. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Soft, slow pan away from the Protagonist, emphasizing the vast emptiness of the room. Dust motes drift visibly in the fading light beam (looping particles). Protagonist slowly drops the quill a short distance (it resets and drops again). His tail hangs motionless, then gives a single, slow, weary twitch. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Cinematic tableau. Epic, slightly low-angle shot of the Siamese Catfolk protagonist (Louis XIX) standing centrally, looking directly at the viewer. He is framed by dark, heavy velvet curtains, dramatically spotlighted. A defeated king, immortalized by the brevity of his rule. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Short, seamless loop. Slow, cinematic dolly in towards the Protagonist's face. The heavy velvet curtains behind him subtly billow and sway inward from an unseen draft (looping fabric animation). Protagonist closes his eyes slowly, takes a deep, visible breath, and then opens them with a profound look of historical recognition and acceptance. Soft, looping pixel grain overlay enhances the dramatic atmosphere. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}

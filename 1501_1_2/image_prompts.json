@@ -1,0 +1,95 @@
+{
+  "topic": "Он умер… и через год выиграл выборы",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Dramatic, serious mood. A distinguished male catfolk politician (grey/brown tabby, dark navy suit, burgundy tie, Mel Carnahan counterpart) is depicted as a spectral, transparent figure, overlaid upon a vibrant, victorious political rally background with stylized US flags. The contrast between the ghostly figure and the triumphant scene is stark. Limited color palette, visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Dramatic, serious mood. A spectral, transparent male catfolk politician (grey/brown tabby, dark navy suit, burgundy tie, Mel Carnahan counterpart) stands against a backdrop of a victorious political rally. The camera executes a slow, creeping dolly zoom onto the catfolk’s face. Atmospheric effect: the spectral figure subtly shimmers and pulses with ethereal light (looping micro-animation). Flags in the background gently ripple. The catfolk slowly raises his paw in a slight, spectral gesture of acknowledgment, then lowers it. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Dramatic, serious mood. The distinguished male catfolk politician (Protagonist) stands rigidly in a dimly lit, ornate legislative chamber, reminiscent of the Missouri State Capitol. Harsh, cinematic shadows define the scene. His expression is determined and unyielding. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Dramatic, serious mood. The distinguished male catfolk politician (Protagonist) stands firmly in a detailed, dimly lit legislative chamber. A slow, subtle dolly zoom focuses on his stern, unyielding expression. Atmospheric effect: dust motes float visibly in the sharp beams of light streaming from high windows (2.5D parallax effect). The catfolk's tail gives a slight, slow, authoritative swish (looping micro-animation). He subtly adjusts the collar of his suit jacket. Micro handheld camera movement. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Cinematic, serious mood. The distinguished male catfolk politician (Protagonist) is fiercely delivering a speech from a simple wooden podium. His arm is raised emphatically. Stylized US flags are visible in the background, framing him against a brightly lit stage area. Focus on the dynamic action. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Cinematic, serious mood. The distinguished male catfolk politician (Protagonist) stands at a podium, mid-speech. The camera executes a slow pan up from the level of the crowd towards the Protagonist. He performs a looping gesture: raising his paw emphatically for emphasis, holding it briefly, and then slowly lowering it. Stylized flag banners in the background gently ripple in a soft wind (micro-animation). His ears occasionally twitch with intensity. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Intense, serious mood. The distinguished male catfolk politician (Protagonist) and a rival catfolk politician (sleek black cat type, Ashcroft counterpart) stand nose-to-nose in a heated confrontation, illuminated by a harsh, focused spotlight. Their expressions are locked in mutual disdain. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Intense, serious mood. The Protagonist Catfolk and his rival are engaged in a tense standoff. A subtle micro handheld camera shake emphasizes the tension. The Protagonist Catfolk subtly shifts his weight from one foot to the other, his gaze never breaking (looping micro-step). His tail twitches once, sharply, close to the ground. Dynamic light glints off their suits. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Ominous, foreboding mood. The distinguished male catfolk politician (Protagonist) stands outside, looking up anxiously at a dark, stormy, swirling sky. He grips a small object (e.g., a map or phone) tightly. Cold, blue cinematic lighting dominates the scene. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Ominous, foreboding mood. The Protagonist Catfolk looks up at a stormy sky. Dark, heavy clouds rush quickly across the upper frame (2.5D parallax). The camera executes a slight, slow tilt down onto the Protagonist's anxious face. His ears flatten slightly against his head in anticipation, and his breathing is visibly heavy (looping micro-animation). Rain particles begin to fall lightly. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Serious, melancholic mood. A small, vintage propeller airplane is parked on a dark, wet tarmac at night. The distinguished male catfolk politician (Protagonist) is seen climbing the short steps into the cabin, looking back over his shoulder one last time. Dim, focused light from the airport structure. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Serious, melancholic mood. A small propeller airplane sits on a dark tarmac. The camera slowly tracks past the fuselage, emphasizing the size of the aircraft. A single, small navigation light on the wing flickers intermittently. The Protagonist Catfolk, halfway up the steps, turns his head slowly to look back at the viewer, holds the gaze, and then continues climbing the step (looping head turn). Ground mist swirls gently. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Tragic, silent ruin. A dense, dark forest clearing at night. Smoke rises from the scattered, recognizable fragments of a small plane wreckage. The ghostly silhouette of the Protagonist Catfolk is faintly visible near the ruin. Extreme contrast lighting, emphasizing shadows and destruction. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Tragic, silent ruin. A dark forest clearing with plane wreckage. Thick smoke curls and billows upwards slowly against the dark sky. Gentle camera tilt down onto the debris field. Flickering orange light (from a contained fire source) casts moving shadows on the wreckage and nearby trees. The ghostly silhouette of the Protagonist Catfolk slowly shifts position, looking down at the debris, then back up (looping movement). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Shocked, calculating mood. A group of serious catfolk politicians (in suits) gathered in a dimly lit office, huddled around a radio speaker, looking horrified but immediately calculating. A large campaign poster featuring the Protagonist Catfolk (deceased) is visible on the wall, draped with a small black ribbon. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Shocked, calculating mood. A slow pan across the faces of the gathered catfolk politicians in the office. One catfolk nervously adjusts his tie and blinks rapidly. The camera lingers on the campaign poster of the deceased Protagonist Catfolk; the image subtly pulses with a faint, internal glow (micro-animation). The shadows cast by the desk lamp subtly shift. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Bureaucratic, defining moment. A huge stack of slightly yellowed paper ballots fills the frame. A single finger (belonging to a catfolk, not the Protagonist) points directly at the highlighted area where the Protagonist Catfolk's name is printed. Extreme close-up shot. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Bureaucratic, defining moment. A vast stack of ballots dominates the frame. Slow focus pull from blurred foreground ballots to a sharp midground stack. The finger pointing at the Protagonist Catfolk's name gently retracts and points again, emphasizing the name (looping micro-motion). Gentle camera tilt down the stack of papers. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Frustrated, legal impasse. The transparent, ghostly figure of the distinguished male catfolk politician (Protagonist) stands behind a large wooden desk, overlooking frustrated catfolk clerks frantically shuffling massive law books and papers in a cluttered government office. Harsh, fluorescent light. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Frustrated, legal impasse. Catfolk clerks frantically shuffle papers in the foreground (2.5D parallax shift). The ghostly Protagonist Catfolk stands motionless, except for a slow, subtle nod of his head, acknowledging the unbreakable legal constraint (looping gesture). Ethereal particles float around the ghost. Camera slightly pans across the desk surface. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Tense, dramatic decision. A small group of catfolk strategists, including a determined female catfolk (Jean Carnahan counterpart), huddled around a table in a dark room. They are illuminated by a single, harsh desk lamp, casting deep shadows. The mood is grim and decisive. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Tense, dramatic decision. A slow, subtle camera orbit around the table in the tense meeting room. The female catfolk (Protagonist's wife) at the center takes a deep, decisive breath, and her tail gives a single, slow sweep on the floor (looping micro-animation). The harsh desk lamp subtly flickers, causing shadows to dance on their faces. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Somber campaign rally. A crowd of catfolk supporters standing solemnly, holding lit candles and stylized campaign symbols (no text). The portrait of the deceased Protagonist Catfolk is held up prominently, draped in a black ribbon. Nighttime setting. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Somber campaign rally. Candle flames flicker dramatically in the foreground, casting moving shadows on the grieving catfolk faces (2.5D parallax). A slow, gentle zoom onto the portrait of the deceased Protagonist Catfolk. The black ribbon draped across the portrait gently sways in a non-existent breeze. The catfolk supporters occasionally blink slowly. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Defiant, resolved mood. The female catfolk (Protagonist's wife, Jean) stands on a platform, fiercely looking out over the dark crowd, embodying defiance and political resolve against the opponent. She wears a determined expression. Strong backlighting emphasizes her silhouette. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Defiant, resolved mood. The camera executes a slow tilt up from the waist to the face of the female catfolk on the platform. She slowly clenches her fist, holding the tension, and then slowly relaxes it (looping gesture). Her ears twitch slightly with intense focus. Atmospheric light flares softly behind her. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Legacy, spiritual support. The transparent, ghostly figure of the Protagonist Catfolk stands protectively beside his wife (Jean), who is now dressed in sophisticated political attire. They both look forward, united in purpose. Subtle ethereal glow around the ghost. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Legacy, spiritual support. The ghostly Protagonist Catfolk slowly and subtly places a translucent paw on his wife's shoulder. She slightly turns her head towards the presence and offers a subtle, knowing smile of acknowledgment (looping micro-gesture). The ghostly figure gently fades in and out. Soft dolly movement emphasizing their shared forward gaze. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Strategic, cynical game. A detailed, dramatic pixel art chessboard. The pieces are stylized catfolk politicians. The Protagonist Catfolk's piece (the King, slightly spectral) is positioned to deliver a checkmate against the rival's piece. Dramatic overhead spotlighting emphasizes the final move. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Strategic, cynical game. The camera executes a gentle pan across the detailed pixel art chessboard, focusing on the checkmate position. A subtle, bright glint of light moves across the spectral Protagonist Catfolk's chess piece (micro-animation). A small amount of smoke or dry ice effect swirls around the pieces. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 16,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Astonishment, victory moment. A dark, tense room. A single catfolk clerk looks astonished at a large, stylized tally board (using visual bars/indicators, no numbers). The tally bar representing the deceased Protagonist Catfolk is clearly higher than the opponent's. Dramatic lighting focused on the board. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Astonishment, victory moment. The tally bar representing the Protagonist Catfolk slowly ticks up one final pixel block, confirming the victory (looping animation of the final tick). The catfolk clerk viewing the board slowly blinks in disbelief, his jaw slightly dropped. Subtle tilt up to capture the full height of the winning bar. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 17,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Overwhelming mandate. A vast, overwhelming wave of stylized voting slips (ballots) flowing toward the triumphant, yet ghostly, image of the Protagonist Catfolk. The volume of votes is visually massive, dwarfing the scene. Cinematic perspective. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Overwhelming mandate. A huge wave of voting slips flows and shifts in the foreground (2.5D parallax movement). The camera slowly dollies back, revealing the scale of the votes. The ghostly Protagonist Catfolk figure, illuminated by a faint internal light, gives a slow, slight, satisfied nod (looping gesture). No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 18,
+      "image_prompt": "Retro 16-bit pixel art (SNES RPG cutscene). Final triumph, succession. The female catfolk (Jean Carnahan) stands confidently on the floor of a grand US Senate chamber (pixel art representation of the Capitol). She is bathed in bright, golden light. The transparent, proud spirit of the Protagonist Catfolk watches from the gallery railing above. Visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Seamlessly looping retro 16-bit pixel art (SNES RPG cutscene). Final triumph, succession. Slow, majestic tilt up, emphasizing the height and grandeur of the Senate chamber. The female catfolk Protagonist counterpart smoothly adjusts the lapels of her jacket and exhales slowly, taking command of her new role (looping gesture). The transparent figure of the Protagonist Catfolk watches from above, subtly fading in and out with pride. Dynamic golden light reflecting off the marble floor. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}
