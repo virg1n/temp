@@ -1,0 +1,80 @@
+{
+  "topic": "The Pharaoh died... because of a mosquito",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. A vast, dimly lit Egyptian throne room. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) is slumped forward on his massive, obsidian throne, head bowed, his royal scepter and flail dropped and scattered near his feet. Dramatic lighting, deep shadows emphasize the tragic end of power. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. A vast, dimly lit Egyptian throne room. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) is slumped motionless on his throne. Slow, soft camera tilt up, revealing the scale of the silent room and the high ceiling. Micro-animation: The Pharaoh's gold accessories catch the flickering torchlight; his tail twitches slightly once per loop. Dust motes float slowly in the heavy air. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Wide shot of the Ancient Egyptian landscape at sunrise. Colossal stone statues of the Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) dominate the foreground, overlooking the fertile Nile river valley. Dramatic orange and purple sky, establishing the setting and the Pharaoh’s divine scale. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Slow, sweeping camera pan (left to right) across the Nile valley at dawn. Colossal statues of the Majestic Catfolk Pharaoh are partially obscured by morning mist, creating a strong 2.5D parallax effect with the river and palm trees. Micro-animation: The light subtly brightens/dims on the statues; mist slowly rolls across the water. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) stands resolute on a high cliff, overlooking a vast, stylized map of his kingdom stretching from arid desert sands (right) to the deep blue Mediterranean Sea (left). He holds his scepter firmly, surveying his domain. Strong, high-contrast sunlight. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Majestic Catfolk Pharaoh stands resolute on the high vantage point overlooking the stylized kingdom map. Soft, slow dolly-in towards the Pharaoh. Micro-animation: His linen kilt gently billows in the desert wind; the Pharaoh slowly turns his head to scan the horizon (looping movement). Heat haze subtly shimmers over the distant desert sands. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) stands on a raised dais, powerfully addressing a dense formation of thousands of disciplined Catfolk soldiers holding spears and shields. Overcast, serious mood. Focus on the sheer military scale and the Pharaoh's commanding presence. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Majestic Catfolk Pharaoh stands on the dais, commanding his army. Slow, slight camera pan across the front ranks of the massive Catfolk army. Micro-animation: The banners and standards gently ripple; the Pharaoh raises his hand/scepter slightly in a gesture of command, holding it momentarily, then lowering it (looping gesture). Dust kicks up softly from the marching ground. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. A colossal construction site. Dozens of Catfolk laborers are pulling massive stone blocks using ropes and ramps, building a towering pyramid/temple structure. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) stands in the foreground, supervising the monumental effort, his silhouette stark against the bright sun. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Colossal construction site. Slow camera tilt up the face of the unfinished pyramid/temple. Micro-animation: Laborers (background catfolk) strain against the ropes, their movement looping smoothly; dust motes swirl in the harsh sunlight. The Pharaoh slightly adjusts his grip on his flail, inspecting the work. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Close-up, low angle shot of the Majestic Catfolk Pharaoh's (Tabby, Nemes headdress, gold collar) heavily jeweled leg and ankle, resting on a cushion in a luxurious chamber. He is reaching down slightly to scratch the ankle. Subtly visible tiny red bite mark. Dramatic indoor lighting emphasizes the moment of initial irritation. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Close-up on the Pharaoh's lower leg and ankle in a lavish chamber. Soft, slow handheld camera movement, slightly swaying. Micro-animation: The Pharaoh's tail flicks once, and he subtly shifts his weight, indicating slight discomfort or itch; he makes a small, looping motion to rub his ankle. Soft light flickers from nearby oil lamps. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Extreme macro close-up shot, highly detailed pixels. A single, stylized, menacing mosquito (Anopheles) is perched on the golden striped fur of the Majestic Catfolk Pharaoh's skin, mid-bite. The background is blurred gold and linen. Dramatic, high-contrast focus on the invisible, deadly enemy. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Extreme macro close-up shot of the mosquito on the Pharaoh's fur. Slight, soft dolly-out revealing a small section of the Pharaoh's golden jewelry. Micro-animation: The mosquito's wings subtly vibrate; the Pharaoh's skin (fur) slightly shifts due to steady, natural breathing. Focus on the silent, deadly action. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) stands defiant in a battle scene, but looks confusedly at his hand. In the background, a defeated Scorpion Catfolk warrior and a broken arrow lie on the sand. In the foreground, a single, tiny mosquito hovers near his eye, unnoticed. High drama, golden hour lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Majestic Catfolk Pharaoh stands on a battlefield, looking around in confusion. Slow camera pan from the foreground debris to the Pharaoh's face. Micro-animation: The Pharaoh blinks and shakes his head slightly, trying to dismiss the annoying insect. The mosquito buzzes and loops around his face. Dust and smoke drift slowly across the scene. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar, now visibly sweating and pale) lies restlessly on his massive bed, tossing under heavy linen sheets. His eyes are closed, face contorted in feverish pain. Dark, sickly green lighting dominates the luxurious chamber, symbolizing illness. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Pharaoh suffers in bed. Slow, soft camera dolly-in towards his face. Micro-animation: The Pharaoh's chest heaves rapidly (feverish breathing); sweat glistens on his brow; he subtly grips the linen sheet tighter, then releases (looping gesture). The lighting flickers erratically, simulating extreme heat and delirium. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Two solemn Catfolk Priests (wearing white linen and jackal/ibis masks) and a Catfolk Doctor kneel helplessly beside the feverish Majestic Catfolk Pharaoh's bed. The Pharaoh is partially visible, suffering violently. The priests hold up their hands in despair and failure. Dramatic, somber, high-contrast lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Two Priests and a Doctor kneel beside the Pharaoh's sickbed. Soft, slow camera pan across the faces of the Priests, emphasizing their despair. Micro-animation: The Pharaoh shifts restlessly beneath the sheets; the Priests slowly shake their masked heads in defeat (looping gesture). Incense smoke wafts slowly upwards near the ceiling. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Extreme close-up on the Majestic Catfolk Pharaoh's heavily jeweled hand, clutching a useless, intricately carved golden amulet of protection (Eye of Horus). The hand is shaking violently due to fever. The background is abstract darkness mixed with pulsating red and sickly green light. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Extreme close-up on the Pharaoh's hand clutching the golden amulet. Slow, subtle camera zoom out, revealing the severity of his shaking. Micro-animation: The hand trembles continuously; the gold amulet slightly glints as the light shifts. The background red and green light pulses faintly, symbolizing the microscopic war within his blood. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Highly stylized, abstract biological scene. Massive, menacing, pixelated images of Plasmodium parasites (ring stage/schizonts) float aggressively in a dark red, blood-like background. In the bottom corner, a tiny silhouette of the Majestic Catfolk Pharaoh's face watches, terrified and overwhelmed. High contrast, visceral. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Highly stylized, abstract biological scene. Slow camera pan across the menacing, pixelated Plasmodium parasites. Micro-animation: The parasites slowly pulsate and drift across the screen; the Pharaoh's silhouette blinks once, showing fear, then watches again. Dark red fluid motion in the background suggests flowing blood. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. A dark, dramatic scene. The Majestic Catfolk Pharaoh (Tabby, Nemes headdress, gold collar) is seen as a ghost-like figure, fading away. Behind him, a massive, shadowy column of countless pixelated Catfolk spirits rises into the sky, all victims of the same cause. Focus is on a single, glowing red bite mark on the Pharaoh's ankle. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The Pharaoh's fading, ghost-like figure stands before the rising column of Catfolk spirits. Slow, continuous camera tilt up, following the column of spirits into the dark sky. Micro-animation: The spirits slowly drift upwards; the red bite mark on the Pharaoh's ankle faintly glows and pulses. The Pharaoh slowly raises his head in eternal despair, then lowers it (looping gesture). Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. High angle shot. The Majestic Catfolk Pharaoh's (Tabby, Nemes headdress) royal crook and flail lie broken and tarnished on the cold stone ground, symbolizing the collapse of his authority. Towering over them, rendered in immense scale, is a single, victorious, stylized mosquito silhouette. Dark, humiliating lighting. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. The broken crook and flail lie on the stone floor. Slow camera dolly-out, revealing the immense, victorious mosquito silhouette dominating the frame. Micro-animation: The mosquito's wings beat slowly, creating a subtle air disturbance; faint dust motes settle on the broken artifacts. The Pharaoh's Nemes headdress casts a subtle shadow that shifts slightly as if a cloud passed over. Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art, cinematic, limited palette. A desolate, sandy scene. The Majestic Catfolk Pharaoh's Nemes headdress and gold collar are half-buried in the sand, weathered and forgotten, symbolizing the ultimate failure of power. A single, tiny, perfect footprint of a mosquito is pressed into the sand nearby. Stark, pale desert lighting, emphasizing loneliness. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, cinematic, limited palette. Desolate desert scene. The Pharaoh's accessories are half-buried in the sand. Slow, soft camera tilt down, focusing intimately on the small mosquito footprint. Micro-animation: Fine sand particles gently blow across the buried gold artifacts; the desert air shimmers slightly. A faint, ethereal glow emanates from the forgotten Nemes headdress, then fades (looping light effect). Seamless loop. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}
