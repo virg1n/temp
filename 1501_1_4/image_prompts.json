@@ -1,0 +1,80 @@
+{
+  "topic": "Человек пережил расстрел, повешение и утопление",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Cinematic, dramatic lighting. A grizzled tabby catfolk protagonist, dressed in worn early 20th-century prison attire, stands defiant and stoic. He shows subtle scars. Background is a dramatic, stormy sky above rough prison walls. Limited palette, visible pixels. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Cinematic, dramatic lighting. A grizzled tabby catfolk protagonist, dressed in worn early 20th-century prison attire, stands defiant. Slow, gentle camera dolly-out. The protagonist's chest rises and falls heavily (breathing loop). Storm clouds move rapidly in the background (parallax effect). Dust and grit particles blow across the foreground. Protagonist slowly clenches his fists (heroic looping gesture). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dark, imposing interior of a 1915 military courtroom. The tabby catfolk protagonist stands rigidly, shackled, facing two severe, formally robed catfolk judges seated behind a massive wooden bench. High contrast, dramatic overhead lighting emphasizing the judgment. Historically accurate early 20th-century attire. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dark, imposing interior of a 1915 military courtroom. The tabby catfolk protagonist stands rigidly, shackled. Extremely slow camera tilt-up, tracking from the protagonist's shackles to his face. The catfolk judges' robes slightly billow (micro-animation). A flickering oil lamp casts moving shadows on the walls (dynamic light loop). Protagonist slowly turns his head slightly, locking eyes with the viewer (looping movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Execution courtyard at dawn, thick, cold fog hanging low. The tabby catfolk protagonist is tied to a rough wooden post or standing free, facing a line of 12 silhouetted catfolk soldiers (firing squad) in early 20th-century military uniforms. Extreme tension, high contrast between the fog and the dark figures. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Execution courtyard at dawn, thick fog. The tabby catfolk protagonist stands defiant, facing the distant, rigid firing squad. Subtle micro handheld camera sway. Fog particles drift slowly across the scene (parallax). The protagonist blinks slowly, then takes a deep, visible breath (heroic looping movement). The catfolk soldiers' rifle barrels glint slightly in the weak light. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Immediate aftermath. The tabby catfolk protagonist has fallen face down onto the rough dirt ground. A small, dark pool of pixelated blood spreads slowly beneath him. A stunned catfolk doctor in uniform kneels nearby, reaching out. Dramatic low angle. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Immediate aftermath. The tabby catfolk protagonist lies collapsed on the ground. Slow camera dolly-in toward the fallen figure. The pool of blood subtly expands and shimmers (micro-animation). Fine dust motes settle slowly. The doctor's hand hovers just above the protagonist's body, twitching in hesitation. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Extreme close-up shot. The tabby catfolk protagonist is lying injured, his eyes slightly open, glazed with pain but focused. A catfolk doctor's gloved hand is pressed firmly against his neck, checking for a pulse. Bandages are visible beneath the torn prison uniform. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Extreme close-up shot of the injured tabby catfolk protagonist. Focus on shallow, rhythmic chest movement (breathing loop). The doctor's fingers pressed against the neck twitch slightly, confirming the faint pulse. The protagonist's eyelids flutter weakly (heroic looping movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Prison office interior. The tabby catfolk protagonist (now bandaged) stands before a massive wooden desk. A furious, red-faced catfolk judge is slamming his paw down onto the desk in anger. High contrast, aggressive posture. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Prison office interior. A furious catfolk judge slams his paw down (looping micro-animation). Quick, localized camera shake focused on the impact. The tabby catfolk protagonist flinches slightly from the sound, then slowly raises his chin in renewed defiance (heroic looping movement). Dust rises from the desk and settles. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Exterior gallows, dark and stormy atmosphere. The tabby catfolk protagonist stands on the trapdoor platform, a thick hemp noose securely around his neck. A hooded catfolk executioner stands ready beside the lever. Dramatic rim lighting outlines the protagonist against the dark clouds. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Exterior gallows, dark and stormy atmosphere. Slow, subtle camera dolly-in towards the tabby catfolk protagonist's face. The hemp rope sways gently in the cold wind (micro-animation). The protagonist's ears flatten briefly in resignation, then return to position (heroic looping movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. The tabby catfolk protagonist suspended, dangling limp beneath the gallows platform. His body hangs heavy, stretched by gravity. Extreme cinematic focus on the tension of the rope and the stillness of the body. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. The tabby catfolk protagonist suspended, dangling limp. Micro handheld camera sway. The rope fibers slightly stretch and shift (looping texture animation). The fabric of the protagonist's prison uniform gently sways due to residual movement. Eerie, flickering shadows cast by the gallows structure. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. The tabby catfolk protagonist is laid out on a rough wooden stretcher, pale and bruised. A catfolk official, wearing a shocked expression, holds his wrist, confirming a weak pulse. Focus on the contrast between the paleness of the survivor and the dark wood. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. The tabby catfolk protagonist is laid out on a stretcher. Extremely gentle camera pan across his face. One of the protagonist's eyelids twitches weakly (heroic looping movement). Very shallow breathing loop. The official's hand trembles visibly in shock. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Wide shot of a densely packed, agitated crowd of mixed catfolk civilians and guards. They are reacting with awe, horror, and confusion, visible through open mouths and raised paws. The protagonist is visible being carried away in the distant midground. Cinematic lighting emphasizing the chaos. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Wide shot of a densely packed, agitated crowd. Slow camera pan across the foreground faces. The crowd exhibits small, localized shifts and head turns (visualizing agitation). Dust and dirt particles are kicked up and settle slowly. The protagonist's stretchered body is carried away slightly (slow parallax movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dark, ornate official chamber. Three authoritative catfolk figures (judges/officials) in formal attire are huddled around a large wooden table, pointing decisively at a blue area on a rolled-out map (representing the river). Grim and determined expressions. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Dark, ornate official chamber. Three authoritative catfolk figures huddled around a map. Dynamic flickering light loop from an unseen source (e.g., a fireplace), casting moving shadows across their faces. The central official's finger taps repeatedly on the map area (heroic looping gesture). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Muddy riverbank at dusk. The tabby catfolk protagonist, shackled, stands at the edge of the murky water. A heavy, dark, pixelated stone is being tied securely to his ankles by a rough catfolk guard. Desperation and grim resolve on the protagonist's face. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Muddy riverbank at dusk. Slow camera tilt-down focusing on the heavy stone being secured to the protagonist's ankles. The murky river surface gently ripples (micro-animation). The tabby catfolk protagonist shifts his weight slightly and takes a final, deep gulp of air (heroic looping movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Underwater scene, dark and murky green-blue lighting. The tabby catfolk protagonist is fully submerged, struggling weakly. Small streams of bubbles rise slowly from his mouth. His prison uniform fabric billows slightly in the unseen current. The heavy stone is visible tied to his legs. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Underwater scene, dark and murky green-blue lighting. Slow, vertical camera drift (dolly up). A continuous stream of small, slow-rising bubbles loops upward. The protagonist's tail and uniform fabric gently waft in the current (micro-animation). He weakly attempts to reach up with one hand (heroic looping movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Riverbank aftermath. The soaked tabby catfolk protagonist is pulled halfway onto the muddy bank by two rugged catfolk fishermen. A prominent, well-dressed catfolk official (Governor) stands over him, raising one paw in a decisive gesture of pardon. Dramatic, wet atmosphere. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Riverbank aftermath. The soaked tabby catfolk protagonist is pulled halfway onto the bank. Subtle micro handheld camera shake. Water drips continuously from the protagonist's sodden clothes onto the muddy ground (looping particle effect). The Governor's cape/cloak flutters gently in the wind. The protagonist coughs weakly once, then falls back into shallow breathing (heroic looping movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Warm, peaceful, simple bedroom interior, many decades later. The elderly tabby catfolk protagonist (now with a white muzzle and whiskers) is sleeping soundly in a comfortable bed. Soft, golden sunlight streams through a nearby window. Scene of ultimate peace and rest. Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, SNES RPG cutscene style. Warm, peaceful bedroom interior. Extremely gentle camera dolly-in toward the sleeping elderly tabby catfolk protagonist. His chest rises and falls slowly and rhythmically (breathing loop). Dust motes dance in the golden sunlight streaming through the window (particle effect). A curtain fabric gently billows near the window. Protagonist smiles faintly in his sleep (heroic looping movement). Visible pixels, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}
