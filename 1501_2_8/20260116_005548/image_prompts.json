@@ -1,0 +1,80 @@
+{
+  "topic": "Город, который взорвали специально — ради науки",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Protagonist Catfolk (Gray Tabby, thick glasses, 1950s trench coat, serious expression) standing alone on a perfectly manicured, empty 1950s suburban street (Survival Town). Rows of identical, pristine houses and lawns stretch into the distance under a dramatic, low-angle sunset. Retro 16-bit pixel art, SNES RPG cutscene style, cinematic composition. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Soft, slow dolly shot moving forward slightly down the empty suburban street. Protagonist Catfolk looks slowly left, then right, scanning the houses, tail twitching slightly. Subtle dust motes drift in the sunset light. Houses show 2.5D parallax shift. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style, dramatic lighting. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Close-up shot of the Protagonist Catfolk (Gray Tabby, thick glasses, 1950s trench coat) standing at a corner of the 'Survival Town' set, looking down with a heavy, contemplative expression. The background shows a sterile, perfect suburban house facade. Low-key dramatic lighting emphasizes shadow and unease. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Tight camera tilt-up from the Catfolk's hands (clutching a notepad) to their face. The Protagonist Catfolk slowly blinks, breathes, and subtly shakes their head in disbelief, their ears flattening slightly. Streetlights in the background flicker faintly. Soft handheld camera wobble and dramatic shadow movement. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Wide establishing shot of the perfectly manicured, quiet 1950s American suburb (Survival Town). Bright, sunny daylight. Identical pastel-colored houses, green lawns, and a pristine white picket fence. Protagonist Catfolk is visible walking slowly away from the camera in the midground, emphasizing the scale of the empty set. Retro 16-bit pixel art, SNES RPG cutscene style, vibrant 16-bit colors. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, smooth pan following the Protagonist Catfolk as they walk 2-3 steps along the sidewalk, observing the houses. Gentle breeze causes leaves on the trees and the Catfolk's coat hem to softly sway. Clear blue sky with subtle cloud movement. 2.5D parallax between the fence (foreground) and the houses (background). Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "View of a pristine, fully stocked 1950s Supermarket facade in Survival Town. The interior is dimly visible through large windows, showing rows of shelves. Protagonist Catfolk stands by the entrance, hand resting on the handle, gazing inside with a detached curiosity. Overcast lighting, emphasizing the artificiality. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Gentle zoom (dolly in) towards the supermarket window. Protagonist Catfolk slowly raises their hand to the glass, then pulls it back, showing hesitation. The fluorescent lights inside the store subtly hum and flicker. Dust particles visible floating near the window glass. Loopable clip, soft camera movement. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Interior view of a 1950s living room set. A stiff, featureless plastic mannikin (catfolk shape, colorless) is seated awkwardly on a sofa next to a table. Protagonist Catfolk stands in the doorway, framed by the dark entrance, observing the mannikin with a look of profound unease. Stark contrast between interior and exterior light. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Static shot focusing on the mannikin. Protagonist Catfolk slowly lowers their head and sighs, their tail twitching once. The mannikin remains perfectly still, but the shadow cast by the window shifts slightly due to atmospheric movement. Soft, dramatic interior lighting. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Extreme wide shot overlooking the entire Survival Town set, stretching out to the horizon. The town is bathed in cold, sterile light. Protagonist Catfolk is tiny in the foreground, standing behind a chain-link fence or barrier, looking out at the target zone. The sky is ominous, dark blue/purple. Retro 16-bit pixel art, SNES RPG cutscene style, deep shadow contrast. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, dramatic pan across the vast, empty townscape. Protagonist Catfolk slowly raises a gloved hand and points toward the center of the town, then drops the hand heavily. A slight, cold wind visibly rustles the debris near the fence line. 2.5D parallax on the town layout. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Interior of a temporary testing bunker or control room, filled with vintage 1950s scientific equipment (gauges, dials, wires). Protagonist Catfolk is intensely focused, adjusting a complex piece of monitoring equipment, wearing a scientist's apron over the coat. Harsh, clinical overhead light. Retro 16-bit pixel art, SNES RPG cutscene style, technical detail. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Close-up on the technical equipment. Protagonist Catfolk's hand gently turns a large dial, then pauses, breath held. The needles on the gauges tremble slightly. Small, looping electrical sparks or static jump between wires. Soft camera micro-shake (handheld effect). Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Dramatic, low-angle shot focused on a stylized, large mechanical countdown device (showing abstract segments instead of numbers). Protagonist Catfolk is visible in the foreground, illuminated by the red glow of the device, staring intently at the mechanism, sweat beading on their brow. Extreme tension. Retro 16-bit pixel art, SNES RPG cutscene style, high contrast. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Intense close-up on the Catfolk's face and the red-glowing device. The Protagonist Catfolk closes their eyes tightly for a moment, then opens them, bracing for impact. The red light pulsates rhythmically. Very subtle, rapid vibration/micro-shake of the entire frame, suggesting imminent force. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Extreme high-key shot. The landscape is instantly overexposed and bleached white by an blinding, intense nuclear flash filling the entire background. Protagonist Catfolk is seen momentarily shielding their face with their arm from behind thick observation glass, their shadow sharply defined by the sudden light. Orange and white dominate the limited palette. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Quick zoom out (dolly out) from the Catfolk's reacting face. The intense white light pulses rapidly, creating severe lens flare artifacts (pixel art style). Fine dust and debris immediately begin to rattle and fall inside the observation post. The Protagonist Catfolk flinches visibly, their coat flapping slightly from the distant shockwave. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Wide vertical composition showing a massive, towering mushroom cloud dominating the sky above the destroyed landscape. The ground below is scorched and desolate. Protagonist Catfolk stands alone in the foreground, surveying the devastation, their figure small against the overwhelming scale of the cloud. Dark, dusty atmosphere. Retro 16-bit pixel art, SNES RPG cutscene style, focus on scale. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, mournful camera tilt-up, following the vertical growth of the mushroom cloud. Protagonist Catfolk slowly raises their hand to adjust their glasses, then lowers their head in despair. Fine radioactive dust/ash particles slowly rain down from the sky. Subtle heat shimmer rising from the ground. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Protagonist Catfolk carefully stepping over rubble in the ruins of a street. The scene is smoky, grey, and devastated. In the midground, the shattered remains of a mannikin (plastic debris) are visible, half-buried in the debris. Dramatic spotlight effect from the smoky sky illuminates the destruction. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, cautious pan following the Catfolk's feet as they take one step forward, kicking up a puff of fine grey dust. Smoke and vapor lazily drift across the scene. The Protagonist Catfolk uses their hand to brush dust off their coat, then looks down at the wreckage. Loopable clip, soft handheld camera movement. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Close-up on a partially collapsed 1950s car wreck. A mannikin (catfolk shape) is slumped over the steering wheel, covered in dust and debris. Protagonist Catfolk peers in through the shattered windshield, their expression horrified. High detail on the cracked glass and twisted metal. Retro 16-bit pixel art, SNES RPG cutscene style, gritty texture. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, unnerving dolly shot that circles slightly around the car wreck. Protagonist Catfolk slowly reaches out a hand toward the mannikin inside the car, hesitates, and pulls the hand back, shaking their head slightly. Debris on the car hood shifts slightly due to wind. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Interior shot of a ruined house. A mannikin is positioned perfectly upright in a slightly melted armchair near a missing window frame, facing the blast epicenter. The background shows intense heat damage. Protagonist Catfolk stands silently observing the scene, notebook held loosely, reflecting the disturbing nature of the test. Retro 16-bit pixel art, SNES RPG cutscene style, desolate atmosphere. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Camera slowly zooms in on the mannikin in the chair. Protagonist Catfolk slowly lifts the notebook and begins to write (micro-animation of pen movement), then stops abruptly, unable to continue, dropping the hand. Harsh shadows from the ruins slightly shift due to atmospheric movement. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Extreme close-up on the grotesque remains of a catfolk mannikin, partially melted and fused into a piece of scorched wooden furniture (e.g., a desk or chair arm). The plastic is warped and dripping. Protagonist Catfolk's shadow falls over the melted plastic, emphasizing the horror. Intense, dramatic lighting focused on the fused object. Retro 16-bit pixel art, SNES RPG cutscene style, body horror implied by texture. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Slow, shuddering handheld camera movement focusing on the melted plastic mass. The plastic seems to shimmer slightly from residual heat (micro-animation). Protagonist Catfolk's visible breathing is heavy and labored; they turn their head away slowly in revulsion, then force themselves to look back. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Protagonist Catfolk standing silhouetted against the desolate, ruined landscape of Survival Town, looking toward the distant horizon where the mushroom cloud has dissipated into a heavy, dark cloud layer. They remove their glasses and hold them, their expression one of profound, world-weary realization. Wide, epic scope. Retro 16-bit pixel art, SNES RPG cutscene style, somber tones. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Soft, slow camera dolly back, revealing more of the vast ruined landscape. Protagonist Catfolk slowly puts their glasses back on, then clenches their fists tightly, making a slow, decisive turn to walk away from the destruction. Ash particles continue to drift down gently. A final, cold light glints off the glasses. Loopable clip. Retro 16-bit pixel art, SNES RPG cutscene style. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}
