@@ -1,0 +1,80 @@
+{
+  "topic": "The last moments of Pompeii, visualized in 16-bit pixel art, featuring catfolk citizens.",
+  "prompts": [
+    {
+      "id": 1,
+      "image_prompt": "Retro 16-bit pixel art, cinematic establishing shot of a bustling Roman street in Pompeii. Catfolk citizens in historically correct togas are laughing, playfully brushing light ash off their shoulders. In the foreground, Senator Catus (ginger tabby catfolk, purple-striped toga, serious expression) smiles skeptically, looking towards a distant, ominous plume rising from Mount Vesuvius. Dramatic lighting, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, soft dolly shot pulling back slightly, emphasizing the scale of the street. Catfolk citizens are laughing and gesturing lightheartedly. Senator Catus (ginger tabby) stands in the foreground, slowly turning his head from the laughing crowds to the distant, smoke-shrouded Vesuvius, his expression shifting to concern. Micro-animations: light ash particles drift down, togas gently sway, distant smoke billows slightly. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 2,
+      "image_prompt": "Retro 16-bit pixel art, wide shot of an idyllic, sun-drenched Pompeian street. White marble columns, clear blue sky, vibrant Roman frescoes visible on walls. Catfolk citizens walk leisurely. Senator Catus (ginger tabby catfolk, purple-striped toga) stands casually near a marble fountain, basking in the bright, peaceful atmosphere. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, slow pan right across the sunlit street with 2.5D parallax on columns and architecture. Senator Catus (ginger tabby) gently dips his hand into the fountain and shakes the water off his paw, his tail swishing once in relaxation. Micro-animations: water gently flows in the fountain, heat haze shimmers slightly above the marble, catfolk ears twitch subtly. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 3,
+      "image_prompt": "Retro 16-bit pixel art, close-up shot of Senator Catus (ginger tabby catfolk, purple-striped toga) sitting at a low Roman table (triclinium), focused on a plate of fruit. The background shows a window with a view of Vesuvius, which has a small, visible steam plume. Catus looks annoyed or dismissive, waving a paw dismissively at an unseen tremor. Interior lighting, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, slight, repeating handheld camera shake effect emphasizing the subterranean tremor. Senator Catus (ginger tabby) is taking a small bite of fruit, then pauses, looking mildly irritated by the subtle shaking, and rolls his eyes slightly before resuming his meal. Micro-animations: shadows flicker due to an internal oil lamp, dust motes float, Catus's whiskers vibrate slightly from the tremor. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 4,
+      "image_prompt": "Retro 16-bit pixel art, dramatic medium shot. The street is dimly lit, transitioning from morning light to twilight gloom. Fine, grey ash begins coating the ground. Senator Catus (ginger tabby catfolk, purple-striped toga) stands center frame, looking straight up at the darkening, orange-tinged sky with a look of dawning concern. Oppressive atmosphere, limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, slow tilt up from the ash-covered street to the oppressive, dark orange sky. Senator Catus (ginger tabby) slowly raises a paw and catches a few flakes of ash, observing them intently before they slip away. Micro-animations: fine ash particles fall steadily, the ambient light slowly dims and brightens slightly (looping the transition), Catus's tail slowly lowers in apprehension. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 5,
+      "image_prompt": "Retro 16-bit pixel art, wide shot in the Forum. Catfolk citizens are huddled together, some laughing and playfully throwing small handfuls of ash. Senator Catus (ginger tabby) watches them, shaking his head slightly, still skeptical but less amused. The scene is greyed out by the ash. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, soft pan left following a group of laughing catfolk in the background. Senator Catus (ginger tabby) is in the midground, observing their foolishness. He reaches down and brushes the heavy ash off his own shoulder with a quick, decisive gesture, then crosses his arms, conveying impatience. Micro-animations: light ash swirls on the ground, togas ripple slightly in a breeze. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 6,
+      "image_prompt": "Retro 16-bit pixel art, extreme wide shot of Pompeii, dominated by the colossal eruption column of Vesuvius. The column is a massive pillar of fire, smoke, and black ash reaching into the stratosphere. The town below is tiny, bathed in the sickly red glow reflecting off the smoke. Senator Catus (ginger tabby) is a small figure near the city wall, looking up in sheer terror. Limited, high-contrast palette (reds, blacks, grey). No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, dramatic reverse dolly shot pulling back from the city walls, emphasizing the scale. The eruption column pulses with internal fire and expands slightly at the top. Senator Catus (ginger tabby) shields his eyes with a raised arm, his body language frozen in shock, then slowly lowers his arm, unable to look away from the spectacle. Micro-animations: fire glows intensely within the smoke plume, distant ground vibrates, Catus's ears flatten against his head. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 7,
+      "image_prompt": "Retro 16-bit pixel art, extreme close-up on Senator Catus's face (ginger tabby catfolk). His eyes are wide with fear, illuminated only by a faint, sickly orange light coming from above. Large, hot chunks of pumice and ash rain down heavily around him, obscuring the background. The scene is almost entirely black, save for the particulate matter and the orange glow. Intense, claustrophobic. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, slight pan following the falling pumice. Senator Catus (ginger tabby) is breathing heavily (visible chest movement). He quickly looks left, then right, nervously, trying to orient himself in the pitch blackness. Micro-animations: large, hot pumice stones constantly fall and bounce off the ground/his toga, faint sparks glow briefly on impact, Catus's pupils dilate and contract rapidly in the low light. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 8,
+      "image_prompt": "Retro 16-bit pixel art, chaotic medium shot focused on the city gates. Dozens of catfolk, struggling and pushing, are jammed together trying to flee, their togas torn and faces panicked. Senator Catus (ginger tabby, looking desperate) is caught in the middle of the struggling crowd, his body angled toward the gates, visibly unable to move forward due to the crush. Limited, high-intensity color palette (red/black/grey). No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, subtle dolly push into the struggling mass, emphasizing the pressure. Senator Catus (ginger tabby) is caught, pushing forcefully with his arms against the surrounding catfolk in a looping effort to gain a single step forward, but failing. Micro-animations: chaotic jostling of the crowd, dust and heavy ash swirl up from the ground, Catus's face contorts in a silent, looping expression of desperation/effort. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 9,
+      "image_prompt": "Retro 16-bit pixel art, dramatic shot looking down a narrow, ash-covered Roman street. At the far end, a terrifying, glowing red cloud (pyroclastic surge) is visible, moving rapidly towards the viewer. Senator Catus (ginger tabby) is stumbling away in the foreground, looking back over his shoulder in utter horror at the approaching doom. Extreme contrast. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, fast pan following Senator Catus (ginger tabby) as he attempts a panicked, looping run/stumble down the street. The terrifying, glowing red pyroclastic surge visibly churns and advances rapidly in the background. Micro-animations: hot gas shimmers intensely within the cloud, Catus's legs pump in a frantic, repeating motion, small stones skip off the ground near his feet. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 10,
+      "image_prompt": "Retro 16-bit pixel art, extreme cinematic close-up, highly stylized. Senator Catus's face (ginger tabby) is illuminated fiercely by the approaching white-hot heat. His fur is starting to look singed. The background is a blur of speed and superheated gas/ash. Focus on the raw speed and lethal energy. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, severe camera shake (vibration) mimicking the imminent impact of the flow. Senator Catus (ginger tabby) instinctively raises his arms to shield his face, then lowers them slightly, caught in a loop of realizing the futility of resistance. Micro-animations: white-hot heat haze distorts the edges of the frame, small sparks fly off Catus's clothing, the background blurs slightly in a repeating, high-speed motion. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 11,
+      "image_prompt": "Retro 16-bit pixel art, abstract, high-contrast shot. Senator Catus (ginger tabby) is momentarily silhouetted against a blinding flash of white/orange light, representing the thermal shock. His posture is rigid, mid-stride, captured just before impact. The pixel edges are softened and glowing intensely due to the heat. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, subtle pulse of blinding white light emanating from the background. Senator Catus (ginger tabby) is frozen mid-motion, his body tensing up sharply, a single dramatic gasp (visualized by chest expansion) repeating before the light pulses again. Micro-animations: intense heat distortion shimmers across the entire image, the edges of the pixel art glow and bloom intensely with the heat. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 12,
+      "image_prompt": "Retro 16-bit pixel art, somber, focused medium shot. Senator Catus (ginger tabby) is now covered in a thin shell of ash, permanently frozen in a curled, defensive posture, knees drawn up, hands covering his head. The lighting is dim and dusty, emphasizing the stillness and finality of the pose. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, extremely slow, mournful tilt down over the frozen body of Senator Catus (ginger tabby), now a shell of ash. The figure is completely still. Micro-animations: only fine, lingering dust motes drift slowly through the air, shadows lengthen imperceptibly due to atmospheric shift, emphasizing the tragic stillness. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 13,
+      "image_prompt": "Retro 16-bit pixel art, cinematic shot of the plaster cast of the catfolk victim (Senator Catus's frozen pose). The cast is lying on a rough stone floor in an archaeological dig site. Modern tools (trowels, brushes) are visible nearby. Harsh, illuminating light from above, highlighting the texture of the plaster. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, very slow, deliberate dolly zoom focusing slightly on the detailed, frozen face and hands of the plaster cast of Senator Catus (ginger tabby). Micro-animations: fine archaeological dust settles slowly onto the cast, a single beam of light slowly shifts across the surface of the plaster, creating moving shadows. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 14,
+      "image_prompt": "Retro 16-bit pixel art, high-contrast dual image composition. Left side: Bright, sunny Pompeii street (idyllic) with laughing catfolk. Right side: Dark, ash-choked street (catastrophe) with the frozen, ash-covered form of Senator Catus visible. The dividing line is sharp and dramatic. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, slow push towards the dramatic visual juxtaposition. The camera pans slightly from the laughing, sunlit side (left) towards the dark, frozen side (right). On the left, a catfolk laughs and brushes ash; on the right, the dust motes drift over the frozen Catus. Micro-animations: subtle movement on the left (toga sway, smiling), absolute stillness on the right, save for the drifting ash. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    },
+    {
+      "id": 15,
+      "image_prompt": "Retro 16-bit pixel art, stylized shot of an ancient scroll or map, partially unrolled on a wooden table, suggesting hidden historical secrets. Senator Catus's (ginger tabby) hand, wearing a gold ring, rests meaningfully on the scroll. Warm, scholarly lighting. Limited palette. No text, no letters, no numbers, no signage, no subtitles, no UI.",
+      "video_prompt": "Retro 16-bit pixel art, seamless loop, slow pull-out (dolly back) revealing more of the ancient scroll and table. Senator Catus's (ginger tabby) hand slowly and deliberately taps the scroll twice with a claw, emphasizing the importance of the hidden text. Micro-animations: shadows from a nearby candle flicker softly, the edges of the scroll curl slightly, dust motes float in the candlelight. No text, no letters, no numbers, no signage, no subtitles, no UI."
+    }
+  ]
+}
