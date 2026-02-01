@@ -1,0 +1,246 @@
+{
+  "title": "Сейф в Стене: Честный Строитель и Забытое Состояние",
+  "topic": "Construction worker discovers a hidden safe full of cash and gold during demolition.",
+  "language": "ru",
+  "target_duration_seconds": 50.0,
+  "image_seconds": 1.515,
+  "has_main_character": true,
+  "main_character": {
+    "name": "Виктор",
+    "description": "Средних лет, крепкий строитель в оранжевом защитном жилете и желтой каске, слегка запыленный.",
+    "image_prompt": "A square portrait of a middle-aged, rugged construction worker, slightly dusty, wearing an orange safety vest and a yellow hard hat, looking surprised and curious. Cinematic lighting."
+  },
+  "fragments": [
+    {
+      "id": 1,
+      "start_sec": 0.0,
+      "end_sec": 1.515,
+      "narration": "В две тысячи десятом году, произошло невероятное событие в штате Огайо.",
+      "show_main_character": true
+    },
+    {
+      "id": 2,
+      "start_sec": 1.515,
+      "end_sec": 3.03,
+      "narration": "Виктор, обычный строитель, сносил старый дом.",
+      "show_main_character": true
+    },
+    {
+      "id": 3,
+      "start_sec": 3.03,
+      "end_sec": 4.545,
+      "narration": "Это была рутинная работа на окраине.",
+      "show_main_character": false
+    },
+    {
+      "id": 4,
+      "start_sec": 4.545,
+      "end_sec": 6.06,
+      "narration": "Вдруг, его кувалда ударила по пустоте.",
+      "show_main_character": true
+    },
+    {
+      "id": 5,
+      "start_sec": 6.06,
+      "end_sec": 7.575,
+      "narration": "Он обнаружил скрытую секцию.",
+      "show_main_character": true
+    },
+    {
+      "id": 6,
+      "start_sec": 7.575,
+      "end_sec": 9.09,
+      "narration": "За ней был вмурован старый сейф.",
+      "show_main_character": false
+    },
+    {
+      "id": 7,
+      "start_sec": 9.09,
+      "end_sec": 10.605,
+      "narration": "Сейф покрывал толстый слой пыли.",
+      "show_main_character": false
+    },
+    {
+      "id": 8,
+      "start_sec": 10.605,
+      "end_sec": 12.12,
+      "narration": "Виктор сразу понял: это не просто мусор.",
+      "show_main_character": true
+    },
+    {
+      "id": 9,
+      "start_sec": 12.12,
+      "end_sec": 13.635,
+      "narration": "Он вызвал бригадира и позвонил в полицию.",
+      "show_main_character": true
+    },
+    {
+      "id": 10,
+      "start_sec": 13.635,
+      "end_sec": 15.15,
+      "narration": "Разрешение на вскрытие заняло несколько часов.",
+      "show_main_character": false
+    },
+    {
+      "id": 11,
+      "start_sec": 15.15,
+      "end_sec": 16.665,
+      "narration": "Наконец, эксперты приступили к работе.",
+      "show_main_character": false
+    },
+    {
+      "id": 12,
+      "start_sec": 16.665,
+      "end_sec": 18.18,
+      "narration": "Они использовали специальное оборудование.",
+      "show_main_character": false
+    },
+    {
+      "id": 13,
+      "start_sec": 18.18,
+      "end_sec": 19.695,
+      "narration": "Напряжение росло с каждой секундой.",
+      "show_main_character": false
+    },
+    {
+      "id": 14,
+      "start_sec": 19.695,
+      "end_sec": 21.21,
+      "narration": "Внутри сейфа лежали деньги.",
+      "show_main_character": false
+    },
+    {
+      "id": 15,
+      "start_sec": 21.21,
+      "end_sec": 22.725,
+      "narration": "Много старых, свернутых банкнот.",
+      "show_main_character": false
+    },
+    {
+      "id": 16,
+      "start_sec": 22.725,
+      "end_sec": 24.24,
+      "narration": "И несколько золотых слитков.",
+      "show_main_character": false
+    },
+    {
+      "id": 17,
+      "start_sec": 24.24,
+      "end_sec": 25.755,
+      "narration": "Общая сумма поразила всех.",
+      "show_main_character": false
+    },
+    {
+      "id": 18,
+      "start_sec": 25.755,
+      "end_sec": 27.27,
+      "narration": "Это было около ста тридцати тысяч долларов.",
+      "show_main_character": false
+    },
+    {
+      "id": 19,
+      "start_sec": 27.27,
+      "end_sec": 28.785,
+      "narration": "А также пакет редких монет.",
+      "show_main_character": false
+    },
+    {
+      "id": 20,
+      "start_sec": 28.785,
+      "end_sec": 30.3,
+      "narration": "Виктор был ошеломлен, но сохранял спокойствие.",
+      "show_main_character": true
+    },
+    {
+      "id": 21,
+      "start_sec": 30.3,
+      "end_sec": 31.815,
+      "narration": "Полиция начала срочное расследование.",
+      "show_main_character": false
+    },
+    {
+      "id": 22,
+      "start_sec": 31.815,
+      "end_sec": 33.33,
+      "narration": "Спустя два дня, они нашли владельца.",
+      "show_main_character": false
+    },
+    {
+      "id": 23,
+      "start_sec": 33.33,
+      "end_sec": 34.845,
+      "narration": "Это была пожилая женщина из Калифорнии.",
+      "show_main_character": false
+    },
+    {
+      "id": 24,
+      "start_sec": 34.845,
+      "end_sec": 36.36,
+      "narration": "Ее семья потеряла дом в девяностых.",
+      "show_main_character": false
+    },
+    {
+      "id": 25,
+      "start_sec": 36.36,
+      "end_sec": 37.875,
+      "narration": "Сейф был забыт при спешном переезде.",
+      "show_main_character": false
+    },
+    {
+      "id": 26,
+      "start_sec": 37.875,
+      "end_sec": 39.39,
+      "narration": "Виктор без колебаний передал все ценности.",
+      "show_main_character": true
+    },
+    {
+      "id": 27,
+      "start_sec": 39.39,
+      "end_sec": 40.905,
+      "narration": "Он поступил честно, несмотря на искушение.",
+      "show_main_character": true
+    },
+    {
+      "id": 28,
+      "start_sec": 40.905,
+      "end_sec": 42.42,
+      "narration": "За благородный поступок он получил награду.",
+      "show_main_character": true
+    },
+    {
+      "id": 29,
+      "start_sec": 42.42,
+      "end_sec": 43.935,
+      "narration": "Владелица дала ему десять тысяч долларов.",
+      "show_main_character": false
+    },
+    {
+      "id": 30,
+      "start_sec": 43.935,
+      "end_sec": 45.45,
+      "narration": "И оплатила его семье недельный отпуск.",
+      "show_main_character": true
+    },
+    {
+      "id": 31,
+      "start_sec": 45.45,
+      "end_sec": 46.965,
+      "narration": "Один сейф изменил жизнь двух семей.",
+      "show_main_character": false
+    },
+    {
+      "id": 32,
+      "start_sec": 46.965,
+      "end_sec": 48.48,
+      "narration": "Виктор доказал, что честность приносит успех.",
+      "show_main_character": true
+    },
+    {
+      "id": 33,
+      "start_sec": 48.48,
+      "end_sec": 50.0,
+      "narration": "Урок: всегда смотрите, что скрыто в стенах.",
+      "show_main_character": false
+    }
+  ]
+}
